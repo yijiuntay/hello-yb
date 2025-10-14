@@ -1,9 +1,10 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  reactStrictMode: true,
   experimental: {
-    // This setting applies to Next.js 13+ (App Router)
-    // It tells Vercel to only include the required server files.
+    // This tells Next.js to treat these packages as Node.js dependencies
+    // only to be included in the server environment (API Routes, Server Components).
     serverComponentsExternalPackages: ["@prisma/client", "prisma"],
   },
 };
