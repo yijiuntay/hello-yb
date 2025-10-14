@@ -1,0 +1,126 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// ENUMS for data consistency
+enum ConstituencyType {
+  FEDERAL // P.xxx
+  STATE   // N.xx
+}
+
+enum DemographicType {
+  AGE
+  ETHNICITY
+}
+
+enum PledgeStatus {
+  Complete
+  InProgress
+  NoRecord
+}
+
+// 1. CONSTITUENCY
+// Stores Federal and State seat details (FN-1.1, FN-3.x)
+model Constituency {
+  id                      Int                 @id @default(autoincrement())
+  code                    String              @unique // e.g., P.101, N.01
+  name                    String
+  type                    ConstituencyType
+
+  // Relations
+  candidates              Candidate[]
+  electionResults         ElectionResult[]
+  demographics            ConstituencyDemographics[]
+}
+
+// 2. PARTY
+// Stores party names, logos, and official colors (FN-1.2, FN-2.4)
+model Party {
+  id         Int         @id @default(autoincrement())
+  name       String      @unique
+  acronym    String      @unique
+  logoUrl    String?     // Optional: Manually sourced
+  colorCode  String      // Hex color for Party Alignment Indicator (FN-2.4)
+
+  // Relations
+  candidates Candidate[]
+}
+
+// 3. CANDIDATE
+// Core entity for candidate details and comparison metrics (FN-1.2, FN-2.x)
+model Candidate {
+  id                       Int         @id @default(autoincrement())
+  name                     String
+  photoUrl                 String?     // Optional: Manually sourced (FN-1.2)
+
+  // Foreign Keys
+  partyId                  Int
+  party                    Party       @relation(fields: [partyId], references: [id])
+  constituencyId           Int         // The current seat the candidate is contesting
+  constituency             Constituency @relation(fields: [constituencyId], references: [id])
+
+  // Biography Metrics (FN-2.3)
+  isIncumbent              Boolean
+  parliamentServiceYears   Int         // Years of Parliamentary Service
+  highestEducationLevel    String?     // E.g., 'Degree', 'PhD' (Manual Curation: FN-2.3)
+
+  // Legislative Activity (FN-2.2)
+  legislativeActivityScore Int         // Number of Bills/Motions/Questions Tabled
+
+  // Relations
+  electionResults          ElectionResult[]
+  pledges                  Pledge[]
+}
+
+// 4. ELECTION RESULT
+// Historical data for Electoral History (FN-2.1) and Turnout Trend (FN-3.2)
+model ElectionResult {
+  id                      Int         @id @default(autoincrement())
+  electionYear            Int
+  constituencyId          Int
+  constituency            Constituency @relation(fields: [constituencyId], references: [id])
+
+  // Candidate-specific data (Historical Performance: FN-2.1)
+  candidateId             Int?
+  candidate               Candidate?  @relation(fields: [candidateId], references: [id])
+  voterMajorityPercent    Float?      // Majority % for the candidate in that seat/year
+  wasIncumbent            Boolean?    // Incumbency status in that specific election
+
+  // Constituency-wide data (Turnout Trend: FN-3.2)
+  voterTurnoutPercent     Float?      // Constituency turnout for that seat/year
+}
+
+// 5. CONSTITUENCY DEMOGRAPHICS
+// Breakdown of electorate by Age and Ethnicity (FN-3.1)
+model ConstituencyDemographics {
+  id                Int             @id @default(autoincrement())
+  constituencyId    Int
+  constituency      Constituency    @relation(fields: [constituencyId], references: [id])
+
+  demographicType   DemographicType // AGE or ETHNICITY
+  category          String          // e.g., '18-29', 'Malay'
+  percentage        Float           // Percentage of electorate
+}
+
+// 6. PLEDGE
+// Incumbent Accountability Tracker (FN-4.x)
+model Pledge {
+  id           Int          @id @default(autoincrement())
+  candidateId  Int          // Must link to an incumbent candidate (FN-4.x)
+  candidate    Candidate    @relation(fields: [candidateId], references: [id])
+
+  description  String       // Quantifiable promise text (FN-4.1)
+  status       PledgeStatus // Status tag: Complete, InProgress, NoRecord (FN-4.2)
+}
