@@ -1,103 +1,203 @@
-import Image from "next/image";
+import React from "react";
 
-export default function Home() {
-  return (
-    <div className="font-sans grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20">
-      <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
+const GlobalStyles = () => (
+  <style>{`
+    @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+    
+    .pixel-art-container {
+      font-family: 'Press Start 2P', cursive;
+      background-color: #3b82f6; /* vibrant blue */
+      background-image: 
+        linear-gradient(rgba(0, 0, 0, 0.1) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(0, 0, 0, 0.1) 1px, transparent 1px);
+      background-size: 10px 10px;
+      color: #ffffff;
+      /* For sharp, pixelated text */
+      -webkit-font-smoothing: none;
+      -moz-osx-font-smoothing: grayscale;
+      font-smooth: never;
+    }
+  `}</style>
+);
+
+// Component for the pixel-art style icons
+type PixelArtIconProps = {
+  icon: "mapPin" | "person" | "checkmark";
+};
+
+const PixelArtIcon = ({ icon }: PixelArtIconProps) => {
+  const icons = {
+    mapPin: (
+      <svg
+        width="48"
+        height="48"
+        viewBox="0 0 48 48"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        className="mx-auto md:mx-0"
+      >
+        <path
+          fillRule="evenodd"
+          clipRule="evenodd"
+          d="M24 0L28 0V4H24V0ZM20 4H24V8H20V4ZM28 4V8H32V4H28ZM16 8V12H20V8H16ZM32 8H36V12H32V8ZM12 12V16H16V12H12ZM36 12V16H40V12H36ZM12 16H8V20H12V16ZM40 16V20H44V16H40ZM8 20V24H12V20H8ZM44 20H40V24H44V20ZM12 24V28H16V24H12ZM36 24H40V28H36V24ZM16 28V32H20V28H16ZM32 28H36V32H32V28ZM20 32V36H24V32H20ZM28 32V36H32V32H28ZM24 36V40H28V36H24ZM24 40H20V44H24V40ZM24 44V48H28V44H24Z"
+          fill="black"
         />
-        <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
-          <li className="mb-2 tracking-[-.01em]">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] font-mono font-semibold px-1 py-0.5 rounded">
-              src/app/page.tsx
-            </code>
-            .
-          </li>
-          <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
-          </li>
-        </ol>
+        <path
+          d="M24 12L28 12V16H24V12ZM20 16V20H24V16H20ZM28 16H32V20H28V16ZM24 20V24H28V20H24Z"
+          fill="black"
+        />
+      </svg>
+    ),
+    person: (
+      <svg
+        width="48"
+        height="48"
+        viewBox="0 0 48 48"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        className="mx-auto md:mx-0"
+      >
+        <path d="M20 8H28V12H32V20H28V16H20V20H16V12H20V8Z" fill="black" />
+        <path d="M12 24H36V28H32V32H28V40H20V32H16V28H12V24Z" fill="black" />
+      </svg>
+    ),
+    checkmark: (
+      <svg
+        width="48"
+        height="48"
+        viewBox="0 0 48 48"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        className="mx-auto md:mx-0"
+      >
+        <path
+          d="M8 24H12V28H16V32H20V36H24V32H28V28H32V24H36V20H40V16H36V20H32V24H28V28H24V32H20V28H16V24H12V20H8V24Z"
+          fill="black"
+        />
+      </svg>
+    ),
+  };
+  return <div>{icons[icon]}</div>;
+};
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 w-full sm:w-auto md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
-        </div>
-      </main>
-      <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
-    </div>
+export default function App() {
+  const howItWorksSteps: {
+    icon: "mapPin" | "person" | "checkmark";
+    title: string;
+    description: string;
+  }[] = [
+    {
+      icon: "mapPin",
+      title: "Find Your Battlefield",
+      description:
+        "Pinpoint your electoral constituency. Know where you stand!",
+    },
+    {
+      icon: "person",
+      title: "Scout The Challengers",
+      description:
+        "Get a clear list of all candidates. See their stats and platforms.",
+    },
+    {
+      icon: "checkmark",
+      title: "Cast Your Decisive Vote",
+      description: "Armed with knowledge, make an informed choice. Victory!",
+    },
+  ];
+
+  return (
+    <>
+      <GlobalStyles />
+      <div className="flex flex-col min-h-screen pixel-art-container">
+        {/* Header Component */}
+        <header className="bg-blue-700 border-b-4 border-black">
+          <div className="container mx-auto px-4 py-4 flex justify-between items-center">
+            <h1 className="text-xl md:text-2xl text-yellow-300">Hello YB</h1>
+            <nav>
+              <a
+                href="#"
+                className="text-white hover:text-yellow-300 transition-colors"
+              >
+                Constituencies
+              </a>
+            </nav>
+          </div>
+        </header>
+
+        <main className="flex-grow">
+          {/* Hero Section */}
+          <section className="text-center py-20 md:py-32">
+            <div className="container mx-auto px-4">
+              <h2
+                className="text-5xl md:text-7xl text-yellow-300 mb-4"
+                style={{ textShadow: "4px 4px 0px #000" }}
+              >
+                Hello YB!
+              </h2>
+              <p className="text-xl md:text-2xl mb-8">
+                Get to Know Your Representative
+              </p>
+              <p className="max-w-2xl mx-auto mb-10 text-sm md:text-base leading-relaxed">
+                This site helps you get to know the candidates in your electoral
+                constituency. Accurate information for smart voters.
+              </p>
+              <a
+                href="#"
+                className="inline-block bg-green-500 text-white text-lg font-bold py-4 px-8 border-4 border-black rounded-none shadow-[8px_8px_0px_#000000] hover:bg-green-600 transition-transform duration-150 ease-in-out hover:-translate-y-1 hover:-translate-x-1 active:translate-y-0 active:translate-x-0 active:shadow-[4px_4px_0px_#000000]"
+              >
+                View Constituencies!
+              </a>
+            </div>
+          </section>
+
+          {/* Features Section */}
+          <section className="py-16 bg-blue-600 border-y-4 border-black">
+            <div className="container mx-auto px-4">
+              <h3
+                className="text-3xl md:text-4xl text-center text-yellow-300 mb-16"
+                style={{ textShadow: "3px 3px 0px #000" }}
+              >
+                Your Quest To Vote
+              </h3>
+              <div className="max-w-2xl mx-auto">
+                <div className="relative">
+                  {/* The vertical line */}
+                  <div
+                    className="absolute left-8 top-0 h-full w-1 bg-black opacity-50 hidden md:block"
+                    aria-hidden="true"
+                  ></div>
+
+                  <ul className="space-y-12">
+                    {howItWorksSteps.map((step, index) => (
+                      <li key={step.title} className="md:flex md:items-start">
+                        <div className="flex-shrink-0 z-10 flex items-center justify-center md:justify-start mb-4 md:mb-0">
+                          <div className="w-16 h-16 bg-yellow-300 border-4 border-black text-black flex items-center justify-center text-2xl">
+                            {index + 1}
+                          </div>
+                        </div>
+                        <div className="md:ml-8 bg-white text-black p-6 border-4 border-black shadow-[8px_8px_0px_rgba(0,0,0,0.8)] w-full text-center md:text-left">
+                          <PixelArtIcon icon={step.icon} />
+                          <h4 className="text-xl font-bold my-2">
+                            {step.title}
+                          </h4>
+                          <p className="text-sm">{step.description}</p>
+                        </div>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </section>
+        </main>
+
+        {/* Footer Component */}
+        <footer className="bg-blue-700 border-t-4 border-black mt-auto">
+          <div className="container mx-auto px-4 py-4 text-center text-sm">
+            <p>&copy; 2025 Hello YB. All Rights Reserved.</p>
+          </div>
+        </footer>
+      </div>
+    </>
   );
 }
