@@ -93,11 +93,15 @@ model ElectionResult {
   constituencyId          Int
   constituency            Constituency @relation(fields: [constituencyId], references: [id])
 
-  // Candidate-specific data (Historical Performance: FN-2.1)
-  candidateId             Int?
-  candidate               Candidate?  @relation(fields: [candidateId], references: [id])
+  // Link to the winning Candidate's main record:
+  winnerCandidateId Int
+  winner Candidate @relation(fields: [winnerCandidateId], references: [id])
   voterMajorityPercent    Float?      // Majority % for the candidate in that seat/year
   wasIncumbent            Boolean?    // Incumbency status in that specific election
+
+  // The critical historical data points:
+  winnerPartyName String // Store the name of the party the winner was from
+  winnerPartyId Int? // Optional: store the ID of the party they won for
 
   // Constituency-wide data (Turnout Trend: FN-3.2)
   voterTurnoutPercent     Float?      // Constituency turnout for that seat/year
