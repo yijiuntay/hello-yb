@@ -74,7 +74,7 @@ model Candidate {
 
   // Biography Metrics (FN-2.3)
   isIncumbent              Boolean
-  parliamentServiceYears   Int         // Years of Parliamentary Service
+  electionsWon   Int         // Number of elections won
   highestEducationLevel    String?     // E.g., 'Degree', 'PhD' (Manual Curation: FN-2.3)
 
   // Legislative Activity (FN-2.2)
