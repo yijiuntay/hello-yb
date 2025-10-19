@@ -67,8 +67,8 @@ model Candidate {
   photoUrl                 String?     // Optional: Manually sourced (FN-1.2)
 
   // Foreign Keys
-  partyId                  Int
-  party                    Party       @relation(fields: [partyId], references: [id])
+  partyId                  Int?
+  party                    Party?       @relation(fields: [partyId], references: [id])
   constituencyId           Int         // The current seat the candidate is contesting
   constituency             Constituency @relation(fields: [constituencyId], references: [id])
 
