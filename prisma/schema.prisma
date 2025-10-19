@@ -93,9 +93,13 @@ model ElectionResult {
   constituencyId          Int
   constituency            Constituency @relation(fields: [constituencyId], references: [id])
 
-  // Link to the winning Candidate's main record:
+  // Normalized link to the Candidate table
   winnerCandidateId Int
   winner Candidate @relation(fields: [winnerCandidateId], references: [id])
+
+  // Denormalized fields for fast display/historical integrity
+  winnerName            String   // Stores the winner's name for speed
+
   voterMajorityPercent    Float?      // Majority % for the candidate in that seat/year
   wasIncumbent            Boolean?    // Incumbency status in that specific election
 
