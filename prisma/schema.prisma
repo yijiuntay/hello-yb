@@ -78,7 +78,7 @@ model Candidate {
   highestEducationLevel    String?     // E.g., 'Degree', 'PhD' (Manual Curation: FN-2.3)
 
   // Legislative Activity (FN-2.2)
-  legislativeActivityScore Int         // Number of Bills/Motions/Questions Tabled
+  legislativeActivityScore Int?         // Number of Bills/Motions/Questions Tabled
 
   // Relations
   electionResults          ElectionResult[]
