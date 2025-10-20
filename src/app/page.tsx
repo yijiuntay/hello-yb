@@ -1,4 +1,6 @@
 import React from "react";
+import Header from "./components/Header"; // <-- IMPORT reusable Header
+import Footer from "./components/Footer";   // <-- IMPORT reusable Footer
 
 const GlobalStyles = () => (
   <style>{`
@@ -109,20 +111,7 @@ export default function App() {
     <>
       <GlobalStyles />
       <div className="flex flex-col min-h-screen pixel-art-container">
-        {/* Header Component */}
-        <header className="bg-blue-700 border-b-4 border-black">
-          <div className="container mx-auto px-4 py-4 flex justify-between items-center">
-            <h1 className="text-xl md:text-2xl text-yellow-300">Hello YB</h1>
-            <nav>
-              <a
-                href="#"
-                className="text-white hover:text-yellow-300 transition-colors"
-              >
-                Constituencies
-              </a>
-            </nav>
-          </div>
-        </header>
+        <Header /> {/* <-- Use the imported Header component */}
 
         <main className="flex-grow">
           {/* Hero Section */}
@@ -142,7 +131,7 @@ export default function App() {
                 constituency. Accurate information for smart voters.
               </p>
               <a
-                href="#"
+                href="/constituencies"
                 className="inline-block bg-green-500 text-white text-lg font-bold py-4 px-8 border-4 border-black rounded-none shadow-[8px_8px_0px_#000000] hover:bg-green-600 transition-transform duration-150 ease-in-out hover:-translate-y-1 hover:-translate-x-1 active:translate-y-0 active:translate-x-0 active:shadow-[4px_4px_0px_#000000]"
               >
                 View Constituencies!
@@ -191,12 +180,7 @@ export default function App() {
           </section>
         </main>
 
-        {/* Footer Component */}
-        <footer className="bg-blue-700 border-t-4 border-black mt-auto">
-          <div className="container mx-auto px-4 py-4 text-center text-sm">
-            <p>&copy; 2025 Hello YB. All Rights Reserved.</p>
-          </div>
-        </footer>
+        <Footer /> {/* <-- Use the imported Footer component */}
       </div>
     </>
   );
