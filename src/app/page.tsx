@@ -1,6 +1,8 @@
 import React from "react";
 import Header from "./components/Header"; // <-- IMPORT reusable Header
-import Footer from "./components/Footer";   // <-- IMPORT reusable Footer
+import Footer from "./components/Footer"; // <-- IMPORT reusable Footer
+import ConstituencySearch from "./components/ConstituencySearch";
+import { getConstituencies } from "@/lib/data";
 
 const GlobalStyles = () => (
   <style>{`
@@ -82,7 +84,7 @@ const PixelArtIcon = ({ icon }: PixelArtIconProps) => {
   return <div>{icons[icon]}</div>;
 };
 
-export default function App() {
+export default async function App() {
   const howItWorksSteps: {
     icon: "mapPin" | "person" | "checkmark";
     title: string;
@@ -107,12 +109,13 @@ export default function App() {
     },
   ];
 
+  const constituencies = await getConstituencies();
+
   return (
     <>
       <GlobalStyles />
       <div className="flex flex-col min-h-screen pixel-art-container">
         <Header /> {/* <-- Use the imported Header component */}
-
         <main className="flex-grow">
           {/* Hero Section */}
           <section className="text-center py-20 md:py-32">
@@ -130,12 +133,7 @@ export default function App() {
                 This site helps you get to know the candidates in your electoral
                 constituency. Accurate information for smart voters.
               </p>
-              <a
-                href="/constituencies"
-                className="inline-block bg-green-500 text-white text-lg font-bold py-4 px-8 border-4 border-black rounded-none shadow-[8px_8px_0px_#000000] hover:bg-green-600 transition-transform duration-150 ease-in-out hover:-translate-y-1 hover:-translate-x-1 active:translate-y-0 active:translate-x-0 active:shadow-[4px_4px_0px_#000000]"
-              >
-                View Constituencies!
-              </a>
+              <ConstituencySearch constituencies={constituencies} />
             </div>
           </section>
 
@@ -179,7 +177,6 @@ export default function App() {
             </div>
           </section>
         </main>
-
         <Footer /> {/* <-- Use the imported Footer component */}
       </div>
     </>
