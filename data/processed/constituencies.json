@@ -1,0 +1,367 @@
+[
+  {
+    "id": "1",
+    "code": "N.01",
+    "name": "Banggi"
+  },
+  {
+    "id": "2",
+    "code": "N.02",
+    "name": "Bengkoka"
+  },
+  {
+    "id": "3",
+    "code": "N.03",
+    "name": "Pitas"
+  },
+  {
+    "id": "4",
+    "code": "N.04",
+    "name": "Tanjong Kapor"
+  },
+  {
+    "id": "5",
+    "code": "N.05",
+    "name": "Matunggong"
+  },
+  {
+    "id": "6",
+    "code": "N.06",
+    "name": "Bandau"
+  },
+  {
+    "id": "7",
+    "code": "N.07",
+    "name": "Tandek"
+  },
+  {
+    "id": "8",
+    "code": "N.08",
+    "name": "Pintasan"
+  },
+  {
+    "id": "9",
+    "code": "N.09",
+    "name": "Tempasuk"
+  },
+  {
+    "id": "10",
+    "code": "N.10",
+    "name": "Usukan"
+  },
+  {
+    "id": "11",
+    "code": "N.11",
+    "name": "Kadamaian"
+  },
+  {
+    "id": "12",
+    "code": "N.12",
+    "name": "Sulaman"
+  },
+  {
+    "id": "13",
+    "code": "N.13",
+    "name": "Pantai Dalit"
+  },
+  {
+    "id": "14",
+    "code": "N.14",
+    "name": "Tamparuli"
+  },
+  {
+    "id": "15",
+    "code": "N.15",
+    "name": "Kiulu"
+  },
+  {
+    "id": "16",
+    "code": "N.16",
+    "name": "Karambunai"
+  },
+  {
+    "id": "17",
+    "code": "N.17",
+    "name": "Darau"
+  },
+  {
+    "id": "18",
+    "code": "N.18",
+    "name": "Inanam"
+  },
+  {
+    "id": "19",
+    "code": "N.19",
+    "name": "Likas"
+  },
+  {
+    "id": "20",
+    "code": "N.20",
+    "name": "Api-Api"
+  },
+  {
+    "id": "21",
+    "code": "N.21",
+    "name": "Luyang"
+  },
+  {
+    "id": "22",
+    "code": "N.22",
+    "name": "Tanjung Aru"
+  },
+  {
+    "id": "23",
+    "code": "N.23",
+    "name": "Petagas"
+  },
+  {
+    "id": "24",
+    "code": "N.24",
+    "name": "Tanjung Keramat"
+  },
+  {
+    "id": "25",
+    "code": "N.25",
+    "name": "Kapayan"
+  },
+  {
+    "id": "26",
+    "code": "N.26",
+    "name": "Moyog"
+  },
+  {
+    "id": "27",
+    "code": "N.27",
+    "name": "Limbahau"
+  },
+  {
+    "id": "28",
+    "code": "N.28",
+    "name": "Kawang"
+  },
+  {
+    "id": "29",
+    "code": "N.29",
+    "name": "Pantai Manis"
+  },
+  {
+    "id": "30",
+    "code": "N.30",
+    "name": "Bongawan"
+  },
+  {
+    "id": "31",
+    "code": "N.31",
+    "name": "Membakut"
+  },
+  {
+    "id": "32",
+    "code": "N.32",
+    "name": "Klias"
+  },
+  {
+    "id": "33",
+    "code": "N.33",
+    "name": "Kuala Penyu"
+  },
+  {
+    "id": "34",
+    "code": "N.34",
+    "name": "Lumadan"
+  },
+  {
+    "id": "35",
+    "code": "N.35",
+    "name": "Sindumin"
+  },
+  {
+    "id": "36",
+    "code": "N.36",
+    "name": "Kundasang"
+  },
+  {
+    "id": "37",
+    "code": "N.37",
+    "name": "Karanaan"
+  },
+  {
+    "id": "38",
+    "code": "N.38",
+    "name": "Paginatan"
+  },
+  {
+    "id": "39",
+    "code": "N.39",
+    "name": "Tambunan"
+  },
+  {
+    "id": "40",
+    "code": "N.40",
+    "name": "Bingkor"
+  },
+  {
+    "id": "41",
+    "code": "N.41",
+    "name": "Liawan"
+  },
+  {
+    "id": "42",
+    "code": "N.42",
+    "name": "Melalap"
+  },
+  {
+    "id": "43",
+    "code": "N.43",
+    "name": "Kemabong"
+  },
+  {
+    "id": "44",
+    "code": "N.44",
+    "name": "Tulid"
+  },
+  {
+    "id": "45",
+    "code": "N.45",
+    "name": "Sook"
+  },
+  {
+    "id": "46",
+    "code": "N.46",
+    "name": "Nabawan"
+  },
+  {
+    "id": "47",
+    "code": "N.47",
+    "name": "Telupid"
+  },
+  {
+    "id": "48",
+    "code": "N.48",
+    "name": "Sugut"
+  },
+  {
+    "id": "49",
+    "code": "N.49",
+    "name": "Labuk"
+  },
+  {
+    "id": "50",
+    "code": "N.50",
+    "name": "Gum-Gum"
+  },
+  {
+    "id": "51",
+    "code": "N.51",
+    "name": "Sungai Manila"
+  },
+  {
+    "id": "52",
+    "code": "N.52",
+    "name": "Sungai Sibuga"
+  },
+  {
+    "id": "53",
+    "code": "N.53",
+    "name": "Sekong"
+  },
+  {
+    "id": "54",
+    "code": "N.54",
+    "name": "Karamunting"
+  },
+  {
+    "id": "55",
+    "code": "N.55",
+    "name": "Elopura"
+  },
+  {
+    "id": "56",
+    "code": "N.56",
+    "name": "Tanjong Papat"
+  },
+  {
+    "id": "57",
+    "code": "N.57",
+    "name": "Kuamut"
+  },
+  {
+    "id": "58",
+    "code": "N.58",
+    "name": "Lamag"
+  },
+  {
+    "id": "59",
+    "code": "N.59",
+    "name": "Sukau"
+  },
+  {
+    "id": "60",
+    "code": "N.60",
+    "name": "Tungku"
+  },
+  {
+    "id": "61",
+    "code": "N.61",
+    "name": "Segama"
+  },
+  {
+    "id": "62",
+    "code": "N.62",
+    "name": "Silam"
+  },
+  {
+    "id": "63",
+    "code": "N.63",
+    "name": "Kunak"
+  },
+  {
+    "id": "64",
+    "code": "N.64",
+    "name": "Sulabayan"
+  },
+  {
+    "id": "65",
+    "code": "N.65",
+    "name": "Senallang"
+  },
+  {
+    "id": "66",
+    "code": "N.66",
+    "name": "Bugaya"
+  },
+  {
+    "id": "67",
+    "code": "N.67",
+    "name": "Balung"
+  },
+  {
+    "id": "68",
+    "code": "N.68",
+    "name": "Apas"
+  },
+  {
+    "id": "69",
+    "code": "N.69",
+    "name": "Sri Tanjong"
+  },
+  {
+    "id": "70",
+    "code": "N.70",
+    "name": "Kukusan"
+  },
+  {
+    "id": "71",
+    "code": "N.71",
+    "name": "Tanjung Batu"
+  },
+  {
+    "id": "72",
+    "code": "N.72",
+    "name": "Merotai"
+  },
+  {
+    "id": "73",
+    "code": "N.73",
+    "name": "Sebatik"
+  }
+]

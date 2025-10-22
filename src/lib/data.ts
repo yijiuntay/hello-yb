@@ -1,0 +1,12 @@
+import fs from "fs";
+import path from "path";
+
+export function readData(file: string) {
+  const filePath = path.join(process.cwd(), "data/processed", `${file}.json`);
+  const data = JSON.parse(fs.readFileSync(filePath, "utf-8"));
+  return data;
+}
+
+// Example usage:
+export const getConstituencies = () => readData("constituencies");
+// export const getCandidates = () => readData("candidates");
