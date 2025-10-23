@@ -9,4 +9,5 @@ export function readData(file: string) {
 
 // Example usage:
 export const getConstituencies = () => readData("constituencies");
+export const getCensus = () => readData("census_dun_sabah");
 // export const getCandidates = () => readData("candidates");

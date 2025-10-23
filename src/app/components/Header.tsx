@@ -16,12 +16,12 @@ const Header: React.FC = () => {
           </h1>
         </Link>
         <nav>
-          <a
-            href="/overview"
+          <Link
+            href="/constituencies"
             className="text-white hover:text-yellow-300 transition-colors"
           >
             Constituencies
-          </a>
+          </Link>
         </nav>
       </div>
     </header>
