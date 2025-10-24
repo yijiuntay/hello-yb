@@ -23,10 +23,8 @@ export interface SabahDunBallot {
   votes_perc: number;
   /** The election result for the candidate, e.g., 'won', 'lost', 'lost_deposit' */
   result: string;
-  /** A string identifier for the constituency */
-  constituency_id: string;
-  /** Whether the candidate was the incumbent for the seat (True/False) */
-  wasIncumbent: string | boolean;
   /** A string identifier for the area name of the constituency */
   area_name: string;
+  /** Whether the candidate was the incumbent for the seat (True/False) */
+  wasIncumbent: string | boolean;
 }
