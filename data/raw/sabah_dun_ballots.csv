@@ -1,0 +1,963 @@
+date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,votes_perc,result,constituency_id,wasIncumbent,area_name
+2013-05-05,SE-12,Sabah,N.01 Banggi,1,Abd Mijul Bin Unaini,13414,BN,25,4293,61.319811455506354,won,1,True,Banggi
+2013-05-05,SE-12,Sabah,N.01 Banggi,2,Mursalim Bin Tanjul,15758,BEBAS,1,642,9.170118554492218,lost_deposit,1,False,Banggi
+2013-05-05,SE-12,Sabah,N.01 Banggi,3,Jae-Ly Bin Medong,18409,SAPP,66,536,7.656049135837737,lost_deposit,1,False,Banggi
+2013-05-05,SE-12,Sabah,N.01 Banggi,4,Datu Abdul Razak Bin Datu Abdul Salam,18410,PKR,11,1054,15.054992143979433,lost,1,False,Banggi
+2013-05-05,SE-12,Sabah,N.01 Banggi,5,Datu Mohd Arifin Bin Datu Abdul Salam,18411,STAR,64,476,6.79902871018426,lost_deposit,1,False,Banggi
+2013-05-05,SE-12,Sabah,N.02 Tanjong Kapor,1,Zainal Bin Hj. Nasiruddin,18412,BERSAMA,70,363,2.139573264175409,lost_deposit,2,False,Tanjong Kapor
+2013-05-05,SE-12,Sabah,N.02 Tanjong Kapor,2,Alex Wong,18413,BEBAS,1,35,0.2062949428268301,lost_deposit,2,False,Tanjong Kapor
+2013-05-05,SE-12,Sabah,N.02 Tanjong Kapor,3,Hendiri @ Hendry Bin Minar,18414,STAR,64,273,1.6091005540492749,lost_deposit,2,False,Tanjong Kapor
+2013-05-05,SE-12,Sabah,N.02 Tanjong Kapor,4,Tsen Heng Chong @ Peter Tsen,18415,SAPP,66,500,2.947070611811859,lost_deposit,2,False,Tanjong Kapor
+2013-05-05,SE-12,Sabah,N.02 Tanjong Kapor,5,Teo Chee Kang,17084,BN,25,8890,52.39891547801485,won,2,True,Tanjong Kapor
+2013-05-05,SE-12,Sabah,N.02 Tanjong Kapor,6,Chin Chung Kui @ William Chin,18417,PKR,11,6905,40.69904514912177,lost,2,False,Tanjong Kapor
+2013-05-05,SE-12,Sabah,N.03 Pitas,1,Johnes @ Onis Bin Piut,18418,SAPP,66,232,2.03669563690633,lost_deposit,3,False,Pitas
+2013-05-05,SE-12,Sabah,N.03 Pitas,2,Awang Latip Bin Abdul Salam,18419,KITA,29,138,1.2114827495391098,lost_deposit,3,False,Pitas
+2013-05-05,SE-12,Sabah,N.03 Pitas,3,Maklin Bin Masiau,18420,STAR,64,3111,27.311035027653414,lost,3,False,Pitas
+2013-05-05,SE-12,Sabah,N.03 Pitas,4,Datuk Bolkiah Bin Hj Ismail,18421,BN,25,6934,60.87261873408831,won,3,False,Pitas
+2013-05-05,SE-12,Sabah,N.03 Pitas,5,Dausieh Binti Queck @ Paraman,18422,PAS,3,976,8.568167851812834,lost_deposit,3,False,Pitas
+2013-05-05,SE-12,Sabah,N.04 Matunggong,1,Sarapin Bin Magana,17094,BN,25,6627,42.6694997102569,lost,4,False,Matunggong
+2013-05-05,SE-12,Sabah,N.04 Matunggong,2,Richard Bin Jiun,18424,SAPP,66,367,2.3630159036765184,lost_deposit,4,False,Matunggong
+2013-05-05,SE-12,Sabah,N.04 Matunggong,3,Marunsai Bin Dawai,18425,STAR,64,1536,9.889897624106624,lost_deposit,4,False,Matunggong
+2013-05-05,SE-12,Sabah,N.04 Matunggong,4,Jelani Bin Hamdan,9778,PKR,11,6947,44.72989504861245,won,4,False,Matunggong
+2013-05-05,SE-12,Sabah,N.04 Matunggong,5,Jolius Bin Majawai,18427,BEBAS,1,54,0.3476917133474985,lost_deposit,4,False,Matunggong
+2013-05-05,SE-12,Sabah,N.05 Tandek,1,Anthony Mandiau,3196,PKR,11,4124,24.88685052199626,lost,5,False,Tandek
+2013-05-05,SE-12,Sabah,N.05 Tandek,2,Jebon Janaun,18429,STAR,64,2668,16.100416390079054,lost,5,False,Tandek
+2013-05-05,SE-12,Sabah,N.05 Tandek,3,Henry Yapolai,18430,SAPP,66,380,2.2931627542091606,lost_deposit,5,False,Tandek
+2013-05-05,SE-12,Sabah,N.05 Tandek,4,Anita Baranting,17096,BN,25,9399,56.71957033371553,won,5,True,Tandek
+2013-05-05,SE-12,Sabah,N.06 Tempasuk,1,Abdul Malik Bin Mohed,10712,SAPP,66,319,2.3002595904239973,lost_deposit,6,False,Tempasuk
+2013-05-05,SE-12,Sabah,N.06 Tempasuk,2,Hj. Ag. Laiman Bin Hj. Ikin,18433,PAS,3,3285,23.687626189789444,lost,6,False,Tempasuk
+2013-05-05,SE-12,Sabah,N.06 Tempasuk,3,Suwah Bin Buleh @ Bulleh,13433,STAR,64,1769,12.755985001442168,lost,6,False,Tempasuk
+2013-05-05,SE-12,Sabah,N.06 Tempasuk,4,Datuk Musbah Jamli,18435,BN,25,8495,61.25612921834439,won,6,False,Tempasuk
+2013-05-05,SE-12,Sabah,N.07 Kadamaian,1,Herbert Timbon Lagadan,17106,BN,25,4988,37.53480322070886,lost,7,False,Kadamaian
+2013-05-05,SE-12,Sabah,N.07 Kadamaian,2,Ukoh @ Jeremmy Bin Malajad @ Malazad,18437,PKR,11,5877,44.22454661750321,won,7,False,Kadamaian
+2013-05-05,SE-12,Sabah,N.07 Kadamaian,3,Rubbin Bin Guribah,18438,STAR,64,1877,14.124463842275569,lost,7,False,Kadamaian
+2013-05-05,SE-12,Sabah,N.07 Kadamaian,4,Peter Marajin,17105,SAPP,66,547,4.116186319512378,lost_deposit,7,False,Kadamaian
+2013-05-05,SE-12,Sabah,N.08 Usukan,1,Salleh Said Keruak,4307,BN,25,10879,71.42669555511785,won,8,False,Usukan
+2013-05-05,SE-12,Sabah,N.08 Usukan,2,Bakhruddin Bin Ismail,18441,STAR,64,285,1.8711837699428795,lost_deposit,8,False,Usukan
+2013-05-05,SE-12,Sabah,N.08 Usukan,3,Haji Mustapha Bin Haji Sakmud,18442,PKR,11,4067,26.702120674939266,lost,8,False,Usukan
+2013-05-05,SE-12,Sabah,N.09 Tamparuli,1,Datuk Seri Panglima Wilfred M. Bumburing,18443,PKR,11,6862,48.18481848184818,won,9,False,Tamparuli
+2013-05-05,SE-12,Sabah,N.09 Tamparuli,2,Linggu @ Edward Bin Bukut,14624,STAR,64,589,4.1359455094445625,lost_deposit,9,False,Tamparuli
+2013-05-05,SE-12,Sabah,N.09 Tamparuli,3,Stephan Bin Gaimin,18445,SAPP,66,185,1.299066076820448,lost_deposit,9,False,Tamparuli
+2013-05-05,SE-12,Sabah,N.09 Tamparuli,4,Dr. James Ongkili Jr.,18446,BEBAS,1,126,0.8847693279966296,lost_deposit,9,False,Tamparuli
+2013-05-05,SE-12,Sabah,N.09 Tamparuli,5,Jahid Jahim,17110,BN,25,6479,45.49540060389018,lost,9,False,Tamparuli
+2013-05-05,SE-12,Sabah,N.10 Sulaman,1,Hajiji Bin Haji Noor,12333,BN,25,13065,78.72853269056945,won,10,False,Sulaman
+2013-05-05,SE-12,Sabah,N.10 Sulaman,2,David Bin Orok,18449,STAR,64,225,1.3558300692979812,lost_deposit,10,False,Sulaman
+2013-05-05,SE-12,Sabah,N.10 Sulaman,3,Arifin Bin Harith,18450,BEBAS,1,66,0.3977101536607411,lost_deposit,10,False,Sulaman
+2013-05-05,SE-12,Sabah,N.10 Sulaman,4,Gulabdin @ Ghulabdin Bin Enjih,18451,PKR,11,2624,15.811991563724012,lost,10,False,Sulaman
+2013-05-05,SE-12,Sabah,N.10 Sulaman,5,Ali Akbar Kawi,18452,BEBAS,1,615,3.7059355227478146,lost_deposit,10,False,Sulaman
+2013-05-05,SE-12,Sabah,N.11 Kiulu,1,Tindil Bin Gonsobil @ Sindin,18453,SAPP,66,129,1.4149391247120764,lost_deposit,11,False,Kiulu
+2013-05-05,SE-12,Sabah,N.11 Kiulu,2,John Bin Hussein,18454,BEBAS,1,517,5.6707250191949115,lost_deposit,11,False,Kiulu
+2013-05-05,SE-12,Sabah,N.11 Kiulu,3,Rhodes Bin Panilau,18455,PKR,11,3701,40.594493802786005,lost,11,False,Kiulu
+2013-05-05,SE-12,Sabah,N.11 Kiulu,4,Terence Sinti,18456,STAR,64,1025,11.242733355270374,lost_deposit,11,False,Kiulu
+2013-05-05,SE-12,Sabah,N.11 Kiulu,5,Joniston Bin Lumai @ Bangkuai,18457,BN,25,3745,41.07710869803663,won,11,False,Kiulu
+2013-05-05,SE-12,Sabah,N.12 Karambunai,1,Muali Bin Aching,18458,PKR,11,5542,24.435626102292773,lost,12,False,Karambunai
+2013-05-05,SE-12,Sabah,N.12 Karambunai,2,Ag. Maidin Bin Ag. Apong,18459,BEBAS,1,171,0.7539682539682541,lost_deposit,12,False,Karambunai
+2013-05-05,SE-12,Sabah,N.12 Karambunai,3,Aziz Bin Ibrahim,7235,SAPP,66,1977,8.716931216931219,lost_deposit,12,False,Karambunai
+2013-05-05,SE-12,Sabah,N.12 Karambunai,4,Rano Bin Susulan,18461,BEBAS,1,172,0.7583774250440917,lost_deposit,12,False,Karambunai
+2013-05-05,SE-12,Sabah,N.12 Karambunai,5,Jainab Binti Ahmad,15806,BN,25,14818,65.33509700176367,won,12,False,Karambunai
+2013-05-05,SE-12,Sabah,N.13 Inanam,1,Dr. Roland Chia Ming Shen,18463,PKR,11,8926,45.418002340609576,won,13,False,Inanam
+2013-05-05,SE-12,Sabah,N.13 Inanam,2,Eric E. Majimbun,3544,SAPP,66,5003,25.456673281432863,lost,13,False,Inanam
+2013-05-05,SE-12,Sabah,N.13 Inanam,3,Joseph P . Lantip,18465,BN,25,5724,29.125324377957558,lost,13,False,Inanam
+2013-05-05,SE-12,Sabah,N.14 Likas,1,Wong Hong Jun,18466,DAP,18,7746,67.46211461417872,won,14,False,Likas
+2013-05-05,SE-12,Sabah,N.14 Likas,2,Chin Shu Ying,18467,BN,25,2094,18.23724089879812,lost,14,False,Likas
+2013-05-05,SE-12,Sabah,N.14 Likas,3,Yong Teck Lee,2837,SAPP,66,1487,12.950705452011846,lost,14,False,Likas
+2013-05-05,SE-12,Sabah,N.14 Likas,4,Prof Dr Martin Ho,18469,STAR,64,155,1.3499390350113218,lost_deposit,14,False,Likas
+2013-05-05,SE-12,Sabah,N.15 Api-Api,1,Christina Liew,3204,PKR,11,5853,49.64376590330789,won,15,False,Api-Api
+2013-05-05,SE-12,Sabah,N.15 Api-Api,2,Marcel Jude A/L Ms Joseph,18471,BEBAS,1,14,0.1187446988973706,lost_deposit,15,False,Api-Api
+2013-05-05,SE-12,Sabah,N.15 Api-Api,3,Wong Yit Ming,12482,SAPP,66,713,6.047497879558947,lost_deposit,15,False,Api-Api
+2013-05-05,SE-12,Sabah,N.15 Api-Api,4,Felix Chong Kat Fah,18473,STAR,64,152,1.2892281594571668,lost_deposit,15,False,Api-Api
+2013-05-05,SE-12,Sabah,N.15 Api-Api,5,Dr Yee Moh Chai,2840,BN,25,5058,42.90076335877863,lost,15,False,Api-Api
+2013-05-05,SE-12,Sabah,N.16 Luyang,1,Melanie Chia Chui Ket,17129,SAPP,66,1694,10.787747564159718,lost_deposit,16,False,Luyang
+2013-05-05,SE-12,Sabah,N.16 Luyang,2,Agnes Shim Tshin Nyuk,18476,BN,25,2537,16.15614850665478,lost,16,False,Luyang
+2013-05-05,SE-12,Sabah,N.16 Luyang,3,Hiew King Cheu,3203,DAP,18,11213,71.40673756607019,won,16,False,Luyang
+2013-05-05,SE-12,Sabah,N.16 Luyang,4,Jafery J. @ Jet Fei Lee,18478,STAR,64,259,1.6493663631153284,lost_deposit,16,False,Luyang
+2013-05-05,SE-12,Sabah,N.17 Tanjong Aru,1,Ir. Edward Yong Oui Fah,17132,BN,25,9099,54.842987161714184,won,17,True,Tanjong Aru
+2013-05-05,SE-12,Sabah,N.17 Tanjong Aru,2,Salleh Bin Tiasi @ Tiaseh,15824,STAR,64,750,4.520523175215478,lost_deposit,17,False,Tanjong Aru
+2013-05-05,SE-12,Sabah,N.17 Tanjong Aru,3,Hamid Bin Ismail,18481,PAS,3,5409,32.602013139654034,lost,17,False,Tanjong Aru
+2013-05-05,SE-12,Sabah,N.17 Tanjong Aru,4,Richard Yong We Kong,18482,SAPP,66,1333,8.034476523416311,lost_deposit,17,False,Tanjong Aru
+2013-05-05,SE-12,Sabah,N.18 Petagas,1,Awang Ahmad Sah,3206,STAR,64,1111,8.912241296326007,lost_deposit,18,False,Petagas
+2013-05-05,SE-12,Sabah,N.18 Petagas,2,Yahyah @ Yahya Bin Hussin @ Ag Husin,13506,BN,25,8504,68.21755174073479,won,18,False,Petagas
+2013-05-05,SE-12,Sabah,N.18 Petagas,3,Mat Yunin @ Mohd Yunin Bin Atin,18485,PKR,11,2851,22.870206962939196,lost,18,False,Petagas
+2013-05-05,SE-12,Sabah,N.19 Kapayan,1,Edward Khoo Keok Hai,17137,BN,25,5733,26.661396084267317,lost,19,False,Kapayan
+2013-05-05,SE-12,Sabah,N.19 Kapayan,2,Phillip Among @ Daniel Dell Fidelis,18487,STAR,64,720,3.3483699948844348,lost_deposit,19,False,Kapayan
+2013-05-05,SE-12,Sabah,N.19 Kapayan,3,Dr Edwin @ Jack Bosi,3550,DAP,18,13020,60.549690740826854,won,19,False,Kapayan
+2013-05-05,SE-12,Sabah,N.19 Kapayan,4,Chong Pit Fah,18489,SAPP,66,2030,9.440543180021391,lost_deposit,19,False,Kapayan
+2013-05-05,SE-12,Sabah,N.20 Moyog,1,Terrence Alon Siambun,18490,PKR,11,7462,51.025711159737426,won,20,False,Moyog
+2013-05-05,SE-12,Sabah,N.20 Moyog,2,Bernard Lawrence Solibun,18491,STAR,64,603,4.12335886214442,lost_deposit,20,False,Moyog
+2013-05-05,SE-12,Sabah,N.20 Moyog,3,Danim @ Aloysius Bin Siap,18492,SAPP,66,779,5.326859956236325,lost_deposit,20,False,Moyog
+2013-05-05,SE-12,Sabah,N.20 Moyog,4,Datuk Philip Benedict Lasimbang,18493,BN,25,5780,39.52407002188184,lost,20,False,Moyog
+2013-05-05,SE-12,Sabah,N.21 Kawang,1,Dzulkefli Safar,18494,PKR,11,3401,20.176791646891317,lost,21,False,Kawang
+2013-05-05,SE-12,Sabah,N.21 Kawang,2,Edward Dagul,18495,SAPP,66,906,5.374940673943996,lost_deposit,21,False,Kawang
+2013-05-05,SE-12,Sabah,N.21 Kawang,3,Akop Bin Damsah @ Yakup Bin Damsah,18496,STAR,64,248,1.4712861888941622,lost_deposit,21,False,Kawang
+2013-05-05,SE-12,Sabah,N.21 Kawang,4,Datuk Gulamhaidar @ Yusof Bin Khan Bahadar,15837,BN,25,12301,72.97698149027053,won,21,True,Kawang
+2013-05-05,SE-12,Sabah,N.22 Pantai Manis,1,Abdul Rahim Bin Ismail,8390,BN,25,9639,60.71811023622046,won,22,False,Pantai Manis
+2013-05-05,SE-12,Sabah,N.22 Pantai Manis,2,Noraizal Bin Mohd Noor,18499,SAPP,66,403,2.5385826771653544,lost_deposit,22,False,Pantai Manis
+2013-05-05,SE-12,Sabah,N.22 Pantai Manis,3,Fred Bin Gabriel,18500,PKR,11,5230,32.94488188976378,lost,22,False,Pantai Manis
+2013-05-05,SE-12,Sabah,N.22 Pantai Manis,4,Baharudin @ Baharuddin Bin Nayan,18501,STAR,64,603,3.7984251968503933,lost_deposit,22,False,Pantai Manis
+2013-05-05,SE-12,Sabah,N.23 Bongawan,1,Mohamad Bin Haji Alamin,18502,BN,25,7443,59.047996826656096,won,23,False,Bongawan
+2013-05-05,SE-12,Sabah,N.23 Bongawan,2,Awang Talip Bin Awang Bagul,18503,SAPP,66,335,2.657675525585085,lost_deposit,23,False,Bongawan
+2013-05-05,SE-12,Sabah,N.23 Bongawan,3,Tan Sri Ibrahim Bin Menudin,18504,PKR,11,4051,32.138040460134874,lost,23,False,Bongawan
+2013-05-05,SE-12,Sabah,N.23 Bongawan,4,Ak Aliuddin,2846,BEBAS,1,455,3.609678698928996,lost_deposit,23,False,Bongawan
+2013-05-05,SE-12,Sabah,N.23 Bongawan,5,Assim @ Hassim Bin Matali,18506,STAR,64,321,2.5466084886949627,lost_deposit,23,False,Bongawan
+2013-05-05,SE-12,Sabah,N.24 Membakut,1,Mohd Arifin Bin Mohd Arif,15842,BN,25,6547,65.31976454155442,won,24,True,Membakut
+2013-05-05,SE-12,Sabah,N.24 Membakut,2,Narawi @ Sinar Bin Ahmad,18508,PKR,11,3037,30.300309288636136,lost,24,False,Membakut
+2013-05-05,SE-12,Sabah,N.24 Membakut,3,Banjimin Ondoi,18509,SAPP,66,300,2.99311583358276,lost_deposit,24,False,Membakut
+2013-05-05,SE-12,Sabah,N.24 Membakut,4,Jaapar Bin Ag Gador,18510,STAR,64,139,1.3868103362266786,lost_deposit,24,False,Membakut
+2013-05-05,SE-12,Sabah,N.25 Klias,1,Mohd. Sanusi Bin Taripin,18511,SAPP,66,182,1.4305926741078447,lost_deposit,25,False,Klias
+2013-05-05,SE-12,Sabah,N.25 Klias,2,Aliapa Bin Osman,18512,STAR,64,71,0.5580883508882252,lost_deposit,25,False,Klias
+2013-05-05,SE-12,Sabah,N.25 Klias,3,Lajim Bin Ukin,10231,PKR,11,6324,49.70916522559346,won,25,False,Klias
+2013-05-05,SE-12,Sabah,N.25 Klias,4,Isnin Bin Hj. Aliasnih,18514,BN,25,6145,48.302153749410465,lost,25,False,Klias
+2013-05-05,SE-12,Sabah,N.26 Kuala Penyu,1,Jusbian Bin Kenneth,18515,BEBAS,1,44,0.3481288076588337,lost_deposit,26,False,Kuala Penyu
+2013-05-05,SE-12,Sabah,N.26 Kuala Penyu,2,Limus Bin Jury,18516,BN,25,7311,57.844766199857595,won,26,False,Kuala Penyu
+2013-05-05,SE-12,Sabah,N.26 Kuala Penyu,3,John Ghani,18517,PKR,11,5038,39.86074847693647,lost,26,False,Kuala Penyu
+2013-05-05,SE-12,Sabah,N.26 Kuala Penyu,4,Ining Bin Sinten @ Alexander Sintin,18518,STAR,64,154,1.2184508268059182,lost_deposit,26,False,Kuala Penyu
+2013-05-05,SE-12,Sabah,N.26 Kuala Penyu,5,Haji Md. Tajuddin Bin Hj. Md. Walli,18519,BEBAS,1,92,0.7279056887411979,lost_deposit,26,False,Kuala Penyu
+2013-05-05,SE-12,Sabah,N.27 Lumadan,1,Abdul Rahman Bin Md Yakub,2848,PKR,11,2303,20.067967933077732,lost,27,False,Lumadan
+2013-05-05,SE-12,Sabah,N.27 Lumadan,2,Jamain Bin Sarudin,18521,SAPP,66,143,1.2460787730916696,lost_deposit,27,False,Lumadan
+2013-05-05,SE-12,Sabah,N.27 Lumadan,3,Rapahi Bin Edris,18522,BEBAS,1,2476,21.57546183339143,lost,27,False,Lumadan
+2013-05-05,SE-12,Sabah,N.27 Lumadan,4,Kamarlin Bin Ombi,18523,BN,25,6338,55.228302544440574,won,27,False,Lumadan
+2013-05-05,SE-12,Sabah,N.27 Lumadan,5,Hj Saudi Bin Suhaili,18524,BEBAS,1,69,0.6012547926106657,lost_deposit,27,False,Lumadan
+2013-05-05,SE-12,Sabah,N.27 Lumadan,6,Mohd Jaafar Bin Ibrahim,18525,STAR,64,147,1.2809341233879399,lost_deposit,27,False,Lumadan
+2013-05-05,SE-12,Sabah,N.28 Sindumin,1,Harunsah Bin Ibrahim,18526,PKR,11,3701,30.21964562750061,lost,28,False,Sindumin
+2013-05-05,SE-12,Sabah,N.28 Sindumin,2,Semion @ Fred Semion Bin Sakai,18527,STAR,64,165,1.3472687188699273,lost_deposit,28,False,Sindumin
+2013-05-05,SE-12,Sabah,N.28 Sindumin,3,Amde @ Hamdi Bin Sidik,18528,SAPP,66,357,2.914999591736752,lost_deposit,28,False,Sindumin
+2013-05-05,SE-12,Sabah,N.28 Sindumin,4,Hj Ahmad Hj Bujang,18529,BN,25,8024,65.51808606189272,won,28,False,Sindumin
+2013-05-05,SE-12,Sabah,N.29 Kundasang,1,Jain Sauting,18530,STAR,64,1117,11.135480011962914,lost_deposit,29,False,Kundasang
+2013-05-05,SE-12,Sabah,N.29 Kundasang,2,Cleftus Stephen Spine,4319,BEBAS,1,87,0.8673113348619279,lost_deposit,29,False,Kundasang
+2013-05-05,SE-12,Sabah,N.29 Kundasang,3,Satiol Bin Indong,18532,PKR,11,2231,22.2410527365168,lost,29,False,Kundasang
+2013-05-05,SE-12,Sabah,N.29 Kundasang,4,Joachim Gunsalam,15855,BN,25,4206,41.93001694746287,won,29,False,Kundasang
+2013-05-05,SE-12,Sabah,N.29 Kundasang,5,Japiril Bin Suhaimin,12346,SAPP,66,2102,20.955039377928426,lost,29,False,Kundasang
+2013-05-05,SE-12,Sabah,N.29 Kundasang,6,Sam Hondou,18535,BEBAS,1,288,2.871099591267072,lost_deposit,29,False,Kundasang
+2013-05-05,SE-12,Sabah,N.30 Karanaan,1,Datuk Masidi Manjun,17173,BN,25,6292,61.795325083480655,won,30,True,Karanaan
+2013-05-05,SE-12,Sabah,N.30 Karanaan,2,Jalibin Bin Paidi,18537,STAR,64,1067,10.479277155765075,lost_deposit,30,False,Karanaan
+2013-05-05,SE-12,Sabah,N.30 Karanaan,3,Mat Jaili Samat,17177,BEBAS,1,31,0.3044588489491259,lost_deposit,30,False,Karanaan
+2013-05-05,SE-12,Sabah,N.30 Karanaan,4,Muhiddin Yusin,18539,PKR,11,2792,27.42093891180515,lost,30,False,Karanaan
+2013-05-05,SE-12,Sabah,N.31 Paginatan,1,Yazid Bin Sahjinan,3906,BEBAS,1,154,1.4531043593130781,lost_deposit,31,False,Paginatan
+2013-05-05,SE-12,Sabah,N.31 Paginatan,2,Datuk Siringan Gubat,18541,BN,25,5142,48.51858841290811,won,31,False,Paginatan
+2013-05-05,SE-12,Sabah,N.31 Paginatan,3,Amru Bin Abd Kadir,18542,PKR,11,4163,39.280996414417814,lost,31,False,Paginatan
+2013-05-05,SE-12,Sabah,N.31 Paginatan,4,Pedderin @ Feddrin Bin Tuliang @ Tuling,18543,STAR,64,1139,10.747310813361011,lost_deposit,31,False,Paginatan
+2013-05-05,SE-12,Sabah,N.32 Tambunan,1,Joseph Pairin Kitingan,7897,BN,25,5586,48.611957183883035,won,32,True,Tambunan
+2013-05-05,SE-12,Sabah,N.32 Tambunan,2,Justin Bin Yonsoding,18545,BEBAS,1,591,5.143155513010182,lost_deposit,32,False,Tambunan
+2013-05-05,SE-12,Sabah,N.32 Tambunan,3,Wilfred Win Bin Ponil,18546,PKR,11,1744,15.177095117918372,lost,32,False,Tambunan
+2013-05-05,SE-12,Sabah,N.32 Tambunan,4,Nestor Bin Joannes,15867,STAR,64,3507,30.5195370289792,lost,32,False,Tambunan
+2013-05-05,SE-12,Sabah,N.32 Tambunan,5,Francis Koh,17180,BEBAS,1,63,0.5482551562092072,lost_deposit,32,False,Tambunan
+2013-05-05,SE-12,Sabah,N.33 Bingkor,1,Ricky @ Roland Sedomon,18549,BEBAS,1,111,0.8724357462862532,lost_deposit,33,False,Bingkor
+2013-05-05,SE-12,Sabah,N.33 Bingkor,2,Ahmad Shah Tambakau,18550,PKR,11,2368,18.611962587440072,lost,33,False,Bingkor
+2013-05-05,SE-12,Sabah,N.33 Bingkor,3,Kennedy John Angian,18551,BN,25,4894,38.46577065157589,lost,33,False,Bingkor
+2013-05-05,SE-12,Sabah,N.33 Bingkor,4,Datuk Dr. Jeffrey Kitingan,17184,STAR,64,5350,42.04983101469779,won,33,False,Bingkor
+2013-05-05,SE-12,Sabah,N.34 Liawan,1,Sairin Bin Karno,12404,BN,25,5383,47.49007498897222,won,34,False,Liawan
+2013-05-05,SE-12,Sabah,N.34 Liawan,2,Paul Bunsu Bin Gitang @ Paul Gitang,18554,PKR,11,3631,32.033524481693874,lost,34,False,Liawan
+2013-05-05,SE-12,Sabah,N.34 Liawan,3,Nusleh Bin Madarak,18555,BEBAS,1,18,0.1588001764446405,lost_deposit,34,False,Liawan
+2013-05-05,SE-12,Sabah,N.34 Liawan,4,Johari Tahir,18556,SAPP,66,236,2.0820467578297306,lost_deposit,34,False,Liawan
+2013-05-05,SE-12,Sabah,N.34 Liawan,5,Nicholas James Guntobon,18557,STAR,64,2067,18.23555359505955,lost,34,False,Liawan
+2013-05-05,SE-12,Sabah,N.35 Melalap,1,Datuk Radin Malleh,17190,BN,25,4643,48.34947412267,won,35,True,Melalap
+2013-05-05,SE-12,Sabah,N.35 Melalap,2,Roger Bin Stimin,18559,SAPP,66,2044,21.28501509944809,lost,35,False,Melalap
+2013-05-05,SE-12,Sabah,N.35 Melalap,3,Noorita Binti Sual,18560,DAP,18,1992,20.743517650734145,lost,35,False,Melalap
+2013-05-05,SE-12,Sabah,N.35 Melalap,4,Kong Fui Seng,18561,STAR,64,924,9.621993127147768,lost_deposit,35,False,Melalap
+2013-05-05,SE-12,Sabah,N.36 Kemabong,1,Rubin Bin Balang,4335,BN,25,5765,53.87850467289721,won,36,False,Kemabong
+2013-05-05,SE-12,Sabah,N.36 Kemabong,2,William Ensor Bin Tingkalor,18563,SAPP,66,1047,9.785046728971961,lost_deposit,36,False,Kemabong
+2013-05-05,SE-12,Sabah,N.36 Kemabong,3,Tay Jin Kiong @ Alfred,18564,STAR,64,1155,10.794392523364486,lost_deposit,36,False,Kemabong
+2013-05-05,SE-12,Sabah,N.36 Kemabong,4,Biou Bin Suyan,18565,PKR,11,2733,25.54205607476636,lost,36,False,Kemabong
+2013-05-05,SE-12,Sabah,N.37 Sook,1,Ellron Bin Angin,2533,BN,25,7223,54.579114402297115,won,37,False,Sook
+2013-05-05,SE-12,Sabah,N.37 Sook,2,Liberty @ Alibi Bin Lopog,18567,PKR,11,1911,14.440078585461693,lost,37,False,Sook
+2013-05-05,SE-12,Sabah,N.37 Sook,3,Kustin Bin Ladi,18568,STAR,64,2828,21.3692005440532,lost,37,False,Sook
+2013-05-05,SE-12,Sabah,N.37 Sook,4,Chong Yu Chee @ Frankie,18569,SAPP,66,1226,9.264016926099444,lost_deposit,37,False,Sook
+2013-05-05,SE-12,Sabah,N.37 Sook,5,Rusayidi Bin Abdullah,18570,BEBAS,1,46,0.3475895420885598,lost_deposit,37,False,Sook
+2013-05-05,SE-12,Sabah,N.38 Nabawan,1,Datuk Bobbey Suan,17200,BN,25,3816,49.82373678025852,won,38,True,Nabawan
+2013-05-05,SE-12,Sabah,N.38 Nabawan,2,Sidum Bin Manjin,17197,BERSAMA,70,41,0.5353179266222745,lost_deposit,38,False,Nabawan
+2013-05-05,SE-12,Sabah,N.38 Nabawan,3,Raymond Bin Ahuar,4338,PKR,11,3474,45.35840188014101,lost,38,False,Nabawan
+2013-05-05,SE-12,Sabah,N.38 Nabawan,4,Fatimah Binti Agitor @ Mohd Daud,3914,BEBAS,1,18,0.2350176263219741,lost_deposit,38,False,Nabawan
+2013-05-05,SE-12,Sabah,N.38 Nabawan,5,George Eram @ George Iram,18575,STAR,64,310,4.047525786656221,lost_deposit,38,False,Nabawan
+2013-05-05,SE-12,Sabah,N.39 Sugut,1,Abdul Rahman Bin Atang,1494,BEBAS,1,1465,21.389983939261207,lost,39,False,Sugut
+2013-05-05,SE-12,Sabah,N.39 Sugut,2,Datuk James Bin Ratib,18577,BN,25,4285,62.56387793838517,won,39,False,Sugut
+2013-05-05,SE-12,Sabah,N.39 Sugut,3,Pagrios @ Petrus Bin Zabang,18578,PKR,11,647,9.446634545189077,lost_deposit,39,False,Sugut
+2013-05-05,SE-12,Sabah,N.39 Sugut,4,Datu Kamaruddin Bin Datu Mustapha,18579,BEBAS,1,111,1.6206745510293472,lost_deposit,39,False,Sugut
+2013-05-05,SE-12,Sabah,N.39 Sugut,5,Masiawan Kunching,18580,STAR,64,341,4.9788290261352035,lost_deposit,39,False,Sugut
+2013-05-05,SE-12,Sabah,N.40 Labuk,1,Metah @ Micheal Bin Asang,14722,BN,25,7408,64.26092990978486,won,40,False,Labuk
+2013-05-05,SE-12,Sabah,N.40 Labuk,2,Datuk Tan Yong Gee,18582,PKR,11,2882,25.0,lost,40,False,Labuk
+2013-05-05,SE-12,Sabah,N.40 Labuk,3,Pinus Bin Gondili,18583,STAR,64,1238,10.73907009021513,lost_deposit,40,False,Labuk
+2013-05-05,SE-12,Sabah,N.41 Gum-Gum,1,Hassan Bin Hami @ Hamid,18584,STAR,64,301,3.3296460176991154,lost_deposit,41,False,Gum-Gum
+2013-05-05,SE-12,Sabah,N.41 Gum-Gum,2,Ahmad Thamrin,18585,PKR,11,3191,35.29867256637168,lost,41,False,Gum-Gum
+2013-05-05,SE-12,Sabah,N.41 Gum-Gum,3,Zakaria Bin Mohd. Edris,18586,BN,25,5548,61.3716814159292,won,41,False,Gum-Gum
+2013-05-05,SE-12,Sabah,N.42 Sungai Sibuga,1,Musa Bin Aman,12357,BN,25,16637,74.31877066023408,won,42,True,Sungai Sibuga
+2013-05-05,SE-12,Sabah,N.42 Sungai Sibuga,2,Mohd Arshad Bin Abdul,18588,BEBAS,1,201,0.8978826051996784,lost_deposit,42,False,Sungai Sibuga
+2013-05-05,SE-12,Sabah,N.42 Sungai Sibuga,3,A.M. Jaffar Bin Juana,18589,SAPP,66,265,1.1837755740194764,lost_deposit,42,False,Sungai Sibuga
+2013-05-05,SE-12,Sabah,N.42 Sungai Sibuga,4,Mohd Roslan Bin Yussof,18590,STAR,64,215,0.9604216921290092,lost_deposit,42,False,Sungai Sibuga
+2013-05-05,SE-12,Sabah,N.42 Sungai Sibuga,5,Irwanshah Bin Mustapa,4349,PKR,11,5068,22.639149468417763,lost,42,False,Sungai Sibuga
+2013-05-05,SE-12,Sabah,N.43 Sekong,1,Musah Bin Ghani,18592,PKR,11,3368,31.27205199628598,lost,43,False,Sekong
+2013-05-05,SE-12,Sabah,N.43 Sekong,2,Ahmad Bin Ibrahim,7716,STAR,64,100,0.9285051067780872,lost_deposit,43,False,Sekong
+2013-05-05,SE-12,Sabah,N.43 Sekong,3,Hj. Awang Bin Hj. Othman .,18594,SAPP,66,354,3.286908077994429,lost_deposit,43,False,Sekong
+2013-05-05,SE-12,Sabah,N.43 Sekong,4,Datu Ilahan Bin Datu Amilbangsa,18595,BEBAS,1,50,0.4642525533890436,lost_deposit,43,False,Sekong
+2013-05-05,SE-12,Sabah,N.43 Sekong,5,Samsudin Bin Yahya,15894,BN,25,6898,64.04828226555246,won,43,True,Sekong
+2013-05-05,SE-12,Sabah,N.44 Karamunting,1,Chong Ket Kiun,18597,DAP,18,5380,44.95696498704771,lost,44,False,Karamunting
+2013-05-05,SE-12,Sabah,N.44 Karamunting,2,Yong Vui Min,18598,SAPP,66,352,2.9414222445057243,lost_deposit,44,False,Karamunting
+2013-05-05,SE-12,Sabah,N.44 Karamunting,3,Charles O Pang,18599,BN,25,6235,52.10161276844656,won,44,False,Karamunting
+2013-05-05,SE-12,Sabah,N.45 Elopura,1,Liau Fook Kong,18600,SAPP,66,469,2.8548819089359627,lost_deposit,45,False,Elopura
+2013-05-05,SE-12,Sabah,N.45 Elopura,2,Au Kam Wah,15900,BN,25,8105,49.336498660822976,won,45,True,Elopura
+2013-05-05,SE-12,Sabah,N.45 Elopura,3,Hiew Vun Zin,18602,DAP,18,7854,47.80861943024105,lost,45,False,Elopura
+2013-05-05,SE-12,Sabah,N.46 Tanjong Papat,1,Frankie Poon,18603,DAP,18,4631,42.195899772209565,lost,46,False,Tanjong Papat
+2013-05-05,SE-12,Sabah,N.46 Tanjong Papat,2,Ken Yong Chie Man,18604,SAPP,66,191,1.7403189066059226,lost_deposit,46,False,Tanjong Papat
+2013-05-05,SE-12,Sabah,N.46 Tanjong Papat,3,Raymond Tan Shu Kiah,17226,BN,25,6153,56.063781321184514,won,46,True,Tanjong Papat
+2013-05-05,SE-12,Sabah,N.47 Kuamut,1,Mustapa Bin Datu Tambuyong,17228,PKR,11,2989,25.347693351424688,lost,47,False,Kuamut
+2013-05-05,SE-12,Sabah,N.47 Kuamut,2,Edward Podok,18607,STAR,64,1196,10.14246947082768,lost_deposit,47,False,Kuamut
+2013-05-05,SE-12,Sabah,N.47 Kuamut,3,Masiung Banah,17229,BN,25,7607,64.50983717774763,won,47,True,Kuamut
+2013-05-05,SE-12,Sabah,N.48 Sukau,1,Datuk Saddi Bin Abdu Rahman,18609,BN,25,5851,77.30215352094069,won,48,False,Sukau
+2013-05-05,SE-12,Sabah,N.48 Sukau,2,Aprin Bin Musin,18610,SAPP,66,89,1.1758488571806052,lost_deposit,48,False,Sukau
+2013-05-05,SE-12,Sabah,N.48 Sukau,3,Hj Ahdah Bin Hj Sulaiman,17233,PAS,3,1432,18.919275994186812,lost,48,False,Sukau
+2013-05-05,SE-12,Sabah,N.48 Sukau,4,Juhori Bin Paritai,18612,STAR,64,197,2.6027216276919005,lost_deposit,48,False,Sukau
+2013-05-05,SE-12,Sabah,N.49 Tungku,1,Mohd. Azlan Tsen Abdullah,18613,BEBAS,1,96,0.871301506625522,lost_deposit,49,False,Tungku
+2013-05-05,SE-12,Sabah,N.49 Tungku,2,Dato Shuaib Bin Dato Mutalib,18614,SAPP,66,373,3.3853693955345805,lost_deposit,49,False,Tungku
+2013-05-05,SE-12,Sabah,N.49 Tungku,3,Datuk Mohd Suhaili Bin Said,18615,BN,25,7848,71.22889816663641,won,49,False,Tungku
+2013-05-05,SE-12,Sabah,N.49 Tungku,4,Johani Bin Abd Halim,15916,PKR,11,2364,21.45579960065348,lost,49,False,Tungku
+2013-05-05,SE-12,Sabah,N.49 Tungku,5,Johan Bin Nul,18617,STAR,64,337,3.058631330550009,lost_deposit,49,False,Tungku
+2013-05-05,SE-12,Sabah,N.50 Lahad Datu,1,Ali Andu Enjil,18618,SAPP,66,912,4.867634500426986,lost_deposit,50,False,Lahad Datu
+2013-05-05,SE-12,Sabah,N.50 Lahad Datu,2,Dato' Haji Mohammad Yusof Haji Apdal,18619,BN,25,12949,69.11293766011956,won,50,False,Lahad Datu
+2013-05-05,SE-12,Sabah,N.50 Lahad Datu,3,Hamid Awong @ Abdul Hamid Awong,18620,PKR,11,4534,24.19940222032451,lost,50,False,Lahad Datu
+2013-05-05,SE-12,Sabah,N.50 Lahad Datu,4,Ariffin Bin Hamid @ Alfa Hamid,18621,STAR,64,341,1.8200256191289497,lost_deposit,50,False,Lahad Datu
+2013-05-05,SE-12,Sabah,N.51 Kunak,1,Abd. Sattal Shafiee,18622,BEBAS,1,64,0.7263647713085916,lost_deposit,51,False,Kunak
+2013-05-05,SE-12,Sabah,N.51 Kunak,2,Hussein Bin Ibnu Hassan,18623,BEBAS,1,1034,11.735330836454432,lost_deposit,51,False,Kunak
+2013-05-05,SE-12,Sabah,N.51 Kunak,3,Kasman Bin Karate,18624,PAS,3,1002,11.372148450800134,lost_deposit,51,False,Kunak
+2013-05-05,SE-12,Sabah,N.51 Kunak,4,Datuk Nilwan Bin Kabang,18625,BN,25,6394,72.56838043354897,won,51,False,Kunak
+2013-05-05,SE-12,Sabah,N.51 Kunak,5,Valentine @ Rengers Sebastian,18626,STAR,64,200,2.2698899103393493,lost_deposit,51,False,Kunak
+2013-05-05,SE-12,Sabah,N.51 Kunak,6,Sharif Shamsuddin Sh. Sagaf,18627,BEBAS,1,117,1.3278855975485189,lost_deposit,51,False,Kunak
+2013-05-05,SE-12,Sabah,N.52 Sulabayan,1,Hasaman Bin Sagaran,18628,BERSAMA,70,227,2.5465559793583132,lost_deposit,52,False,Sulabayan
+2013-05-05,SE-12,Sabah,N.52 Sulabayan,2,Hussein Bin Mumakil,18629,BEBAS,1,347,3.8927529728516936,lost_deposit,52,False,Sulabayan
+2013-05-05,SE-12,Sabah,N.52 Sulabayan,3,Dato' Hj Jaujan Bin Hj Sambakong,18630,BN,25,6546,73.43504599506393,won,52,False,Sulabayan
+2013-05-05,SE-12,Sabah,N.52 Sulabayan,4,Mamat Barhana,18631,BEBAS,1,74,0.8301548126542516,lost_deposit,52,False,Sulabayan
+2013-05-05,SE-12,Sabah,N.52 Sulabayan,5,Hermeny Bin Murgal,18632,PKR,11,1417,15.89634283150101,lost,52,False,Sulabayan
+2013-05-05,SE-12,Sabah,N.52 Sulabayan,6,Julkalani Bin Abd. Rahman,18633,BEBAS,1,107,1.2003589858649315,lost_deposit,52,False,Sulabayan
+2013-05-05,SE-12,Sabah,N.52 Sulabayan,7,Ghazalie B Penghulu Hindi,18634,BEBAS,1,196,2.198788422705856,lost_deposit,52,False,Sulabayan
+2013-05-05,SE-12,Sabah,N.53 Senallang,1,Datu Badaruddin Tun Mustapha,3931,BEBAS,1,164,1.6741527153940383,lost_deposit,53,False,Senallang
+2013-05-05,SE-12,Sabah,N.53 Senallang,2,Mohd Amin Bin Abdul Men,18636,PKR,11,1516,15.475704369130256,lost,53,False,Senallang
+2013-05-05,SE-12,Sabah,N.53 Senallang,3,Datuk Nasir Bin Sakaran,18637,BN,25,7425,75.79624336463863,won,53,False,Senallang
+2013-05-05,SE-12,Sabah,N.53 Senallang,4,Abdul Manang Bin Hatib Lawari @ Osman,18638,BEBAS,1,546,5.573703552470397,lost_deposit,53,False,Senallang
+2013-05-05,SE-12,Sabah,N.53 Senallang,5,Ab Karim Bin Talip,18639,BEBAS,1,145,1.48019599836668,lost_deposit,53,False,Senallang
+2013-05-05,SE-12,Sabah,N.54 Bugaya,1,Abdul Hussin Bin Kiamsin,15935,BEBAS,1,3139,27.264831060540253,lost,54,False,Bugaya
+2013-05-05,SE-12,Sabah,N.54 Bugaya,2,Atal Muhammad Bin K.K Abd Menang,18641,BEBAS,1,201,1.745852514548771,lost_deposit,54,False,Bugaya
+2013-05-05,SE-12,Sabah,N.54 Bugaya,3,Datuk Ramlee Marahaban,18642,BN,25,6642,57.69130548076088,won,54,False,Bugaya
+2013-05-05,SE-12,Sabah,N.54 Bugaya,4,Alimin Bin Budin,18643,BEBAS,1,638,5.541561712846347,lost_deposit,54,False,Bugaya
+2013-05-05,SE-12,Sabah,N.54 Bugaya,5,Hasai Bin Tudai,18644,PAS,3,702,6.097455050812125,lost_deposit,54,False,Bugaya
+2013-05-05,SE-12,Sabah,N.54 Bugaya,6,Abdullah Sani Bin Abdul Salleh,14769,BEBAS,1,191,1.6589941804916182,lost_deposit,54,False,Bugaya
+2013-05-05,SE-12,Sabah,N.55 Balung,1,S. Abas Bin S. Ali,9085,BN,25,7843,74.71658569114985,won,55,True,Balung
+2013-05-05,SE-12,Sabah,N.55 Balung,2,Abd. Hamid Bin Mohd. Noor,18647,SAPP,66,200,1.905306277984186,lost_deposit,55,False,Balung
+2013-05-05,SE-12,Sabah,N.55 Balung,3,Ahmad Frank Salazar,18648,PKR,11,2274,21.663332380680195,lost,55,False,Balung
+2013-05-05,SE-12,Sabah,N.55 Balung,4,Abdillah,18649,BEBAS,1,180,1.7147756501857674,lost_deposit,55,False,Balung
+2013-05-05,SE-12,Sabah,N.56 Apas,1,Tahir Bin Dahu,18650,SAPP,66,149,1.2285620052770447,lost_deposit,56,False,Apas
+2013-05-05,SE-12,Sabah,N.56 Apas,2,Chok Yit Min,18651,STAR,64,75,0.6184036939313984,lost_deposit,56,False,Apas
+2013-05-05,SE-12,Sabah,N.56 Apas,3,Alizaman Bin Jijurahman,4359,PKR,11,2891,23.837401055408968,lost,56,False,Apas
+2013-05-05,SE-12,Sabah,N.56 Apas,4,Datuk Tawfiq Abu Bakar Titingan,7970,BN,25,9013,74.3156332453826,won,56,False,Apas
+2013-05-05,SE-12,Sabah,N.57 Sri Tanjong,1,Fung Len Fui,18654,BN,25,5021,30.69633795928349,lost,57,False,Sri Tanjong
+2013-05-05,SE-12,Sabah,N.57 Sri Tanjong,2,Olivia Chong Oi Yun,18655,STAR,64,128,0.7825395854985633,lost_deposit,57,False,Sri Tanjong
+2013-05-05,SE-12,Sabah,N.57 Sri Tanjong,3,Yong Chong Kim,18656,SAPP,66,260,1.5895335330439568,lost_deposit,57,False,Sri Tanjong
+2013-05-05,SE-12,Sabah,N.57 Sri Tanjong,4,Chan Foong Hin,3587,DAP,18,10948,66.931588922174,won,57,False,Sri Tanjong
+2013-05-05,SE-12,Sabah,N.58 Merotai,1,Mohd Bin Manuke,3933,BEBAS,1,342,2.4561907497845445,lost_deposit,58,False,Merotai
+2013-05-05,SE-12,Sabah,N.58 Merotai,2,Rita Rudiansah Bin Abu Bakar,18659,BEBAS,1,104,0.7469118069520253,lost_deposit,58,False,Merotai
+2013-05-05,SE-12,Sabah,N.58 Merotai,3,Ho Shau Vui,18660,SAPP,66,221,1.5871875897730536,lost_deposit,58,False,Merotai
+2013-05-05,SE-12,Sabah,N.58 Merotai,4,Chin Chee Syn,18661,BEBAS,1,1255,9.013214593507612,lost_deposit,58,False,Merotai
+2013-05-05,SE-12,Sabah,N.58 Merotai,5,Pang Yuk Ming,17264,BN,25,8045,57.77793737431772,won,58,True,Merotai
+2013-05-05,SE-12,Sabah,N.58 Merotai,6,Hj Ahmad Dullah,18663,PAS,3,3957,28.41855788566504,lost,58,False,Merotai
+2013-05-05,SE-12,Sabah,N.59 Tanjong Batu,1,Fatmawaty Mohd Yusuf,18664,PAS,3,3228,22.916370864688343,lost,59,False,Tanjong Batu
+2013-05-05,SE-12,Sabah,N.59 Tanjong Batu,2,Hamisa Binti Samat,18665,BN,25,10858,77.08362913531167,won,59,False,Tanjong Batu
+2013-05-05,SE-12,Sabah,N.60 Sebatik,1,Mohamad Yusup Bin Lewah,18666,BEBAS,1,249,3.4100246507806085,lost_deposit,60,False,Sebatik
+2013-05-05,SE-12,Sabah,N.60 Sebatik,2,Daud Bin Jalaluddin,18667,PAS,3,1344,18.405916187345934,lost,60,False,Sebatik
+2013-05-05,SE-12,Sabah,N.60 Sebatik,3,Abd Muis Bin Picho,17270,BN,25,5484,75.10271158586689,won,60,True,Sebatik
+2013-05-05,SE-12,Sabah,N.60 Sebatik,4,Mohammad Jeffry Bin Rosman,18669,STAR,64,225,3.0813475760065736,lost_deposit,60,False,Sebatik
+2018-05-09,SE-13,Sabah,N.01 Banggi,1,Kusugan Bin Ali,17080,PPRS,77,105,1.3888888888888888,lost_deposit,1,False,Banggi
+2018-05-09,SE-13,Sabah,N.01 Banggi,2,Datuk Abd Mijul Bin Unaini,20077,BN,25,3234,42.77777777777778,lost,1,False,Banggi
+2018-05-09,SE-13,Sabah,N.01 Banggi,3,Abidula Bin Amsana,10070,PHRS,78,198,2.619047619047619,lost_deposit,1,False,Banggi
+2018-05-09,SE-13,Sabah,N.01 Banggi,4,Mohammad Mohamarin,20079,WARISAN,74,3613,47.791005291005284,won,1,False,Banggi
+2018-05-09,SE-13,Sabah,N.01 Banggi,5,Norlaji Bin Amir Hassan,20080,SOLIDARITI,80,367,4.8544973544973535,lost_deposit,1,False,Banggi
+2018-05-09,SE-13,Sabah,N.01 Banggi,6,Abdul Nasir Bin Jamaluddin,20081,PKS,28,43,0.5687830687830688,lost_deposit,1,False,Banggi
+2018-05-09,SE-13,Sabah,N.02 Tanjong Kapor,1,Thomas Tsen,20082,PCS,75,481,2.863095238095238,lost_deposit,2,False,Tanjong Kapor
+2018-05-09,SE-13,Sabah,N.02 Tanjong Kapor,2,Chong Chen Bin,20083,WARISAN,74,9124,54.30952380952381,won,2,False,Tanjong Kapor
+2018-05-09,SE-13,Sabah,N.02 Tanjong Kapor,3,Teo Chee Kang,17084,BN,25,6132,36.5,lost,2,False,Tanjong Kapor
+2018-05-09,SE-13,Sabah,N.02 Tanjong Kapor,4,Allaidly Binti Poyon,20085,PPRS,77,446,2.6547619047619047,lost_deposit,2,False,Tanjong Kapor
+2018-05-09,SE-13,Sabah,N.02 Tanjong Kapor,5,Aliasgar Bin Omolong,20086,PAS,3,617,3.672619047619047,lost_deposit,2,False,Tanjong Kapor
+2018-05-09,SE-13,Sabah,N.03 Pitas,1,Datuk Bolkiah Bin Hj Ismail,18421,BN,25,5606,44.396927219450376,won,3,True,Pitas
+2018-05-09,SE-13,Sabah,N.03 Pitas,2,Dausieh Binti Queck @ Paraman,18422,PAS,3,262,2.074918824740635,lost_deposit,3,False,Pitas
+2018-05-09,SE-13,Sabah,N.03 Pitas,3,Pransol Tiying,20089,ANAKNEGERI,83,400,3.167814999604023,lost_deposit,3,False,Pitas
+2018-05-09,SE-13,Sabah,N.03 Pitas,4,Bakir Bin Mancaing,20090,PHRS,78,1527,12.093133760988357,lost_deposit,3,False,Pitas
+2018-05-09,SE-13,Sabah,N.03 Pitas,5,Ramlah Binti Nasir,20091,PKS,28,508,4.02312504949711,lost_deposit,3,False,Pitas
+2018-05-09,SE-13,Sabah,N.03 Pitas,6,Maklin Masiau,20092,WARISAN,74,4324,34.24408014571949,lost,3,False,Pitas
+2018-05-09,SE-13,Sabah,N.04 Matunggong,1,Marunsai Bin Dawai,18425,SOLIDARITI,80,2968,17.859076960105902,lost,4,False,Matunggong
+2018-05-09,SE-13,Sabah,N.04 Matunggong,2,Sazalye Donol Bin Abdullah,20094,PKR,11,5259,31.644503279379023,lost,4,False,Matunggong
+2018-05-09,SE-13,Sabah,N.04 Matunggong,3,Julita Mojungki,20095,BN,25,6946,41.79553523075997,won,4,False,Matunggong
+2018-05-09,SE-13,Sabah,N.04 Matunggong,4,Jornah Mozihim,20096,PCS,75,1348,8.111198026355376,lost_deposit,4,False,Matunggong
+2018-05-09,SE-13,Sabah,N.04 Matunggong,5,Rahim Bin Madhakong,20097,PKS,28,98,0.5896865033997233,lost_deposit,4,False,Matunggong
+2018-05-09,SE-13,Sabah,N.05 Tandek,1,Johnson Bin Assan @ Johnson Gaban,20098,PCS,75,553,3.1898938624826947,lost_deposit,5,False,Tandek
+2018-05-09,SE-13,Sabah,N.05 Tandek,2,Baintin Adun,20099,WARISAN,74,4285,24.71735117674204,lost,5,False,Tandek
+2018-05-09,SE-13,Sabah,N.05 Tandek,3,Datuk Anita Baranting,20100,BN,25,8877,51.20558375634518,won,5,False,Tandek
+2018-05-09,SE-13,Sabah,N.05 Tandek,4,Joel Masilung,20101,SOLIDARITI,80,3621,20.88717120443009,lost,5,False,Tandek
+2018-05-09,SE-13,Sabah,N.06 Tempasuk,1,Suwah Bulleh,20102,SOLIDARITI,80,1494,9.806366918280276,lost_deposit,6,False,Tempasuk
+2018-05-09,SE-13,Sabah,N.06 Tempasuk,2,Mustaqim Bin Aling,20103,PAS,3,521,3.4197571381686913,lost_deposit,6,False,Tempasuk
+2018-05-09,SE-13,Sabah,N.06 Tempasuk,3,Musbah Haji Jamli,20104,BN,25,7742,50.81719724319002,won,6,False,Tempasuk
+2018-05-09,SE-13,Sabah,N.06 Tempasuk,4,Mustapha Sakmud,5064,PKR,11,5478,35.95667870036101,lost,6,False,Tempasuk
+2018-05-09,SE-13,Sabah,N.07 Kadamaian,1,Mail Bin Balinu,20106,PCS,75,764,5.32218739115291,lost_deposit,7,False,Kadamaian
+2018-05-09,SE-13,Sabah,N.07 Kadamaian,2,Rubbin Guribah,20107,SOLIDARITI,80,3034,21.13549285963079,lost,7,False,Kadamaian
+2018-05-09,SE-13,Sabah,N.07 Kadamaian,3,Lukia Binti Indan,17104,PKR,11,3567,24.84848484848485,lost,7,False,Kadamaian
+2018-05-09,SE-13,Sabah,N.07 Kadamaian,4,Satail Bin Manjungkat,20109,PAS,3,129,0.8986415882967607,lost_deposit,7,False,Kadamaian
+2018-05-09,SE-13,Sabah,N.07 Kadamaian,5,Ewon Benedick,5073,BN,25,6861,47.795193312434684,won,7,False,Kadamaian
+2018-05-09,SE-13,Sabah,N.08 Usukan,1,Datuk Japlin Bin Akim,17108,BN,25,8738,52.39865675221875,won,8,False,Usukan
+2018-05-09,SE-13,Sabah,N.08 Usukan,2,Abdul Bahkrin Bin Mohd Yusof,20112,WARISAN,74,7513,45.05277044854881,lost,8,False,Usukan
+2018-05-09,SE-13,Sabah,N.08 Usukan,3,Amsor Bin Tuah,20113,BEBAS,1,70,0.4197649316382825,lost_deposit,8,False,Usukan
+2018-05-09,SE-13,Sabah,N.08 Usukan,4,Adzmin Bin Awang,20114,PAS,3,355,2.1288078675941478,lost_deposit,8,False,Usukan
+2018-05-09,SE-13,Sabah,N.09 Tamparuli,1,Datuk Jahid Jahim,20115,BN,25,6818,45.459394585944786,won,9,False,Tamparuli
+2018-05-09,SE-13,Sabah,N.09 Tamparuli,2,Dausil Bin Kundayong,20116,PKR,11,4738,31.590878783837844,lost,9,False,Tamparuli
+2018-05-09,SE-13,Sabah,N.09 Tamparuli,3,Mojilip Bin Bumburing @ Wilfred,8978,PCS,75,2541,16.942258967862383,lost,9,False,Tamparuli
+2018-05-09,SE-13,Sabah,N.09 Tamparuli,4,Jasmin Bin Dulin,20118,SOLIDARITI,80,901,6.007467662354982,lost_deposit,9,False,Tamparuli
+2018-05-09,SE-13,Sabah,N.10 Sulaman,1,Haji Hajiji Bin Haji Noor,20119,BN,25,12966,69.61610738255034,won,10,False,Sulaman
+2018-05-09,SE-13,Sabah,N.10 Sulaman,2,Abdullah Sani Bin Daud,20120,WARISAN,74,5192,27.876510067114097,lost,10,False,Sulaman
+2018-05-09,SE-13,Sabah,N.10 Sulaman,3,Arifin Bin Harith,18450,PHRS,78,467,2.5073825503355707,lost_deposit,10,False,Sulaman
+2018-05-09,SE-13,Sabah,N.11 Kiulu,1,Joniston Bin Lumai @ Bangkuai,18457,BN,25,4336,42.38928536513833,won,11,True,Kiulu
+2018-05-09,SE-13,Sabah,N.11 Kiulu,2,Gaibin Ransoi,17115,PCS,75,543,5.308436797340894,lost_deposit,11,False,Kiulu
+2018-05-09,SE-13,Sabah,N.11 Kiulu,3,Jo-Anna Sue Henley Rampas,5058,WARISAN,74,2893,28.282334539055626,lost,11,False,Kiulu
+2018-05-09,SE-13,Sabah,N.11 Kiulu,4,Terence Sinti,18456,SOLIDARITI,80,2457,24.019943298465147,lost,11,False,Kiulu
+2018-05-09,SE-13,Sabah,N.12 Karambunai,1,Azhar Matussin,20126,WARISAN,74,14157,54.65601111883253,won,12,False,Karambunai
+2018-05-09,SE-13,Sabah,N.12 Karambunai,2,Aspar Akbar,20127,PAS,3,1696,6.5477569299667975,lost_deposit,12,False,Karambunai
+2018-05-09,SE-13,Sabah,N.12 Karambunai,3,Jainab Binti Ahmad,15806,BN,25,8791,33.939464134043696,lost,12,False,Karambunai
+2018-05-09,SE-13,Sabah,N.12 Karambunai,4,Ahsim Bin Jamat,20129,SAPP,66,1258,4.856767817156976,lost_deposit,12,False,Karambunai
+2018-05-09,SE-13,Sabah,N.13 Inanam,1,Jakariah Bin Janit,17240,PKS,28,156,0.7132732842576929,lost_deposit,13,False,Inanam
+2018-05-09,SE-13,Sabah,N.13 Inanam,2,Johnny Goh,20131,BN,25,5850,26.74774815966348,lost,13,False,Inanam
+2018-05-09,SE-13,Sabah,N.13 Inanam,3,Situl Bin Mintow,20132,BEBAS,1,57,0.2606190846326185,lost_deposit,13,False,Inanam
+2018-05-09,SE-13,Sabah,N.13 Inanam,4,Terence Tsen Kim Fatt,20133,ANAKNEGERI,83,480,2.1946870284852085,lost_deposit,13,False,Inanam
+2018-05-09,SE-13,Sabah,N.13 Inanam,5,Kenny Chua,20134,PKR,11,13633,62.33368387362261,won,13,False,Inanam
+2018-05-09,SE-13,Sabah,N.13 Inanam,6,John Stephen Dionysius,20135,SAPP,66,1695,7.749988569338392,lost_deposit,13,False,Inanam
+2018-05-09,SE-13,Sabah,N.14 Likas,1,Tan Lee Fatt,20136,DAP,18,9163,82.57186627016311,won,14,False,Likas
+2018-05-09,SE-13,Sabah,N.14 Likas,2,Chin Shu Ying,18467,BN,25,1261,11.363431558078759,lost_deposit,14,False,Likas
+2018-05-09,SE-13,Sabah,N.14 Likas,3,Richard Yong We Kong,18482,SAPP,66,673,6.0647021717581335,lost_deposit,14,False,Likas
+2018-05-09,SE-13,Sabah,N.15 Api-Api,1,Dr. Chan Chee Ching,20139,BEBAS,1,94,0.6559665038381018,lost_deposit,15,False,Api-Api
+2018-05-09,SE-13,Sabah,N.15 Api-Api,2,Yee Moh Chai,2519,BN,25,5220,36.427076064200975,lost,15,False,Api-Api
+2018-05-09,SE-13,Sabah,N.15 Api-Api,3,Land Lip Fong,20141,ANAKNEGERI,83,244,1.702721563154222,lost_deposit,15,False,Api-Api
+2018-05-09,SE-13,Sabah,N.15 Api-Api,4,Christina Liew,3204,PKR,11,8174,57.04117236566644,won,15,True,Api-Api
+2018-05-09,SE-13,Sabah,N.15 Api-Api,5,Lim Kat Chung,20143,SAPP,66,598,4.173063503140265,lost_deposit,15,False,Api-Api
+2018-05-09,SE-13,Sabah,N.16 Luyang,1,Gee Tien Siong,20144,SAPP,66,807,4.782789071297339,lost_deposit,16,False,Luyang
+2018-05-09,SE-13,Sabah,N.16 Luyang,2,Phoong Jin Zhe,20145,DAP,18,14237,84.37740769276358,won,16,False,Luyang
+2018-05-09,SE-13,Sabah,N.16 Luyang,3,Dr. Pamela Yong,20146,BN,25,1829,10.839803235939074,lost_deposit,16,False,Luyang
+2018-05-09,SE-13,Sabah,N.17 Tanjong Aru,1,Noraiza Binti Mohammad Noor,20147,PHRS,78,566,3.2496985703622903,lost_deposit,17,False,Tanjong Aru
+2018-05-09,SE-13,Sabah,N.17 Tanjong Aru,2,Roger Chong Wei Leung,20148,ANAKNEGERI,83,494,2.8363093529310444,lost_deposit,17,False,Tanjong Aru
+2018-05-09,SE-13,Sabah,N.17 Tanjong Aru,3,Ir. Edward Yong Oui Fah,17132,BN,25,5184,29.764023655049662,lost,17,False,Tanjong Aru
+2018-05-09,SE-13,Sabah,N.17 Tanjong Aru,4,Hamid Ismail,20150,PAS,3,1379,7.917551817190103,lost_deposit,17,False,Tanjong Aru
+2018-05-09,SE-13,Sabah,N.17 Tanjong Aru,5,Wong Hong Jun,18466,WARISAN,74,9794,56.232416604466884,won,17,False,Tanjong Aru
+2018-05-09,SE-13,Sabah,N.18 Petagas,1,Yahya Bin Hussin,12440,BN,25,6318,46.44222287562482,lost,18,False,Petagas
+2018-05-09,SE-13,Sabah,N.18 Petagas,2,Ester Otion Matanul,20153,PHRS,78,760,5.58659217877095,lost_deposit,18,False,Petagas
+2018-05-09,SE-13,Sabah,N.18 Petagas,3,Uda Bin Sulai,14657,WARISAN,74,6526,47.971184945604236,won,18,False,Petagas
+2018-05-09,SE-13,Sabah,N.19 Kapayan,1,Francis Goh Fah Shun,20155,BN,25,6308,23.20482636845203,lost,19,False,Kapayan
+2018-05-09,SE-13,Sabah,N.19 Kapayan,2,Chong Pit Fah,18489,SOLIDARITI,80,1318,4.848440258975868,lost_deposit,19,False,Kapayan
+2018-05-09,SE-13,Sabah,N.19 Kapayan,3,Jannie Lasimbang,20157,DAP,18,19558,71.9467333725721,won,19,False,Kapayan
+2018-05-09,SE-13,Sabah,N.20 Moyog,1,Datuk Donald Peter Mojuntin,20158,BN,25,5303,33.404724409448825,lost,20,False,Moyog
+2018-05-09,SE-13,Sabah,N.20 Moyog,2,Jenifer Lasimbang,20159,WARISAN,74,9745,61.38582677165354,won,20,False,Moyog
+2018-05-09,SE-13,Sabah,N.20 Moyog,3,Bandasan @ Dionisius Dennis J Tunding,20160,PCS,75,222,1.3984251968503936,lost_deposit,20,False,Moyog
+2018-05-09,SE-13,Sabah,N.20 Moyog,4,Danim @ Aloysius Siap,18492,SOLIDARITI,80,605,3.811023622047243,lost_deposit,20,False,Moyog
+2018-05-09,SE-13,Sabah,N.21 Kawang,1,Matlin Bin Jilon,20162,PHRS,78,781,4.133149872988992,lost_deposit,21,False,Kawang
+2018-05-09,SE-13,Sabah,N.21 Kawang,2,Datuk Gulamhaidar @ Yusof Bin Khan Bahadar,15837,BN,25,10388,54.97459779847587,won,21,True,Kawang
+2018-05-09,SE-13,Sabah,N.21 Kawang,3,Salleh Hj Eddris,20164,WARISAN,74,7526,39.82853513971211,lost,21,False,Kawang
+2018-05-09,SE-13,Sabah,N.21 Kawang,4,Wahid Bin Ismail,20165,ANAKNEGERI,83,201,1.0637171888230312,lost_deposit,21,False,Kawang
+2018-05-09,SE-13,Sabah,N.22 Pantai Manis,1,Jawasing Bin Mianus @ Herman J Mianus,20166,PCS,75,129,0.7616461002538821,lost_deposit,22,False,Pantai Manis
+2018-05-09,SE-13,Sabah,N.22 Pantai Manis,2,Haji Abdul Rahim Bin Ismail,17148,BN,25,7126,42.07356674735785,lost,22,False,Pantai Manis
+2018-05-09,SE-13,Sabah,N.22 Pantai Manis,3,James @ Ebi Ghani,20168,PHRS,78,448,2.6450965342150323,lost_deposit,22,False,Pantai Manis
+2018-05-09,SE-13,Sabah,N.22 Pantai Manis,4,Aidi Moktar,20169,WARISAN,74,9234,54.51969061817323,won,22,False,Pantai Manis
+2018-05-09,SE-13,Sabah,N.23 Bongawan,1,Datuk Mohamad Bin Alamin,20170,BN,25,6117,44.79349736379613,lost,23,False,Bongawan
+2018-05-09,SE-13,Sabah,N.23 Bongawan,2,Daud Bin Yusof,5083,WARISAN,74,6912,50.615114235500876,won,23,False,Bongawan
+2018-05-09,SE-13,Sabah,N.23 Bongawan,3,Jaafar Bin Ismail,3557,PHRS,78,627,4.591388400702988,lost_deposit,23,False,Bongawan
+2018-05-09,SE-13,Sabah,N.24 Membakut,1,Mohd Arifin Bin Mohd Arif,15842,BN,25,6495,57.21962822658797,won,24,True,Membakut
+2018-05-09,SE-13,Sabah,N.24 Membakut,2,Ali Omar Bin Mohd Idris,20174,PHRS,78,456,4.017267201127655,lost_deposit,24,False,Membakut
+2018-05-09,SE-13,Sabah,N.24 Membakut,3,Rosjelen Binti Salimat,20175,PCS,75,223,1.9645846180953217,lost_deposit,24,False,Membakut
+2018-05-09,SE-13,Sabah,N.24 Membakut,4,Haji Yahya Bin Ahmad,11958,BEBAS,1,85,0.7488327019645846,lost_deposit,24,False,Membakut
+2018-05-09,SE-13,Sabah,N.24 Membakut,5,Abd Sani Bin Marip @ Marif,20177,WARISAN,74,4092,36.049687252224466,lost,24,False,Membakut
+2018-05-09,SE-13,Sabah,N.25 Klias,1,Isnin Bin Hj Aliasnih,18514,BN,25,6173,44.94357480888242,won,25,False,Klias
+2018-05-09,SE-13,Sabah,N.25 Klias,2,Johair Binti Mat Lani,20179,WARISAN,74,3725,27.120495085547873,lost,25,False,Klias
+2018-05-09,SE-13,Sabah,N.25 Klias,3,Lajim Bin Ukin (Datuk Seri Panglima),20180,PHRS,78,3837,27.93593010556971,lost,25,False,Klias
+2018-05-09,SE-13,Sabah,N.26 Kuala Penyu,1,Datuk Limus Bin Jury,20181,BN,25,7352,54.63733650416171,won,26,False,Kuala Penyu
+2018-05-09,SE-13,Sabah,N.26 Kuala Penyu,2,Nikol Tiunsu @ Herman Tiongsoh,20182,PCS,75,548,4.072532699167657,lost_deposit,26,False,Kuala Penyu
+2018-05-09,SE-13,Sabah,N.26 Kuala Penyu,3,Dikin Bin Musah,5087,PKR,11,3807,28.29221165279429,lost,26,False,Kuala Penyu
+2018-05-09,SE-13,Sabah,N.26 Kuala Penyu,4,Jonas Bin Sungin @ Sunggim,20184,PHRS,78,1749,12.997919143876338,lost,26,False,Kuala Penyu
+2018-05-09,SE-13,Sabah,N.27 Lumadan,1,Matbali Musah,20185,BN,25,6836,56.645674511103756,won,27,False,Lumadan
+2018-05-09,SE-13,Sabah,N.27 Lumadan,2,Asmat Bin Japar,20186,PHRS,78,1331,11.029168047729533,lost_deposit,27,False,Lumadan
+2018-05-09,SE-13,Sabah,N.27 Lumadan,3,Md Samlih Bin Juaisin,20187,WARISAN,74,3901,32.32515744116672,lost,27,False,Lumadan
+2018-05-09,SE-13,Sabah,N.28 Sindumin,1,Datuk Dr Yusof,20188,WARISAN,74,6648,51.90100710437974,won,28,False,Sindumin
+2018-05-09,SE-13,Sabah,N.28 Sindumin,2,Datuk Haji Sapawi Bin Amat Wasali @ Ahmad,20189,BN,25,5888,45.967678975720204,lost,28,False,Sindumin
+2018-05-09,SE-13,Sabah,N.28 Sindumin,3,Patrick Sadom,20190,PHRS,78,273,2.1313139199000704,lost_deposit,28,False,Sindumin
+2018-05-09,SE-13,Sabah,N.29 Kundasang,1,Jinus Bin Sodiong,20191,PKS,28,166,1.552707885137031,lost_deposit,29,False,Kundasang
+2018-05-09,SE-13,Sabah,N.29 Kundasang,2,Japiril Suhaimin,3219,SOLIDARITI,80,2105,19.6894584229726,lost,29,False,Kundasang
+2018-05-09,SE-13,Sabah,N.29 Kundasang,3,Siriman @ Mohd Fazid Bin Basir,20193,WARISAN,74,3716,34.75820783836872,lost,29,False,Kundasang
+2018-05-09,SE-13,Sabah,N.29 Kundasang,4,Datuk Henrynus Amin,20194,ANAKNEGERI,83,733,6.8562342156954434,lost_deposit,29,False,Kundasang
+2018-05-09,SE-13,Sabah,N.29 Kundasang,5,Dr. Joachim Gunsalam,17170,BN,25,3971,37.14339163782621,won,29,False,Kundasang
+2018-05-09,SE-13,Sabah,N.30 Karanaan,1,Datuk Masidi Manjun,17173,BN,25,6849,63.979448855674924,won,30,True,Karanaan
+2018-05-09,SE-13,Sabah,N.30 Karanaan,2,Juhaili Bin Sidek,20197,ANAKNEGERI,83,104,0.9715086408220456,lost_deposit,30,False,Karanaan
+2018-05-09,SE-13,Sabah,N.30 Karanaan,3,Aman @ Adzman Bin Manaf,20198,PHRS,78,685,6.39887902849136,lost_deposit,30,False,Karanaan
+2018-05-09,SE-13,Sabah,N.30 Karanaan,4,Pehing @ Chong Peck Hing,20199,PKR,11,3067,28.650163475011677,lost,30,False,Karanaan
+2018-05-09,SE-13,Sabah,N.31 Paginatan,1,Julian @ Paul Bin Sidin,20200,WARISAN,74,3600,31.029132908119287,lost,31,False,Paginatan
+2018-05-09,SE-13,Sabah,N.31 Paginatan,2,Datuk Abidin Bin Madingkir,20201,BN,25,5666,48.83640751594553,won,31,False,Paginatan
+2018-05-09,SE-13,Sabah,N.31 Paginatan,3,Satiol Bin Indong,18532,PCS,75,362,3.1201516979831063,lost_deposit,31,False,Paginatan
+2018-05-09,SE-13,Sabah,N.31 Paginatan,4,Mat Jaili Samat,17177,PPRS,77,104,0.8963971729012239,lost_deposit,31,False,Paginatan
+2018-05-09,SE-13,Sabah,N.31 Paginatan,5,Feddrin Tuliang,20204,SOLIDARITI,80,1870,16.117910705050853,lost,31,False,Paginatan
+2018-05-09,SE-13,Sabah,N.32 Tambunan,1,Justin Bin Alip,20205,WARISAN,74,1427,10.878182649794176,lost_deposit,32,False,Tambunan
+2018-05-09,SE-13,Sabah,N.32 Tambunan,2,Nestor Bin Joannes,15867,PCS,75,456,3.4761396554352797,lost_deposit,32,False,Tambunan
+2018-05-09,SE-13,Sabah,N.32 Tambunan,3,Datuk Dr. Jeffrey Kitingan,17184,SOLIDARITI,80,6136,46.77542308278701,won,32,False,Tambunan
+2018-05-09,SE-13,Sabah,N.32 Tambunan,4,Joseph Pairin Kitingan,7897,BN,25,5099,38.87025461198353,lost,32,False,Tambunan
+2018-05-09,SE-13,Sabah,N.33 Bingkor,1,Peter Jino Allion,20209,BN,25,4387,31.99154087362357,lost,33,False,Bingkor
+2018-05-09,SE-13,Sabah,N.33 Bingkor,2,Datuk Justin Guka,20210,BEBAS,1,182,1.3272077590607452,lost_deposit,33,False,Bingkor
+2018-05-09,SE-13,Sabah,N.33 Bingkor,3,Robert Tawik,20211,SOLIDARITI,80,4552,33.19477867716765,won,33,False,Bingkor
+2018-05-09,SE-13,Sabah,N.33 Bingkor,4,Peter Saili,20212,DAP,18,4233,30.86851892364909,lost,33,False,Bingkor
+2018-05-09,SE-13,Sabah,N.33 Bingkor,5,Thomas Anggan,10188,PKS,28,69,0.5031721723911616,lost_deposit,33,False,Bingkor
+2018-05-09,SE-13,Sabah,N.33 Bingkor,6,Dr. Aisat Ellik Bin Igau @ Oswald Iggau,20214,ANAKNEGERI,83,290,2.114781594107781,lost_deposit,33,False,Bingkor
+2018-05-09,SE-13,Sabah,N.34 Liawan,1,Kong Fui Seng,18561,SOLIDARITI,80,1809,13.523211482395155,lost,34,False,Liawan
+2018-05-09,SE-13,Sabah,N.34 Liawan,2,Hussein @ Jaimis Bin Kassim @ Madatin,20216,PCS,75,176,1.315691111609479,lost_deposit,34,False,Liawan
+2018-05-09,SE-13,Sabah,N.34 Liawan,3,Sairin Karno,9052,BN,25,5005,37.41496598639456,lost,34,False,Liawan
+2018-05-09,SE-13,Sabah,N.34 Liawan,4,Rasinin Bin Koutis @ Kautis,5102,WARISAN,74,6387,47.74613141960081,won,34,False,Liawan
+2018-05-09,SE-13,Sabah,N.35 Melalap,1,Jimmy Jawatah,3910,SOLIDARITI,80,861,8.04522519155298,lost_deposit,35,False,Melalap
+2018-05-09,SE-13,Sabah,N.35 Melalap,2,Radin Malleh,2217,BN,25,4717,44.07587366847318,lost,35,False,Melalap
+2018-05-09,SE-13,Sabah,N.35 Melalap,3,Peter Anthony,20221,WARISAN,74,5010,46.813679686040004,won,35,False,Melalap
+2018-05-09,SE-13,Sabah,N.35 Melalap,4,Chinly Bin Moniu @ Mah Tsen Li,20222,PCS,75,69,0.6447393010652215,lost_deposit,35,False,Melalap
+2018-05-09,SE-13,Sabah,N.35 Melalap,5,George Rejos,20223,PKS,28,45,0.4204821528686226,lost_deposit,35,False,Melalap
+2018-05-09,SE-13,Sabah,N.36 Kemabong,1,Yahia @ Yahya Bin Raimah,20224,PHRS,78,124,1.0720152156998357,lost_deposit,36,False,Kemabong
+2018-05-09,SE-13,Sabah,N.36 Kemabong,2,Haris Bin Bolos,20225,WARISAN,74,5198,44.93818621941732,lost,36,False,Kemabong
+2018-05-09,SE-13,Sabah,N.36 Kemabong,3,Tay Jin Kiong @ Alfred,18564,PCS,75,152,1.3140831676320568,lost_deposit,36,False,Kemabong
+2018-05-09,SE-13,Sabah,N.36 Kemabong,4,Jamawi Bin Ja'Afar,5105,BN,25,6093,52.6757153972508,won,36,False,Kemabong
+2018-05-09,SE-13,Sabah,N.37 Sook,1,Ellron Bin Angin,2533,BN,25,8042,53.20894534868335,won,37,True,Sook
+2018-05-09,SE-13,Sabah,N.37 Sook,2,Baritus Gungkit @ Evaristus,20229,SOLIDARITI,80,3402,22.508932115919013,lost,37,False,Sook
+2018-05-09,SE-13,Sabah,N.37 Sook,3,Peter Beaty,20230,ANAKNEGERI,83,113,0.7476511843324071,lost_deposit,37,False,Sook
+2018-05-09,SE-13,Sabah,N.37 Sook,4,Martin Tomy @ Tommy,3224,WARISAN,74,3557,23.534471351065235,lost,37,False,Sook
+2018-05-09,SE-13,Sabah,N.38 Nabawan,1,Datuk Bobbey Suan,17200,BN,25,5474,59.519408502772635,won,38,True,Nabawan
+2018-05-09,SE-13,Sabah,N.38 Nabawan,2,Ahuar Bin Rasam,13538,WARISAN,74,3402,36.99032293139067,lost,38,False,Nabawan
+2018-05-09,SE-13,Sabah,N.38 Nabawan,3,Angin @ Nasruddin Bin Lambahan,20234,PCS,75,156,1.6962052843318471,lost_deposit,38,False,Nabawan
+2018-05-09,SE-13,Sabah,N.38 Nabawan,4,Apandy @ Lukan Bin Angindi,20235,PHRS,78,165,1.7940632815048383,lost_deposit,38,False,Nabawan
+2018-05-09,SE-13,Sabah,N.39 Sugut,1,Datuk James Bin Ratib,18577,BN,25,4704,55.7742470950913,won,39,True,Sugut
+2018-05-09,SE-13,Sabah,N.39 Sugut,2,Arshad Bin Abdul Mualaf,20237,PPRS,77,436,5.169551814085843,lost_deposit,39,False,Sugut
+2018-05-09,SE-13,Sabah,N.39 Sugut,3,Aspah Bin Abdullah Sani,20238,WARISAN,74,3183,37.74009959686981,lost,39,False,Sugut
+2018-05-09,SE-13,Sabah,N.39 Sugut,4,Ag Osman Bin Asibih,20239,PKS,28,111,1.316101493953047,lost_deposit,39,False,Sugut
+2018-05-09,SE-13,Sabah,N.40 Labuk,1,Abdul Rahman Bin Datuk Hj Kongkawang,20240,BN,25,6665,53.64185110663984,won,40,False,Labuk
+2018-05-09,SE-13,Sabah,N.40 Labuk,2,Albert T Enti,20241,PKS,28,141,1.1348088531187124,lost_deposit,40,False,Labuk
+2018-05-09,SE-13,Sabah,N.40 Labuk,3,Rainus Awang,20242,SOLIDARITI,80,1171,9.424547283702212,lost_deposit,40,False,Labuk
+2018-05-09,SE-13,Sabah,N.40 Labuk,4,James Bin Miki,3916,PCS,75,383,3.0824949698189137,lost_deposit,40,False,Labuk
+2018-05-09,SE-13,Sabah,N.40 Labuk,5,Ramsah Bin Tasim @ Ramsah Bin Tashim,20244,WARISAN,74,4065,32.716297786720325,lost,40,False,Labuk
+2018-05-09,SE-13,Sabah,N.41 Gum-Gum,1,Arunarnsin Bin Taib,20245,WARISAN,74,4710,51.09568236059883,won,41,False,Gum-Gum
+2018-05-09,SE-13,Sabah,N.41 Gum-Gum,2,Joilin @ Christine Binti Bugung,20246,PKS,28,81,0.8787155565198524,lost_deposit,41,False,Gum-Gum
+2018-05-09,SE-13,Sabah,N.41 Gum-Gum,3,Jamaludin Bin Lamba,20247,PPRS,77,63,0.6834454328487741,lost_deposit,41,False,Gum-Gum
+2018-05-09,SE-13,Sabah,N.41 Gum-Gum,4,Datuk Juslie Haji Ajirol,20248,BN,25,4112,44.60837491863746,lost,41,False,Gum-Gum
+2018-05-09,SE-13,Sabah,N.41 Gum-Gum,5,Dahil Bin Masdik,20249,PHRS,78,252,2.7337817313950965,lost_deposit,41,False,Gum-Gum
+2018-05-09,SE-13,Sabah,N.42 Sungai Sibuga,1,Musa Haji Aman,20250,BN,25,14503,53.5897720134501,won,42,False,Sungai Sibuga
+2018-05-09,SE-13,Sabah,N.42 Sungai Sibuga,2,Osman Bin Enting,17214,PKS,28,241,0.8905147249011566,lost_deposit,42,False,Sungai Sibuga
+2018-05-09,SE-13,Sabah,N.42 Sungai Sibuga,3,Asmara Bin Abdul Rahman,5988,WARISAN,74,12319,45.519713261648754,lost,42,False,Sungai Sibuga
+2018-05-09,SE-13,Sabah,N.43 Sekong,1,Sahar Abdul Majid,20253,PAS,3,366,3.070985064608156,lost_deposit,43,False,Sekong
+2018-05-09,SE-13,Sabah,N.43 Sekong,2,Arifin Bin Asgali,20254,WARISAN,74,6740,56.5531129384125,won,43,False,Sekong
+2018-05-09,SE-13,Sabah,N.43 Sekong,3,Samsudin Yahya,20255,BN,25,4705,39.478100352408134,lost,43,False,Sekong
+2018-05-09,SE-13,Sabah,N.43 Sekong,4,Abdul Rashid Bin Abdul Rahman,6439,STAR,64,48,0.4027521396207417,lost_deposit,43,False,Sekong
+2018-05-09,SE-13,Sabah,N.43 Sekong,5,Alias Rahmad Bin Benjamin,20257,PKS,28,16,0.1342507132069139,lost_deposit,43,False,Sekong
+2018-05-09,SE-13,Sabah,N.43 Sekong,6,Datu Mohd Faisal Bin Datu Bachtiyal,20258,BEBAS,1,43,0.3607987917435811,lost_deposit,43,False,Sekong
+2018-05-09,SE-13,Sabah,N.44 Karamunting,1,Norsah Bongsu,4350,PAS,3,677,5.95112517580872,lost_deposit,44,False,Karamunting
+2018-05-09,SE-13,Sabah,N.44 Karamunting,2,Besarun Bin Kecha,20260,STAR,64,61,0.5362165963431786,lost_deposit,44,False,Karamunting
+2018-05-09,SE-13,Sabah,N.44 Karamunting,3,Hiew Vun Zin,18602,WARISAN,74,7243,63.669127988748244,won,44,False,Karamunting
+2018-05-09,SE-13,Sabah,N.44 Karamunting,4,Lim Kai Min,20262,BN,25,3395,29.84353023909986,lost,44,False,Karamunting
+2018-05-09,SE-13,Sabah,N.45 Elopura,1,Chan Tzun Hei,20263,BN,25,5572,31.31920634028441,lost,45,False,Elopura
+2018-05-09,SE-13,Sabah,N.45 Elopura,2,Calvin Chong Ket Kiun,20264,DAP,18,12219,68.68079365971559,won,45,False,Elopura
+2018-05-09,SE-13,Sabah,N.46 Tanjong Papat,1,Raymond Tan Shu Kiah,17226,BN,25,4002,38.655462184873954,lost,46,False,Tanjong Papat
+2018-05-09,SE-13,Sabah,N.46 Tanjong Papat,2,Poon Ming Fung @ Frankie,20266,DAP,18,5818,56.19627161209311,won,46,False,Tanjong Papat
+2018-05-09,SE-13,Sabah,N.46 Tanjong Papat,3,Jufazli Shi Ahmad,20267,BEBAS,1,533,5.1482662030329385,lost_deposit,46,False,Tanjong Papat
+2018-05-09,SE-13,Sabah,N.47 Kuamut,1,Datuk Masiung Banah,20268,BN,25,8042,59.00220102714601,won,47,False,Kuamut
+2018-05-09,SE-13,Sabah,N.47 Kuamut,2,Edward Podok,18607,PCS,75,205,1.504035216434336,lost_deposit,47,False,Kuamut
+2018-05-09,SE-13,Sabah,N.47 Kuamut,3,Norfaizah Chua,20270,WARISAN,74,3921,28.767424798239173,lost,47,False,Kuamut
+2018-05-09,SE-13,Sabah,N.47 Kuamut,4,Jumaidin Lakalla,20271,PAS,3,330,2.421129860601614,lost_deposit,47,False,Kuamut
+2018-05-09,SE-13,Sabah,N.47 Kuamut,5,James Aik,20272,SOLIDARITI,80,1132,8.305209097578869,lost_deposit,47,False,Kuamut
+2018-05-09,SE-13,Sabah,N.48 Sukau,1,Muariffidin Bin Abdul Malek,20273,PHRS,78,117,1.484771573604061,lost_deposit,48,False,Sukau
+2018-05-09,SE-13,Sabah,N.48 Sukau,2,Mohd Ismail Bin Ayob,20274,WARISAN,74,3032,38.477157360406096,lost,48,False,Sukau
+2018-05-09,SE-13,Sabah,N.48 Sukau,3,Datuk Saddi Haji Abdul Rahman,20275,BN,25,4660,59.13705583756346,won,48,False,Sukau
+2018-05-09,SE-13,Sabah,N.48 Sukau,4,Abdulgani Bin Kosui,15893,PPRS,77,71,0.9010152284263959,lost_deposit,48,False,Sukau
+2018-05-09,SE-13,Sabah,N.49 Tungku,1,Bulangan Panasi,20277,PHRS,78,928,7.35399001505666,lost_deposit,49,False,Tungku
+2018-05-09,SE-13,Sabah,N.49 Tungku,2,Abd Rahman Bin Taggoh,20278,PKS,28,102,0.8083049369997622,lost_deposit,49,False,Tungku
+2018-05-09,SE-13,Sabah,N.49 Tungku,3,Mizma Binti Appehdullah,20279,BN,25,5294,41.95261114192883,lost,49,False,Tungku
+2018-05-09,SE-13,Sabah,N.49 Tungku,4,Assaffal P. Alian,20280,WARISAN,74,6295,49.88509390601474,won,49,False,Tungku
+2018-05-09,SE-13,Sabah,N.50 Lahad Datu,1,Dato' Hj Mohammad Yusof Hj Apdal,18619,BN,25,8372,41.16229903141747,lost,50,False,Lahad Datu
+2018-05-09,SE-13,Sabah,N.50 Lahad Datu,2,Wong Yu Chin,20282,PHRS,78,663,3.2597472835439305,lost_deposit,50,False,Lahad Datu
+2018-05-09,SE-13,Sabah,N.50 Lahad Datu,3,Dumi Bin Pg. Masdal,3929,WARISAN,74,11304,55.577953685038594,won,50,False,Lahad Datu
+2018-05-09,SE-13,Sabah,N.51 Kunak,1,Nilwan Bin Kabang,13552,BN,25,4630,45.56638126168684,lost,51,False,Kunak
+2018-05-09,SE-13,Sabah,N.51 Kunak,2,Norazlinah Binti Arif,20285,WARISAN,74,4898,48.20391693730932,won,51,False,Kunak
+2018-05-09,SE-13,Sabah,N.51 Kunak,3,Sahing Bin Taking,15921,PHRS,78,141,1.3876586950103336,lost_deposit,51,False,Kunak
+2018-05-09,SE-13,Sabah,N.51 Kunak,4,Kasman Bin Karate,18624,PAS,3,492,4.842043105993504,lost_deposit,51,False,Kunak
+2018-05-09,SE-13,Sabah,N.52 Sulabayan,1,Jaujan Bin Sambakong,20288,WARISAN,74,7116,74.91314875250026,won,52,False,Sulabayan
+2018-05-09,SE-13,Sabah,N.52 Sulabayan,2,Utung Bin Tanjong Baru,20289,PHRS,78,54,0.5684808927255501,lost_deposit,52,False,Sulabayan
+2018-05-09,SE-13,Sabah,N.52 Sulabayan,3,Datuk Haji Harman Bin Mohamad,20290,BN,25,2190,23.055058427202862,lost,52,False,Sulabayan
+2018-05-09,SE-13,Sabah,N.52 Sulabayan,4,Abdul Nasir Bin Ab Raup,4356,PAS,3,139,1.4633119275713231,lost_deposit,52,False,Sulabayan
+2018-05-09,SE-13,Sabah,N.53 Senallang,1,Mohd. Shafie Apdal,3585,WARISAN,74,7754,75.96747330263544,won,53,False,Senallang
+2018-05-09,SE-13,Sabah,N.53 Senallang,2,Dato Sri Nasir Bin Tun Sakaran,20293,BN,25,2453,24.032526697364556,lost,53,False,Senallang
+2018-05-09,SE-13,Sabah,N.54 Bugaya,1,Said Tiblan,20294,PPRS,77,57,0.4143646408839779,lost_deposit,54,False,Bugaya
+2018-05-09,SE-13,Sabah,N.54 Bugaya,2,Kulli Bin Maralam,20295,PKS,28,67,0.4870601919162547,lost_deposit,54,False,Bugaya
+2018-05-09,SE-13,Sabah,N.54 Bugaya,3,Mahamod Bin Sarahil,20296,PAS,3,144,1.0468159348647863,lost_deposit,54,False,Bugaya
+2018-05-09,SE-13,Sabah,N.54 Bugaya,4,Manis Buka Binti Mohd Darah,20297,WARISAN,74,10662,77.50799651061355,won,54,False,Bugaya
+2018-05-09,SE-13,Sabah,N.54 Bugaya,5,Razak Sakaran Dandai,20298,BN,25,2811,20.434719395173012,lost,54,False,Bugaya
+2018-05-09,SE-13,Sabah,N.54 Bugaya,6,Abd. Muksin Bin Mohammad Hassan,20299,BEBAS,1,15,0.1090433265484152,lost_deposit,54,False,Bugaya
+2018-05-09,SE-13,Sabah,N.55 Balung,1,Razali Bin Hamzah,20300,PHRS,78,233,2.2447013487475918,lost_deposit,55,False,Balung
+2018-05-09,SE-13,Sabah,N.55 Balung,2,Amboase Bin Ramano,20301,PAS,3,428,4.123314065510597,lost_deposit,55,False,Balung
+2018-05-09,SE-13,Sabah,N.55 Balung,3,Datuk Osman Bin Jamal,20302,BN,25,4887,47.080924855491325,won,55,False,Balung
+2018-05-09,SE-13,Sabah,N.55 Balung,4,Haji Alipa Jackery,20303,USNO,15,119,1.1464354527938343,lost_deposit,55,False,Balung
+2018-05-09,SE-13,Sabah,N.55 Balung,5,Andi Rus Diana Bt Andi Paladjareng,20304,WARISAN,74,4713,45.40462427745665,lost,55,False,Balung
+2018-05-09,SE-13,Sabah,N.56 Apas,1,Abdul Salip Bin Ejal,20305,WARISAN,74,5456,40.3580146460537,lost,56,False,Apas
+2018-05-09,SE-13,Sabah,N.56 Apas,2,Alizaman Bin Jijurahman,4359,PHRS,78,333,2.4631999408240257,lost_deposit,56,False,Apas
+2018-05-09,SE-13,Sabah,N.56 Apas,3,Daud Bin Jalaluddin,18667,PAS,3,487,3.6023374509948964,lost_deposit,56,False,Apas
+2018-05-09,SE-13,Sabah,N.56 Apas,4,Nizam Bin Datuk Abu Bakar Titingan,20308,BN,25,7243,53.57644796212738,won,56,False,Apas
+2018-05-09,SE-13,Sabah,N.57 Sri Tanjong,1,Pang Thou Chung,20309,PHRS,78,873,4.597156398104267,lost_deposit,57,False,Sri Tanjong
+2018-05-09,SE-13,Sabah,N.57 Sri Tanjong,2,Lo Su Fui,5146,BN,25,4290,22.59083728278041,lost,57,False,Sri Tanjong
+2018-05-09,SE-13,Sabah,N.57 Sri Tanjong,3,Leong Yun Fui,20311,PKS,28,154,0.8109531332280148,lost_deposit,57,False,Sri Tanjong
+2018-05-09,SE-13,Sabah,N.57 Sri Tanjong,4,Wong Sze Phin @ Jimmy,3894,DAP,18,13673,72.00105318588732,won,57,False,Sri Tanjong
+2018-05-09,SE-13,Sabah,N.58 Merotai,1,Hj Ahmad Dullah,18663,PAS,3,1209,8.147449289035649,lost_deposit,58,False,Merotai
+2018-05-09,SE-13,Sabah,N.58 Merotai,2,Lim Ting Khai,20314,BN,25,5557,37.44861513579082,lost,58,False,Merotai
+2018-05-09,SE-13,Sabah,N.58 Merotai,3,Sharatha Masyaroh Binti John Ridwan Lincon,20315,PHRS,78,125,0.8423748231012872,lost_deposit,58,False,Merotai
+2018-05-09,SE-13,Sabah,N.58 Merotai,4,Arbaani Bin Akum,20316,AMANAH,71,193,1.300626726868387,lost_deposit,58,False,Merotai
+2018-05-09,SE-13,Sabah,N.58 Merotai,5,Sarifuddin Bin Hata,20317,WARISAN,74,7707,51.937462093132964,won,58,False,Merotai
+2018-05-09,SE-13,Sabah,N.58 Merotai,6,Azizul Bin Tandek,20318,PKS,28,20,0.1347799716962059,lost_deposit,58,False,Merotai
+2018-05-09,SE-13,Sabah,N.58 Merotai,7,Mohd Nasir Bin Sumadi,20319,USNO,15,28,0.1886919603746883,lost_deposit,58,False,Merotai
+2018-05-09,SE-13,Sabah,N.59 Tanjong Batu,1,Datuk Hajah Hamisa Binti Samat,20320,BN,25,8538,50.92145285382001,won,59,False,Tanjong Batu
+2018-05-09,SE-13,Sabah,N.59 Tanjong Batu,2,Usman Madeaming,3936,PAS,3,1506,8.981928788692073,lost_deposit,59,False,Tanjong Batu
+2018-05-09,SE-13,Sabah,N.59 Tanjong Batu,3,Ardi Bin Arsah @ Samsi,17257,PPRS,77,171,1.0198604401502953,lost_deposit,59,False,Tanjong Batu
+2018-05-09,SE-13,Sabah,N.59 Tanjong Batu,4,Ismail Senang,20323,WARISAN,74,6552,39.07675791733763,lost,59,False,Tanjong Batu
+2018-05-09,SE-13,Sabah,N.60 Sebatik,1,Yusri Hj Yunus,20324,PPRS,77,38,0.7190160832544938,lost_deposit,60,False,Sebatik
+2018-05-09,SE-13,Sabah,N.60 Sebatik,2,Ustaz Roslan Ramli,20325,PAS,3,504,9.536423841059603,lost_deposit,60,False,Sebatik
+2018-05-09,SE-13,Sabah,N.60 Sebatik,3,Datuk Hj. Abd Muis Hj. Picho,20326,BN,25,2468,46.69820245979186,won,60,False,Sebatik
+2018-05-09,SE-13,Sabah,N.60 Sebatik,4,Hassan A Gani Pg Amir,20327,WARISAN,74,2275,43.04635761589404,lost,60,False,Sebatik
+2020-09-26,SE-14,Sabah,N.01 Banggi,1,Akram Bin Ismail,21717,BN,25,1070,27.69151138716356,lost,1,False,Banggi
+2020-09-26,SE-14,Sabah,N.01 Banggi,2,Mohammad Bin Mohamarin,20079,WARISAN,74,1773,45.885093167701854,won,1,True,Banggi
+2020-09-26,SE-14,Sabah,N.01 Banggi,3,Datu Amir Kahar Bin Datu Mustapha,2509,BEBAS,1,261,6.754658385093168,lost_deposit,1,False,Banggi
+2020-09-26,SE-14,Sabah,N.01 Banggi,4,Salbin Bin Muksin,14591,USNO,15,48,1.2422360248447204,lost_deposit,1,False,Banggi
+2020-09-26,SE-14,Sabah,N.01 Banggi,5,Miasin Bin Nusiri,21721,BEBAS,1,178,4.606625258799172,lost_deposit,1,False,Banggi
+2020-09-26,SE-14,Sabah,N.01 Banggi,6,Kamri Bin Kail,21722,PCS,75,523,13.5351966873706,lost,1,False,Banggi
+2020-09-26,SE-14,Sabah,N.01 Banggi,7,Abdul Aziz Bin Amir Bangsah,21723,PPRS,77,11,0.2846790890269151,lost_deposit,1,False,Banggi
+2020-09-26,SE-14,Sabah,N.02 Bengkoka,1,Jose Bin Modsinupu,11156,PCS,75,159,2.003780718336484,lost_deposit,2,False,Bengkoka
+2020-09-26,SE-14,Sabah,N.02 Bengkoka,2,Dr. Samuil Mopun,21725,PBS,48,898,11.316950220541903,lost_deposit,2,False,Bengkoka
+2020-09-26,SE-14,Sabah,N.02 Bengkoka,3,Pransol Tiying,20089,BEBAS,1,731,9.212350346565847,lost_deposit,2,False,Bengkoka
+2020-09-26,SE-14,Sabah,N.02 Bengkoka,4,Mary E Dumpangol @ Aminah Ambrose,21727,BEBAS,1,399,5.0283553875236295,lost_deposit,2,False,Bengkoka
+2020-09-26,SE-14,Sabah,N.02 Bengkoka,5,Akian Bin Ah Kiew,10082,BEBAS,1,576,7.2589792060491485,lost_deposit,2,False,Bengkoka
+2020-09-26,SE-14,Sabah,N.02 Bengkoka,6,Sotijin Bin Juhui,21729,GAGASAN,86,91,1.146817895400126,lost_deposit,2,False,Bengkoka
+2020-09-26,SE-14,Sabah,N.02 Bengkoka,7,Rita Cham,21730,PPRS,77,19,0.2394454946439823,lost_deposit,2,False,Bengkoka
+2020-09-26,SE-14,Sabah,N.02 Bengkoka,8,Junsim Rumunzing,21731,UPKO,87,1201,15.135475740390675,lost,2,False,Bengkoka
+2020-09-26,SE-14,Sabah,N.02 Bengkoka,9,Maklin Masiau,20092,BEBAS,1,1149,14.480151228733462,lost,2,False,Bengkoka
+2020-09-26,SE-14,Sabah,N.02 Bengkoka,10,Omar Bin Jalun,21733,USNO,15,174,2.1928166351606806,lost_deposit,2,False,Bengkoka
+2020-09-26,SE-14,Sabah,N.02 Bengkoka,11,Harun Bin Durabi,21734,BN,25,2538,31.984877126654066,won,2,False,Bengkoka
+2020-09-26,SE-14,Sabah,N.03 Pitas,1,Ruddy Awah,21735,BEBAS,1,2918,40.137551581843184,won,3,False,Pitas
+2020-09-26,SE-14,Sabah,N.03 Pitas,2,Sh Sahar Bin Sh Ading,21736,PCS,75,314,4.319119669876203,lost_deposit,3,False,Pitas
+2020-09-26,SE-14,Sabah,N.03 Pitas,3,Sufian Bin Abd Karim,21737,BN,25,2359,32.44841815680881,lost,3,False,Pitas
+2020-09-26,SE-14,Sabah,N.03 Pitas,4,Shariff Azman,21738,WARISAN,74,1565,21.526822558459425,lost,3,False,Pitas
+2020-09-26,SE-14,Sabah,N.03 Pitas,5,Ilasam Bin Nurkasim,21739,USNO,15,114,1.56808803301238,lost_deposit,3,False,Pitas
+2020-09-26,SE-14,Sabah,N.04 Tanjong Kapor,1,Chin Kee Yong,21740,LDP,58,1492,10.32026008162136,lost_deposit,4,False,Tanjong Kapor
+2020-09-26,SE-14,Sabah,N.04 Tanjong Kapor,2,Chong Chen Bin,20083,WARISAN,74,7206,49.844366051047935,won,4,False,Tanjong Kapor
+2020-09-26,SE-14,Sabah,N.04 Tanjong Kapor,3,Shawn Davey Robert Lee,21742,PCS,75,221,1.528671231929169,lost_deposit,4,False,Tanjong Kapor
+2020-09-26,SE-14,Sabah,N.04 Tanjong Kapor,4,Norlizah Binti Gurahman,21743,PN,12,5327,36.84720204745106,lost,4,False,Tanjong Kapor
+2020-09-26,SE-14,Sabah,N.04 Tanjong Kapor,5,Awang Karim Bin Abdul Kadir,17082,USNO,15,211,1.4595005879504737,lost_deposit,4,False,Tanjong Kapor
+2020-09-26,SE-14,Sabah,N.05 Matunggong,1,Dr. Paul Porodong,21745,BEBAS,1,1069,9.565139584824623,lost_deposit,5,False,Matunggong
+2020-09-26,SE-14,Sabah,N.05 Matunggong,2,Sarapin Bin Magana,17094,PCS,75,843,7.5429491768074435,lost_deposit,5,False,Matunggong
+2020-09-26,SE-14,Sabah,N.05 Matunggong,3,Ronald Bin Tampasok,21747,BEBAS,1,82,0.7337151037938441,lost_deposit,5,False,Matunggong
+2020-09-26,SE-14,Sabah,N.05 Matunggong,4,Richard Kastum,21748,BN,25,2859,25.58160343593415,lost,5,False,Matunggong
+2020-09-26,SE-14,Sabah,N.05 Matunggong,5,Joseff Emmanuel,21749,BEBAS,1,51,0.456335003579098,lost_deposit,5,False,Matunggong
+2020-09-26,SE-14,Sabah,N.05 Matunggong,6,Julita Mojungki,20095,PBS,48,4369,39.09269863994274,won,5,False,Matunggong
+2020-09-26,SE-14,Sabah,N.05 Matunggong,7,Hibin Bin Masalin,21751,GAGASAN,86,223,1.995347172512527,lost_deposit,5,False,Matunggong
+2020-09-26,SE-14,Sabah,N.05 Matunggong,8,Sazalye Donol Bin Abdullah,20094,PKR,11,1680,15.032211882605585,lost,5,False,Matunggong
+2020-09-26,SE-14,Sabah,N.06 Bandau,1,Majamis Bin Timbong,3880,WARISAN,74,2500,25.757263548320626,lost,6,False,Bandau
+2020-09-26,SE-14,Sabah,N.06 Bandau,2,Webley Disim,21754,PCS,75,477,4.914485885019575,lost_deposit,6,False,Bandau
+2020-09-26,SE-14,Sabah,N.06 Bandau,3,Delly Surag @ Tolok,21755,BEBAS,1,58,0.5975685143210385,lost_deposit,6,False,Bandau
+2020-09-26,SE-14,Sabah,N.06 Bandau,4,Raphael Biun,21756,LDP,58,331,3.4102616937976515,lost_deposit,6,False,Bandau
+2020-09-26,SE-14,Sabah,N.06 Bandau,5,Datuk Wetrom Bahanda,5052,PN,12,5863,60.405934473521526,won,6,False,Bandau
+2020-09-26,SE-14,Sabah,N.06 Bandau,6,Azahari Bin Amit,21758,USNO,15,477,4.914485885019575,lost_deposit,6,False,Bandau
+2020-09-26,SE-14,Sabah,N.07 Tandek,1,Hendrus Anding,21759,PBS,48,3796,36.86510634165291,won,7,False,Tandek
+2020-09-26,SE-14,Sabah,N.07 Tandek,2,Padis Majingkin,21760,UPKO,87,1986,19.28717102068564,lost,7,False,Tandek
+2020-09-26,SE-14,Sabah,N.07 Tandek,3,Yillson Yanggun,21761,BN,25,1520,14.76158104302224,lost,7,False,Tandek
+2020-09-26,SE-14,Sabah,N.07 Tandek,4,Anita Baranting,17096,BEBAS,1,2364,22.958143148489853,lost,7,False,Tandek
+2020-09-26,SE-14,Sabah,N.07 Tandek,5,Liensin @ Danny Leinsin Limpakan,21763,LDP,58,236,2.2919296882587163,lost_deposit,7,False,Tandek
+2020-09-26,SE-14,Sabah,N.07 Tandek,6,Andy Villson,17098,PCS,75,395,3.836068757890648,lost_deposit,7,False,Tandek
+2020-09-26,SE-14,Sabah,N.08 Pintasan,1,Pandikar Amin Bin Mulia,15784,USNO,15,2660,32.2893906287934,lost,8,False,Pintasan
+2020-09-26,SE-14,Sabah,N.08 Pintasan,2,Padlan Bin Samad,21766,PCS,75,188,2.2821073075989315,lost_deposit,8,False,Pintasan
+2020-09-26,SE-14,Sabah,N.08 Pintasan,3,Roslan Bin Mayahman,21767,PPRS,77,50,0.6069434328720563,lost_deposit,8,False,Pintasan
+2020-09-26,SE-14,Sabah,N.08 Pintasan,4,Mohd Safian Bin Saludin,21768,WARISAN,74,1816,22.04418548191309,lost,8,False,Pintasan
+2020-09-26,SE-14,Sabah,N.08 Pintasan,5,Datuk Almudin Bin Kaida,21769,BEBAS,1,780,9.46831755280408,lost_deposit,8,False,Pintasan
+2020-09-26,SE-14,Sabah,N.08 Pintasan,6,Fairuz Renddan,21770,PN,12,2744,33.309055596018446,won,8,False,Pintasan
+2020-09-26,SE-14,Sabah,N.09 Tempasuk,1,Mustapha @ Mohd Yunus Bin Sakmud,21771,PKR,11,1852,20.79030085316569,lost,9,False,Tempasuk
+2020-09-26,SE-14,Sabah,N.09 Tempasuk,2,Kanul Gindol,3884,GAGASAN,86,57,0.6398742703188145,lost_deposit,9,False,Tempasuk
+2020-09-26,SE-14,Sabah,N.09 Tempasuk,3,Abd. Alif Bin Saibeh,21773,PCS,75,133,1.4930399640772343,lost_deposit,9,False,Tempasuk
+2020-09-26,SE-14,Sabah,N.09 Tempasuk,4,Datuk Musbah Jamli,18435,BEBAS,1,2355,26.436910642119447,lost,9,False,Tempasuk
+2020-09-26,SE-14,Sabah,N.09 Tempasuk,5,Amza @ Hamzah Bin Sundang,21775,USNO,15,471,5.2873821284238876,lost_deposit,9,False,Tempasuk
+2020-09-26,SE-14,Sabah,N.09 Tempasuk,6,Mohd Arsad Bin Bistari,21776,BN,25,4040,45.35249214189492,won,9,False,Tempasuk
+2020-09-26,SE-14,Sabah,N.10 Usukan,1,Salleh Said Keruak,4307,BN,25,8280,65.28423874477647,won,10,False,Usukan
+2020-09-26,SE-14,Sabah,N.10 Usukan,2,Datu Mohd Nazaruddin 13 Bin Datu Tiga Belas,21778,PCS,75,421,3.3194039265158084,lost_deposit,10,False,Usukan
+2020-09-26,SE-14,Sabah,N.10 Usukan,3,Cikgu Abdul Bahkrin Bin Mohd Yusof,20112,WARISAN,74,3982,31.39635732870772,lost,10,False,Usukan
+2020-09-26,SE-14,Sabah,N.11 Kadamaian,1,Ewon Benedick,5073,UPKO,87,6823,51.07035928143713,won,11,False,Kadamaian
+2020-09-26,SE-14,Sabah,N.11 Kadamaian,2,Raiting @ Mohd Farhan,21781,BEBAS,1,101,0.7559880239520959,lost_deposit,11,False,Kadamaian
+2020-09-26,SE-14,Sabah,N.11 Kadamaian,3,Leduning Bin Lengik @ Ernest,21782,LDP,58,223,1.6691616766467066,lost_deposit,11,False,Kadamaian
+2020-09-26,SE-14,Sabah,N.11 Kadamaian,4,Dr.Beting Giling @ Joshua,21783,PCS,75,799,5.980538922155689,lost_deposit,11,False,Kadamaian
+2020-09-26,SE-14,Sabah,N.11 Kadamaian,5,Demis Bin Rumanti,21784,PBS,48,3364,25.17964071856287,lost,11,False,Kadamaian
+2020-09-26,SE-14,Sabah,N.11 Kadamaian,6,Duanis Mogirong @ Djuanis,21785,BN,25,2050,15.344311377245507,lost,11,False,Kadamaian
+2020-09-26,SE-14,Sabah,N.12 Sulaman,1,Rekan Bin Hussien,21786,PCS,75,253,2.813612099644128,lost_deposit,12,False,Sulaman
+2020-09-26,SE-14,Sabah,N.12 Sulaman,2,Datuk Aliasgar Bin Basri,21787,WARISAN,74,2820,31.361209964412808,lost,12,False,Sulaman
+2020-09-26,SE-14,Sabah,N.12 Sulaman,3,Datuk Seri Panglima Haji Hajiji Bin Haji Noor,21788,PN,12,5919,65.82517793594306,won,12,False,Sulaman
+2020-09-26,SE-14,Sabah,N.13 Pantai Dalit,1,Johan Jahid,21789,BEBAS,1,244,2.2285140195451643,lost_deposit,13,False,Pantai Dalit
+2020-09-26,SE-14,Sabah,N.13 Pantai Dalit,2,Rakam Sijim,21790,WARISAN,74,3074,28.075623344597677,lost,13,False,Pantai Dalit
+2020-09-26,SE-14,Sabah,N.13 Pantai Dalit,3,Jasnih Bin Daya,21791,BN,25,6868,62.72718969768928,won,13,False,Pantai Dalit
+2020-09-26,SE-14,Sabah,N.13 Pantai Dalit,4,Rusdi Bin Saelih,21792,LDP,58,138,1.2603890766280026,lost_deposit,13,False,Pantai Dalit
+2020-09-26,SE-14,Sabah,N.13 Pantai Dalit,5,Awil Bin Kamsari,21793,GAGASAN,86,46,0.4201296922093342,lost_deposit,13,False,Pantai Dalit
+2020-09-26,SE-14,Sabah,N.13 Pantai Dalit,6,Muhamad Amirul Amin,21794,PCS,75,269,2.4568453740067593,lost_deposit,13,False,Pantai Dalit
+2020-09-26,SE-14,Sabah,N.13 Pantai Dalit,7,Peter Pikul,21795,BEBAS,1,236,2.1554479861174536,lost_deposit,13,False,Pantai Dalit
+2020-09-26,SE-14,Sabah,N.13 Pantai Dalit,8,Matbee @ Matbeh Bin Ismail,21796,USNO,15,74,0.6758608092063202,lost_deposit,13,False,Pantai Dalit
+2020-09-26,SE-14,Sabah,N.14 Tamparuli,1,Alijus @ Mohd Ali Bin Sipil,21797,PKR,11,3326,28.80401835974712,lost,14,False,Tamparuli
+2020-09-26,SE-14,Sabah,N.14 Tamparuli,2,Jahid Jahim,17110,PBS,48,6843,59.26214601195115,won,14,False,Tamparuli
+2020-09-26,SE-14,Sabah,N.14 Tamparuli,3,Denis Gimpah,21799,PCS,75,1001,8.668918333766348,lost_deposit,14,False,Tamparuli
+2020-09-26,SE-14,Sabah,N.14 Tamparuli,4,Raymond Alfred @Jenry,21800,LDP,58,377,3.264917294535377,lost_deposit,14,False,Tamparuli
+2020-09-26,SE-14,Sabah,N.15 Kiulu,1,Dominic Yasun,21801,BEBAS,1,266,3.4473820632452044,lost_deposit,15,False,Kiulu
+2020-09-26,SE-14,Sabah,N.15 Kiulu,2,Andau Bin Yasun @ Bruno,4328,PCS,75,363,4.704510108864697,lost_deposit,15,False,Kiulu
+2020-09-26,SE-14,Sabah,N.15 Kiulu,3,Wilfred Madius Tangau,2834,UPKO,87,2786,36.10679108346294,lost,15,False,Kiulu
+2020-09-26,SE-14,Sabah,N.15 Kiulu,4,Rozylyn @ Rosalyn Binti Gelunu,21804,LDP,58,274,3.5510627268014514,lost_deposit,15,False,Kiulu
+2020-09-26,SE-14,Sabah,N.15 Kiulu,5,Joniston Bangkuai,5060,PBS,48,4007,51.931052358735094,won,15,False,Kiulu
+2020-09-26,SE-14,Sabah,N.15 Kiulu,6,Jolianis Bin Lampog,21806,BEBAS,1,20,0.2592016588906169,lost_deposit,15,False,Kiulu
+2020-09-26,SE-14,Sabah,N.16 Karambunai,1,Ahmad Jais Bin Otong,21807,WARISAN,74,5164,42.72358732522545,lost,16,False,Karambunai
+2020-09-26,SE-14,Sabah,N.16 Karambunai,2,Dayangku Ayesha Humaira Binti Ak Othman Shah,21808,PCS,75,315,2.6061057334326136,lost_deposit,16,False,Karambunai
+2020-09-26,SE-14,Sabah,N.16 Karambunai,3,Ibrahim Bin Linggam,14615,USNO,15,90,0.7446016381236039,lost_deposit,16,False,Karambunai
+2020-09-26,SE-14,Sabah,N.16 Karambunai,4,Yakub Khan,5062,BN,25,5180,42.85596094978076,won,16,False,Karambunai
+2020-09-26,SE-14,Sabah,N.16 Karambunai,5,Nerudin Ludah,21811,GAGASAN,86,285,2.3579051873914123,lost_deposit,16,False,Karambunai
+2020-09-26,SE-14,Sabah,N.16 Karambunai,6,Marajoh Bin Unding,21812,LDP,58,1053,8.711839166046165,lost_deposit,16,False,Karambunai
+2020-09-26,SE-14,Sabah,N.17 Darau,1,Jumat Bin Idris,3892,BN,25,5243,43.955399061032864,lost,17,False,Darau
+2020-09-26,SE-14,Sabah,N.17 Darau,2,Laliman Bin Kemad,21814,USNO,15,244,2.04560697518444,lost_deposit,17,False,Darau
+2020-09-26,SE-14,Sabah,N.17 Darau,3,Azhar Bin Matussin,21815,WARISAN,74,5805,48.66700201207244,won,17,False,Darau
+2020-09-26,SE-14,Sabah,N.17 Darau,4,Dasim @ Ricky Bin Jikah,3582,GAGASAN,86,34,0.2850435949027498,lost_deposit,17,False,Darau
+2020-09-26,SE-14,Sabah,N.17 Darau,5,Hj Ansari Abdullah,17113,PCS,75,280,2.3474178403755865,lost_deposit,17,False,Darau
+2020-09-26,SE-14,Sabah,N.17 Darau,6,Sumali @ Marino Bin Ahmad,21818,LDP,58,322,2.6995305164319245,lost_deposit,17,False,Darau
+2020-09-26,SE-14,Sabah,N.18 Inanam,1,George Ngui,21819,BEBAS,1,54,0.3197158081705151,lost_deposit,18,False,Inanam
+2020-09-26,SE-14,Sabah,N.18 Inanam,2,Goh Fah Shun @ Francis Goh,21820,GAGASAN,86,362,2.143280047365305,lost_deposit,18,False,Inanam
+2020-09-26,SE-14,Sabah,N.18 Inanam,3,Peto Galim,21821,PKR,11,8586,50.8348134991119,won,18,False,Inanam
+2020-09-26,SE-14,Sabah,N.18 Inanam,4,Regina Lim @ How,21822,PCS,75,291,1.7229129662522202,lost_deposit,18,False,Inanam
+2020-09-26,SE-14,Sabah,N.18 Inanam,5,William Majinbon,21823,PBS,48,2948,17.45411486086442,lost,18,False,Inanam
+2020-09-26,SE-14,Sabah,N.18 Inanam,6,Mohd Hardy Abdullah @ Zoro Yukon,21824,USNO,15,156,0.9236234458259326,lost_deposit,18,False,Inanam
+2020-09-26,SE-14,Sabah,N.18 Inanam,7,Achmad Noorasyrul Bin Noortaip,21825,BEBAS,1,286,1.6933096506808762,lost_deposit,18,False,Inanam
+2020-09-26,SE-14,Sabah,N.18 Inanam,8,Kenny Chua Teck Ho,5075,BEBAS,1,2346,13.8898756660746,lost,18,False,Inanam
+2020-09-26,SE-14,Sabah,N.18 Inanam,9,Chong Kah Kiat,8934,LDP,58,1606,9.50858496151569,lost_deposit,18,False,Inanam
+2020-09-26,SE-14,Sabah,N.18 Inanam,10,Terence Tsen,21828,ANAKNEGERI,83,255,1.5097690941385435,lost_deposit,18,False,Inanam
+2020-09-26,SE-14,Sabah,N.19 Likas,1,Chia Chui Ket Melanie,21829,BEBAS,1,95,1.0034857927537764,lost_deposit,19,False,Likas
+2020-09-26,SE-14,Sabah,N.19 Likas,2,Daniel Isaac Hoong,21830,USNO,15,81,0.8556036759269039,lost_deposit,19,False,Likas
+2020-09-26,SE-14,Sabah,N.19 Likas,3,Sim Fui,21831,LDP,58,276,2.9153903031583392,lost_deposit,19,False,Likas
+2020-09-26,SE-14,Sabah,N.19 Likas,4,Chong Chee Vui,21832,PPRS,77,22,0.23238618358508498,lost_deposit,19,False,Likas
+2020-09-26,SE-14,Sabah,N.19 Likas,5,Tan Lee Fatt,20136,WARISAN,74,8173,86.33146720185907,won,19,False,Likas
+2020-09-26,SE-14,Sabah,N.19 Likas,6,Dr Chang Kee Ying,21834,BN,25,656,6.929333474173446,lost_deposit,19,False,Likas
+2020-09-26,SE-14,Sabah,N.19 Likas,7,Lu Siau Wee,21835,PCS,75,164,1.7323333685433613,lost_deposit,19,False,Likas
+2020-09-26,SE-14,Sabah,N.20 Api-Api,1,Lo Yau Foh,21836,PPRS,77,280,2.4349943473345506,lost_deposit,20,False,Api-Api
+2020-09-26,SE-14,Sabah,N.20 Api-Api,2,Chong Tze Kiun,21837,GAGASAN,86,97,0.8435516131837552,lost_deposit,20,False,Api-Api
+2020-09-26,SE-14,Sabah,N.20 Api-Api,3,Marcel Jude,5067,BEBAS,1,16,0.1391425341334029,lost_deposit,20,False,Api-Api
+2020-09-26,SE-14,Sabah,N.20 Api-Api,4,Chin Su Phin,21839,LDP,58,317,2.756761457518045,lost_deposit,20,False,Api-Api
+2020-09-26,SE-14,Sabah,N.20 Api-Api,5,Pang Yuk Ming,17264,PCS,75,431,3.7481520132185406,lost_deposit,20,False,Api-Api
+2020-09-26,SE-14,Sabah,N.20 Api-Api,6,Dr Yee Moh Chai,2840,PBS,48,2449,21.297504130793985,lost,20,False,Api-Api
+2020-09-26,SE-14,Sabah,N.20 Api-Api,7,Ng Chun Sua,21842,BEBAS,1,41,0.356552743716845,lost_deposit,20,False,Api-Api
+2020-09-26,SE-14,Sabah,N.20 Api-Api,8,Christina Liew,3204,PKR,11,7796,67.79719975650058,won,20,False,Api-Api
+2020-09-26,SE-14,Sabah,N.20 Api-Api,9,Sim Sie Hong,21844,BEBAS,1,72,0.6261414036003131,lost_deposit,20,False,Api-Api
+2020-09-26,SE-14,Sabah,N.21 Luyang,1,Wilson Chang Khai Sim,21845,PCS,75,190,1.109359490862381,lost_deposit,21,False,Luyang
+2020-09-26,SE-14,Sabah,N.21 Luyang,2,Datuk Anthony Linggian @ Chong Yuk Ken Jp,21846,LDP,58,279,1.62900683131897,lost_deposit,21,False,Luyang
+2020-09-26,SE-14,Sabah,N.21 Luyang,3,Hiew King Cheu,3203,GAGASAN,86,62,0.3620015180708822,lost_deposit,21,False,Luyang
+2020-09-26,SE-14,Sabah,N.21 Luyang,4,Phoong Jin Zhe,20145,WARISAN,74,15510,90.5587668593449,won,21,False,Luyang
+2020-09-26,SE-14,Sabah,N.21 Luyang,5,Chin Ling Ling,21849,BEBAS,1,97,0.5663572137560577,lost_deposit,21,False,Luyang
+2020-09-26,SE-14,Sabah,N.21 Luyang,6,Gee Tien Siong,20144,PN,12,989,5.774508086646816,lost_deposit,21,False,Luyang
+2020-09-26,SE-14,Sabah,N.22 Tanjung Aru,1,Ir. Edward Yong Oui Fah,17132,PBS,48,647,6.8676361320454316,lost_deposit,22,False,Tanjung Aru
+2020-09-26,SE-14,Sabah,N.22 Tanjung Aru,2,Jan Chow Yee Fah,21852,BEBAS,1,18,0.1910625199023458,lost_deposit,22,False,Tanjung Aru
+2020-09-26,SE-14,Sabah,N.22 Tanjung Aru,3,Ibrahim Bin Okk Mohd Laiman Diki,21853,LDP,58,179,1.900010614584439,lost_deposit,22,False,Tanjung Aru
+2020-09-26,SE-14,Sabah,N.22 Tanjung Aru,4,Shaffic Bin Risaib Shah,21854,USNO,15,88,0.9340834306336908,lost_deposit,22,False,Tanjung Aru
+2020-09-26,SE-14,Sabah,N.22 Tanjung Aru,5,Noran Addy Bin Sukiran,21855,PCS,75,241,2.55811484980363,lost_deposit,22,False,Tanjung Aru
+2020-09-26,SE-14,Sabah,N.22 Tanjung Aru,6,Rizawani Fiona Heng,21856,GAGASAN,86,25,0.2653646109754803,lost_deposit,22,False,Tanjung Aru
+2020-09-26,SE-14,Sabah,N.22 Tanjung Aru,7,Junz Wong,21857,WARISAN,74,5685,60.343912535824224,won,22,False,Tanjung Aru
+2020-09-26,SE-14,Sabah,N.22 Tanjung Aru,8,Mohd Reduan Aklee,21858,BN,25,2538,26.939815306230763,lost,22,False,Tanjung Aru
+2020-09-26,SE-14,Sabah,N.23 Petagas,1,Ahmad Farid Bin Sainuri,21859,PCS,75,355,3.9152972317194217,lost_deposit,23,False,Petagas
+2020-09-26,SE-14,Sabah,N.23 Petagas,2,Awang Ahmad Sah,3206,WARISAN,74,4125,45.49465093195103,won,23,False,Petagas
+2020-09-26,SE-14,Sabah,N.23 Petagas,3,Jecky Lettong @ Thaddeus Jack,21861,LDP,58,118,1.3014227418109627,lost_deposit,23,False,Petagas
+2020-09-26,SE-14,Sabah,N.23 Petagas,4,Mohamad Bin Kulat,21862,GAGASAN,86,33,0.3639572074556082,lost_deposit,23,False,Petagas
+2020-09-26,SE-14,Sabah,N.23 Petagas,5,Paul Nointien,21863,BEBAS,1,572,6.3085915958972105,lost_deposit,23,False,Petagas
+2020-09-26,SE-14,Sabah,N.23 Petagas,6,Arsit Bin Sedi@Sidik,21864,PN,12,3864,42.61608029116577,lost,23,False,Petagas
+2020-09-26,SE-14,Sabah,N.24 Tanjung Keramat,1,Faezah Ibnu,21865,LDP,58,329,3.705789592250506,lost_deposit,24,False,Tanjung Keramat
+2020-09-26,SE-14,Sabah,N.24 Tanjung Keramat,2,Mohd.Salleh Bin Lamsin,21866,USNO,15,122,1.3741833746339265,lost_deposit,24,False,Tanjung Keramat
+2020-09-26,SE-14,Sabah,N.24 Tanjung Keramat,3,Ira Uzair,21867,PCS,75,363,4.088758729443569,lost_deposit,24,False,Tanjung Keramat
+2020-09-26,SE-14,Sabah,N.24 Tanjung Keramat,4,Rosdy Bin Wasli,21868,WARISAN,74,3470,39.08537958999775,lost,24,False,Tanjung Keramat
+2020-09-26,SE-14,Sabah,N.24 Tanjung Keramat,5,Ir. Shahelmey Yahya,21869,BN,25,4594,51.74588871367425,won,24,False,Tanjung Keramat
+2020-09-26,SE-14,Sabah,N.25 Kapayan,1,Yong Wui Chung,21870,LDP,58,428,2.2008536020980096,lost_deposit,25,False,Kapayan
+2020-09-26,SE-14,Sabah,N.25 Kapayan,2,Jannie Lasimbang,20157,WARISAN,74,15052,77.40011312798889,won,25,False,Kapayan
+2020-09-26,SE-14,Sabah,N.25 Kapayan,3,Lu Yen Tung,21872,BN,25,1889,9.713580500848462,lost_deposit,25,False,Kapayan
+2020-09-26,SE-14,Sabah,N.25 Kapayan,4,Chua Juan Shiuh,21873,PCS,75,325,1.6712089268267598,lost_deposit,25,False,Kapayan
+2020-09-26,SE-14,Sabah,N.25 Kapayan,5,Dr. Edwin @ Jack Bosi,3550,PBS,48,803,4.129171594590425,lost_deposit,25,False,Kapayan
+2020-09-26,SE-14,Sabah,N.25 Kapayan,6,Stephen Jacob Jimbangan,15826,GAGASAN,86,892,4.586825731475292,lost_deposit,25,False,Kapayan
+2020-09-26,SE-14,Sabah,N.25 Kapayan,7,Chew Shung Seng,21876,BEBAS,1,58,0.2982465161721602,lost_deposit,25,False,Kapayan
+2020-09-26,SE-14,Sabah,N.26 Moyog,1,Joe Suleiman,21877,PN,12,2502,18.63409547925821,lost,26,False,Moyog
+2020-09-26,SE-14,Sabah,N.26 Moyog,2,Marcel Annol,21878,LDP,58,185,1.3778208088180532,lost_deposit,26,False,Moyog
+2020-09-26,SE-14,Sabah,N.26 Moyog,3,William Sampil,21879,PCS,75,975,7.261488046473522,lost_deposit,26,False,Moyog
+2020-09-26,SE-14,Sabah,N.26 Moyog,4,Robert Richard Foo,21880,BEBAS,1,71,0.5287852833842258,lost_deposit,26,False,Moyog
+2020-09-26,SE-14,Sabah,N.26 Moyog,5,Vinson Loijon @ Patrick,21881,PPRS,77,82,0.6107097639085425,lost_deposit,26,False,Moyog
+2020-09-26,SE-14,Sabah,N.26 Moyog,6,Darell Leiking,3898,WARISAN,74,8437,62.836076562150886,won,26,False,Moyog
+2020-09-26,SE-14,Sabah,N.26 Moyog,7,John Chryso Bin Masabal,21883,PBS,48,1175,8.751024056006553,lost_deposit,26,False,Moyog
+2020-09-26,SE-14,Sabah,N.27 Limbahau,1,Cornelius Frederick @ Michael Fj Sulip,21884,LDP,58,473,5.201803585175409,lost_deposit,27,False,Limbahau
+2020-09-26,SE-14,Sabah,N.27 Limbahau,2,Susanna Jainim Jaris,21885,USNO,15,54,0.5938634114153745,lost_deposit,27,False,Limbahau
+2020-09-26,SE-14,Sabah,N.27 Limbahau,3,Aubrey G Sham,21886,PCS,75,249,2.7383701748597824,lost_deposit,27,False,Limbahau
+2020-09-26,SE-14,Sabah,N.27 Limbahau,4,Pius Bin Lokiom,21887,BEBAS,1,64,0.7038381172330365,lost_deposit,27,False,Limbahau
+2020-09-26,SE-14,Sabah,N.27 Limbahau,5,Laurence Onjuman,21888,BEBAS,1,354,3.893104585945233,lost_deposit,27,False,Limbahau
+2020-09-26,SE-14,Sabah,N.27 Limbahau,6,Juil Nuatim,21889,WARISAN,74,5194,57.12086220169361,won,27,False,Limbahau
+2020-09-26,SE-14,Sabah,N.27 Limbahau,7,Evelyn June Charlie,21890,GAGASAN,86,34,0.3739139997800506,lost_deposit,27,False,Limbahau
+2020-09-26,SE-14,Sabah,N.27 Limbahau,8,Datuk Johnny Mositun,21891,PBS,48,2671,29.374243923897506,lost,27,False,Limbahau
+2020-09-26,SE-14,Sabah,N.28 Kawang,1,Janrywine J Lusin,21892,LDP,58,119,1.0943535037704617,lost_deposit,28,False,Kawang
+2020-09-26,SE-14,Sabah,N.28 Kawang,2,Datuk Gulamhaidar @ Yusof Bin Khan Bahadar,15837,PN,12,7747,71.24333272025014,won,28,False,Kawang
+2020-09-26,SE-14,Sabah,N.28 Kawang,3,Musli Bin Sapan @ Mushafien,21894,WARISAN,74,2653,24.397645760529706,lost,28,False,Kawang
+2020-09-26,SE-14,Sabah,N.28 Kawang,4,Abdul Rahim Hj. Lassim,21895,PCS,75,192,1.7656796027220896,lost_deposit,28,False,Kawang
+2020-09-26,SE-14,Sabah,N.28 Kawang,5,Awang Arip Bin Nasib @ Ag Arif Bin Nasip,21896,USNO,15,163,1.4989884127276072,lost_deposit,28,False,Kawang
+2020-09-26,SE-14,Sabah,N.29 Pantai Manis,1,Mazreca John,21897,LDP,58,127,1.2302625205851012,lost_deposit,29,False,Pantai Manis
+2020-09-26,SE-14,Sabah,N.29 Pantai Manis,2,Yahiya Bin Ag Kahar,21898,WARISAN,74,4430,42.91388162355904,lost,29,False,Pantai Manis
+2020-09-26,SE-14,Sabah,N.29 Pantai Manis,3,Mohd Tamin @ Tamin Bin Zainal,21899,BN,25,5116,49.559236656010846,won,29,False,Pantai Manis
+2020-09-26,SE-14,Sabah,N.29 Pantai Manis,4,Ag Damit @ Ag Sahzain Pg Abd Razak,21900,USNO,15,151,1.4627530756563014,lost_deposit,29,False,Pantai Manis
+2020-09-26,SE-14,Sabah,N.29 Pantai Manis,5,Fauzi Bin Ibrahim,21901,PCS,75,499,4.833866124188705,lost_deposit,29,False,Pantai Manis
+2020-09-26,SE-14,Sabah,N.30 Bongawan,1,Hj Ag Syairin,21902,BN,25,3548,27.766473626545626,lost,30,False,Bongawan
+2020-09-26,SE-14,Sabah,N.30 Bongawan,2,Daud Bin Yusof,5083,WARISAN,74,5400,42.26013460635467,won,30,False,Bongawan
+2020-09-26,SE-14,Sabah,N.30 Bongawan,3,Mohd Azree Bin Abd Ghani,21904,LDP,58,232,1.8156205979026447,lost_deposit,30,False,Bongawan
+2020-09-26,SE-14,Sabah,N.30 Bongawan,4,Anifah Aman,3558,PCS,75,3598,28.15777116919706,lost,30,False,Bongawan
+2020-09-26,SE-14,Sabah,N.31 Membakut,1,Ag Duramin Tafa,21906,BEBAS,1,588,5.609616485403548,lost_deposit,31,False,Membakut
+2020-09-26,SE-14,Sabah,N.31 Membakut,2,Saat Bin Ag. Damit,21907,PCS,75,526,5.018126311772562,lost_deposit,31,False,Membakut
+2020-09-26,SE-14,Sabah,N.31 Membakut,3,Mohd Arifin Bin Mohd Arif,15842,PN,12,6363,60.70406410990269,won,31,False,Membakut
+2020-09-26,SE-14,Sabah,N.31 Membakut,4,Mohd. Kamaruddin Bin Abd. Hamid,21909,WARISAN,74,2942,28.06716275519939,lost,31,False,Membakut
+2020-09-26,SE-14,Sabah,N.31 Membakut,5,Seniati Bin Abd Ghani,21910,USNO,15,63,0.6010303377218088,lost_deposit,31,False,Membakut
+2020-09-26,SE-14,Sabah,N.32 Klias,1,Abdul Rahman Bin Md Yakub,2848,PKR,11,2810,25.08256716950817,lost,32,False,Klias
+2020-09-26,SE-14,Sabah,N.32 Klias,2,Datuk Isnin Hj.Aliasnih,21912,PN,12,6711,59.9035972507364,won,32,False,Klias
+2020-09-26,SE-14,Sabah,N.32 Klias,3,Jismit Bin Japong,21913,BEBAS,1,86,0.7676515219137731,lost_deposit,32,False,Klias
+2020-09-26,SE-14,Sabah,N.32 Klias,4,Amsir Bin Dani,21914,USNO,15,122,1.0889940194590737,lost_deposit,32,False,Klias
+2020-09-26,SE-14,Sabah,N.32 Klias,5,Abdullah Bin Okin,21915,PCS,75,1419,12.666250111577256,lost,32,False,Klias
+2020-09-26,SE-14,Sabah,N.32 Klias,6,Maksit Bin Saidi,21916,GAGASAN,86,55,0.49093992680532,lost_deposit,32,False,Klias
+2020-09-26,SE-14,Sabah,N.33 Kuala Penyu,1,Limus Bin Jury,18516,PN,12,6256,49.69417745650965,won,33,False,Kuala Penyu
+2020-09-26,SE-14,Sabah,N.33 Kuala Penyu,2,Parijik @ Fredzex Bin Bagang,21918,GAGASAN,86,84,0.6672491857971244,lost_deposit,33,False,Kuala Penyu
+2020-09-26,SE-14,Sabah,N.33 Kuala Penyu,3,Jepri Bin Mapat,21919,LDP,58,138,1.0961950909524187,lost_deposit,33,False,Kuala Penyu
+2020-09-26,SE-14,Sabah,N.33 Kuala Penyu,4,Mohd Fadzlee Lee Abdullah @ Chun Lee,21920,BEBAS,1,2947,23.409325601715786,lost,33,False,Kuala Penyu
+2020-09-26,SE-14,Sabah,N.33 Kuala Penyu,5,Nelson W. Angang,21921,UPKO,87,2983,23.69528953848598,lost,33,False,Kuala Penyu
+2020-09-26,SE-14,Sabah,N.33 Kuala Penyu,6,Cecilia Jompiuh,21922,PCS,75,181,1.437763126539042,lost_deposit,33,False,Kuala Penyu
+2020-09-26,SE-14,Sabah,N.34 Lumadan,1,Sahlih Bin Sirin,2507,GAGASAN,86,44,0.4165088981446421,lost_deposit,34,False,Lumadan
+2020-09-26,SE-14,Sabah,N.34 Lumadan,2,Kamarlin Bin Ombi,18523,BN,25,3286,31.105641802347595,lost,34,False,Lumadan
+2020-09-26,SE-14,Sabah,N.34 Lumadan,3,Ali Dad Fazal Elahi,21925,USNO,15,254,2.4043922756531617,lost_deposit,34,False,Lumadan
+2020-09-26,SE-14,Sabah,N.34 Lumadan,4,Malik Bin Unsat @ Jahari,21926,PCS,75,231,2.1866717152593718,lost_deposit,34,False,Lumadan
+2020-09-26,SE-14,Sabah,N.34 Lumadan,5,Dayang Aezzy Binti Liman,4327,PHRS,78,59,0.5585005679666794,lost_deposit,34,False,Lumadan
+2020-09-26,SE-14,Sabah,N.34 Lumadan,6,Ruslan Muharam,21928,PBS,48,3650,34.55130632336236,won,34,False,Lumadan
+2020-09-26,SE-14,Sabah,N.34 Lumadan,7,Johari Bin Mohd Dun,21929,PPRS,77,135,1.2779250283983339,lost_deposit,34,False,Lumadan
+2020-09-26,SE-14,Sabah,N.34 Lumadan,8,Mohd Saidi Bin Manan,21930,BEBAS,1,46,0.4354411207875805,lost_deposit,34,False,Lumadan
+2020-09-26,SE-14,Sabah,N.34 Lumadan,9,Ag. Ku Zaidi Bin Pg. Wahab,21931,WARISAN,74,2859,27.063612268080274,lost,34,False,Lumadan
+2020-09-26,SE-14,Sabah,N.35 Sindumin,1,Manshur @ Manshor Bin Okk Mohd Yassin,21932,USNO,15,365,3.2998824699394267,lost_deposit,35,False,Sindumin
+2020-09-26,SE-14,Sabah,N.35 Sindumin,2,Arifin Bin Harith,18450,GAGASAN,86,34,0.3073863122683301,lost_deposit,35,False,Sindumin
+2020-09-26,SE-14,Sabah,N.35 Sindumin,3,Daniel Gaing @ George Daniel,21934,LDP,58,142,1.2837898924147908,lost_deposit,35,False,Sindumin
+2020-09-26,SE-14,Sabah,N.35 Sindumin,4,Datuk Dr Yusof,20188,WARISAN,74,5415,48.95579061567671,won,35,False,Sindumin
+2020-09-26,SE-14,Sabah,N.35 Sindumin,5,Sani Bin Miasin,21936,BN,25,4991,45.12250248621282,lost,35,False,Sindumin
+2020-09-26,SE-14,Sabah,N.35 Sindumin,6,Jaebeh @ Jaybee Bin Buaya @ Buayie,21937,PCS,75,114,1.0306482234879306,lost_deposit,35,False,Sindumin
+2020-09-26,SE-14,Sabah,N.36 Kundasang,1,Jeafry Goh Kautah,21938,LDP,58,293,2.9317590554332598,lost_deposit,36,False,Kundasang
+2020-09-26,SE-14,Sabah,N.36 Kundasang,2,Osman Marajin,21939,GAGASAN,86,75,0.7504502701620973,lost_deposit,36,False,Kundasang
+2020-09-26,SE-14,Sabah,N.36 Kundasang,3,Dr. Joachim Gunsalam,17170,PBS,48,4332,43.34600760456273,won,36,False,Kundasang
+2020-09-26,SE-14,Sabah,N.36 Kundasang,4,Ewon Bin Ebin,5100,PCS,75,2384,23.854312587552535,lost,36,False,Kundasang
+2020-09-26,SE-14,Sabah,N.36 Kundasang,5,Siriman Hj. Basir,21942,WARISAN,74,2910,29.117470482289377,lost,36,False,Kundasang
+2020-09-26,SE-14,Sabah,N.37 Karanaan,1,Hadzrul Masnin,21943,PCS,75,434,4.776579352850539,lost_deposit,37,False,Karanaan
+2020-09-26,SE-14,Sabah,N.37 Karanaan,2,Md Tajuddin Bin Sadi,21944,USNO,15,74,0.8144397974906451,lost_deposit,37,False,Karanaan
+2020-09-26,SE-14,Sabah,N.37 Karanaan,3,Awasi Ganie @ Yasin Bin Abdul Ghani,21945,WARISAN,74,1882,20.71318511996478,lost,37,False,Karanaan
+2020-09-26,SE-14,Sabah,N.37 Karanaan,4,Datuk Masidi Bin Manjun @ Masdi,21946,PN,12,6696,73.69579572969404,won,37,False,Karanaan
+2020-09-26,SE-14,Sabah,N.38 Paginatan,1,Jemadi @ Junaidi Bin Sahat,21947,BN,25,2460,23.181304183942704,lost,38,False,Paginatan
+2020-09-26,SE-14,Sabah,N.38 Paginatan,2,Datuk Henrynus Amin,20194,ANAKNEGERI,83,349,3.2887297399170747,lost_deposit,38,False,Paginatan
+2020-09-26,SE-14,Sabah,N.38 Paginatan,3,Abidin Bin Madingkir,21949,PN,12,3783,35.6483226535997,won,38,False,Paginatan
+2020-09-26,SE-14,Sabah,N.38 Paginatan,4,Bensin @ Binsin Bin Dani,21950,GAGASAN,86,52,0.4900113079532605,lost_deposit,38,False,Paginatan
+2020-09-26,SE-14,Sabah,N.38 Paginatan,5,Georgina George,21951,UPKO,87,1245,11.732001507727102,lost_deposit,38,False,Paginatan
+2020-09-26,SE-14,Sabah,N.38 Paginatan,6,Arthur Sen Siong Choo @ Sin Siong Choi,21952,PBS,48,1588,14.964191481341874,lost,38,False,Paginatan
+2020-09-26,SE-14,Sabah,N.38 Paginatan,7,Liong Sun Min @ Sun Min Bin Limatok,21953,LDP,58,118,1.1119487372785526,lost_deposit,38,False,Paginatan
+2020-09-26,SE-14,Sabah,N.38 Paginatan,8,Kamil Bin Kasibun,21954,USNO,15,112,1.0554089709762533,lost_deposit,38,False,Paginatan
+2020-09-26,SE-14,Sabah,N.38 Paginatan,9,Amru Bin Abd Kadir,18542,PCS,75,905,8.528081417263477,lost_deposit,38,False,Paginatan
+2020-09-26,SE-14,Sabah,N.39 Tambunan,1,Silverius Bruno,21956,PBS,48,439,3.7992211163998273,lost_deposit,39,False,Tambunan
+2020-09-26,SE-14,Sabah,N.39 Tambunan,2,Damian Marcus Podtung,21957,PCS,75,326,2.821289485071398,lost_deposit,39,False,Tambunan
+2020-09-26,SE-14,Sabah,N.39 Tambunan,3,Laurentius Nayan Ambu,21958,UPKO,87,1899,16.434443963652097,lost,39,False,Tambunan
+2020-09-26,SE-14,Sabah,N.39 Tambunan,4,Nordin Bin Jaini @ Zaini,21959,GAGASAN,86,140,1.2115967113803547,lost_deposit,39,False,Tambunan
+2020-09-26,SE-14,Sabah,N.39 Tambunan,5,Jimmy Palikat,21960,BEBAS,1,60,0.5192557334487236,lost_deposit,39,False,Tambunan
+2020-09-26,SE-14,Sabah,N.39 Tambunan,6,Datuk Dr. Jeffrey G. Kitingan,17184,PN,12,8691,75.21419299004761,won,39,False,Tambunan
+2020-09-26,SE-14,Sabah,N.40 Bingkor,1,Peter Saili,20212,WARISAN,74,2821,23.965678362076286,lost,40,False,Bingkor
+2020-09-26,SE-14,Sabah,N.40 Bingkor,2,Alphonsus Bin Felix,21963,PCS,75,447,3.79746835443038,lost_deposit,40,False,Bingkor
+2020-09-26,SE-14,Sabah,N.40 Bingkor,3,Engah Bin Sintan @ Dahlan Bin Abdullah,21964,USNO,15,104,0.8835273128876051,lost_deposit,40,False,Bingkor
+2020-09-26,SE-14,Sabah,N.40 Bingkor,4,Peter Jino Allion,20209,PBS,48,298,2.5316455696202533,lost_deposit,40,False,Bingkor
+2020-09-26,SE-14,Sabah,N.40 Bingkor,5,Julius Favianus,21966,LDP,58,210,1.7840455356384333,lost_deposit,40,False,Bingkor
+2020-09-26,SE-14,Sabah,N.40 Bingkor,6,Robert Tawik,20211,PN,12,7891,67.03763486534704,won,40,False,Bingkor
+2020-09-26,SE-14,Sabah,N.41 Liawan,1,Datuk Jake Nointin,5104,BEBAS,1,1835,15.510100583213589,lost,41,False,Liawan
+2020-09-26,SE-14,Sabah,N.41 Liawan,2,Yatin Kukung,21969,LDP,58,45,0.3803566900515595,lost_deposit,41,False,Liawan
+2020-09-26,SE-14,Sabah,N.41 Liawan,3,Daniel Kinsik,4332,PBS,48,1084,9.162370044797566,lost_deposit,41,False,Liawan
+2020-09-26,SE-14,Sabah,N.41 Liawan,4,Annuar Ayub @ Banand,21971,PN,12,4628,39.11757247908038,won,41,False,Liawan
+2020-09-26,SE-14,Sabah,N.41 Liawan,5,Mazlan Bin Abdul Latiff,21972,PCS,75,209,1.7665455160172427,lost_deposit,41,False,Liawan
+2020-09-26,SE-14,Sabah,N.41 Liawan,6,Rasinin Bin Koutis @ Kautis,5102,WARISAN,74,3987,33.699602738568174,lost,41,False,Liawan
+2020-09-26,SE-14,Sabah,N.41 Liawan,7,Leong Chau Chu,10246,USNO,15,43,0.3634519482714901,lost_deposit,41,False,Liawan
+2020-09-26,SE-14,Sabah,N.42 Melalap,1,Apiang Bin Sausun,21975,PCS,75,268,2.563857265856692,lost_deposit,42,False,Melalap
+2020-09-26,SE-14,Sabah,N.42 Melalap,2,Datuk Seri Radin Malleh,21976,PBS,48,1359,13.00105232947479,lost,42,False,Melalap
+2020-09-26,SE-14,Sabah,N.42 Melalap,3,Sazali Bin Justi,21977,USNO,15,32,0.3061322108485602,lost_deposit,42,False,Melalap
+2020-09-26,SE-14,Sabah,N.42 Melalap,4,Peter Anthony,20221,WARISAN,74,5245,50.17698268439682,won,42,False,Melalap
+2020-09-26,SE-14,Sabah,N.42 Melalap,5,Masdin Bin Tumas,3911,LDP,58,23,0.2200325265474026,lost_deposit,42,False,Melalap
+2020-09-26,SE-14,Sabah,N.42 Melalap,6,Jamawi  Jaafar,21980,BN,25,3526,33.73194298287573,lost,42,False,Melalap
+2020-09-26,SE-14,Sabah,N.43 Kemabong,1,Lucas Umbul,21981,UPKO,87,3202,29.23666910153397,lost,43,False,Kemabong
+2020-09-26,SE-14,Sabah,N.43 Kemabong,2,Tay Jin Kiong @ Alfred,18564,PCS,75,229,2.0909422936449964,lost_deposit,43,False,Kemabong
+2020-09-26,SE-14,Sabah,N.43 Kemabong,3,Rainus Bin Sagulau,21983,USNO,15,73,0.6665449233016801,lost_deposit,43,False,Kemabong
+2020-09-26,SE-14,Sabah,N.43 Kemabong,4,Raime Bin Unggi,3572,BN,25,2966,27.081811541271,lost,43,False,Kemabong
+2020-09-26,SE-14,Sabah,N.43 Kemabong,5,Rubin Bin Balang,4335,BEBAS,1,4214,38.47699050401753,won,43,False,Kemabong
+2020-09-26,SE-14,Sabah,N.43 Kemabong,6,Juster Bin Peter,21986,LDP,58,268,2.4470416362308254,lost_deposit,43,False,Kemabong
+2020-09-26,SE-14,Sabah,N.44 Tulid,1,Dahalan @ Ulin Bin Abdullah @ Amil,21987,LDP,58,52,0.7674144037780402,lost_deposit,44,False,Tulid
+2020-09-26,SE-14,Sabah,N.44 Tulid,2,Mudi Bin Dubing,21988,WARISAN,74,1589,23.450413223140497,lost,44,False,Tulid
+2020-09-26,SE-14,Sabah,N.44 Tulid,3,Flovia Ng,21989,PN,12,2267,33.45631641086187,won,44,False,Tulid
+2020-09-26,SE-14,Sabah,N.44 Tulid,4,Mohamad Khairy Bin Abdullah,21990,USNO,15,69,1.0182998819362454,lost_deposit,44,False,Tulid
+2020-09-26,SE-14,Sabah,N.44 Tulid,5,Matusin Bin Timam,21991,PCS,75,356,5.253837072018889,lost_deposit,44,False,Tulid
+2020-09-26,SE-14,Sabah,N.44 Tulid,6,Matusin Bowie,21992,BN,25,1723,25.42798110979929,lost,44,False,Tulid
+2020-09-26,SE-14,Sabah,N.44 Tulid,7,Suman Yasambun,21993,PBS,48,720,10.625737898465172,lost_deposit,44,False,Tulid
+2020-09-26,SE-14,Sabah,N.45 Sook,1,Ellron Bin Angin,2533,PN,12,3554,46.70784597187542,won,45,False,Sook
+2020-09-26,SE-14,Sabah,N.45 Sook,2,Rebecca Taimin,21995,PCS,75,88,1.156525167564726,lost_deposit,45,False,Sook
+2020-09-26,SE-14,Sabah,N.45 Sook,3,Raymond Ahuar,21996,PKR,11,2322,30.516493625969247,lost,45,False,Sook
+2020-09-26,SE-14,Sabah,N.45 Sook,4,Bonepes Been,21997,BN,25,1535,20.173478775134708,lost,45,False,Sook
+2020-09-26,SE-14,Sabah,N.45 Sook,5,Aning Bin Ansawang,21998,LDP,58,110,1.4456564594559076,lost_deposit,45,False,Sook
+2020-09-26,SE-14,Sabah,N.46 Nabawan,1,Datuk Abd. Ghani Mohd. Yassin,21999,PN,12,4688,55.936045817921496,won,46,False,Nabawan
+2020-09-26,SE-14,Sabah,N.46 Nabawan,2,Maikol Bin Ampuas,22000,BEBAS,1,128,1.5272640496360816,lost_deposit,46,False,Nabawan
+2020-09-26,SE-14,Sabah,N.46 Nabawan,3,Ampalus @ Robert Sanaron,22001,PCS,75,1115,13.303901682376804,lost,46,False,Nabawan
+2020-09-26,SE-14,Sabah,N.46 Nabawan,4,Albert Aguir,22002,UPKO,87,2450,29.232788450065627,lost,46,False,Nabawan
+2020-09-26,SE-14,Sabah,N.47 Telupid,1,Felix Joseph Sitin,22003,UPKO,87,1581,29.507278835386337,lost,47,False,Telupid
+2020-09-26,SE-14,Sabah,N.47 Telupid,2,Takun B. Ladas @ Mohd Johan Sualan Madinal,22004,LDP,58,54,1.0078387458006721,lost_deposit,47,False,Telupid
+2020-09-26,SE-14,Sabah,N.47 Telupid,3,Jonnybone J Kurum,22005,PBS,48,2266,42.29189996267265,won,47,False,Telupid
+2020-09-26,SE-14,Sabah,N.47 Telupid,4,Abdul Wahab Bin Abdul Ghani,22006,BN,25,1389,25.92385218365061,lost,47,False,Telupid
+2020-09-26,SE-14,Sabah,N.47 Telupid,5,Jingkoi Bin Luna,22007,PCS,75,68,1.269130272489735,lost_deposit,47,False,Telupid
+2020-09-26,SE-14,Sabah,N.48 Sugut,1,Kamaruddin Bin Jamil,22008,PPRS,77,86,1.1554480720139728,lost_deposit,48,False,Sugut
+2020-09-26,SE-14,Sabah,N.48 Sugut,2,Jubin Bin Tulawi,22009,USNO,15,38,0.5105468225178019,lost_deposit,48,False,Sugut
+2020-09-26,SE-14,Sabah,N.48 Sugut,3,Datuk James Ratib,22010,BN,25,4308,57.87988714228134,won,48,False,Sugut
+2020-09-26,SE-14,Sabah,N.48 Sugut,4,Norsabrina Binti Japar,22011,WARISAN,74,2644,35.52331049308074,lost,48,False,Sugut
+2020-09-26,SE-14,Sabah,N.48 Sugut,5,Raimon Lanjat,22012,PCS,75,124,1.6659948945317749,lost_deposit,48,False,Sugut
+2020-09-26,SE-14,Sabah,N.48 Sugut,6,Razak Allexsius Kontuni,22013,LDP,58,178,2.3915088002149667,lost_deposit,48,False,Sugut
+2020-09-26,SE-14,Sabah,N.48 Sugut,7,Undang Bin Jalang,22014,BEBAS,1,65,0.8733037753593982,lost_deposit,48,False,Sugut
+2020-09-26,SE-14,Sabah,N.49 Labuk,1,Dennis T. Rantau,22015,UPKO,87,1493,25.486514168658253,lost,49,False,Labuk
+2020-09-26,SE-14,Sabah,N.49 Labuk,2,Samad Bin Jambri,22016,PN,12,2701,46.107886650734045,won,49,False,Labuk
+2020-09-26,SE-14,Sabah,N.49 Labuk,3,Sh. Suhaimi Bin Sh. Miasin,22017,USNO,15,108,1.8436326391259816,lost_deposit,49,False,Labuk
+2020-09-26,SE-14,Sabah,N.49 Labuk,4,Abdul Rahman Bin Kongkawang,22018,BEBAS,1,1441,24.59883919426425,lost,49,False,Labuk
+2020-09-26,SE-14,Sabah,N.49 Labuk,5,Fidelis K. Michael,22019,PCS,75,115,1.9631273472174804,lost_deposit,49,False,Labuk
+2020-09-26,SE-14,Sabah,N.50 Gum-Gum,1,Yunus Bin Nurdin,22020,BEBAS,1,1690,21.101261081283557,lost,50,False,Gum-Gum
+2020-09-26,SE-14,Sabah,N.50 Gum-Gum,2,Arunarnsin Bin Taib,20245,WARISAN,74,3140,39.205893369958794,won,50,False,Gum-Gum
+2020-09-26,SE-14,Sabah,N.50 Gum-Gum,3,Undang Bin Tumpong,22022,PCS,75,172,2.1475839680359594,lost_deposit,50,False,Gum-Gum
+2020-09-26,SE-14,Sabah,N.50 Gum-Gum,4,Suhaimi Bin Nasir,5122,BN,25,2871,35.847171931576966,lost,50,False,Gum-Gum
+2020-09-26,SE-14,Sabah,N.50 Gum-Gum,5,Jainudin Bin Berahim,22024,LDP,58,113,1.4109127231864151,lost_deposit,50,False,Gum-Gum
+2020-09-26,SE-14,Sabah,N.50 Gum-Gum,6,Riduan Bin Sampai,22025,PPRS,77,23,0.2871769259582969,lost_deposit,50,False,Gum-Gum
+2020-09-26,SE-14,Sabah,N.51 Sungai Manila,1,M D Anuar Bin Ma Yusuf,22026,LDP,58,100,1.2128562765312312,lost_deposit,51,False,Sungai Manila
+2020-09-26,SE-14,Sabah,N.51 Sungai Manila,2,Mohd Arshad Bin Abdul,18588,PPRS,77,90,1.0915706488781078,lost_deposit,51,False,Sungai Manila
+2020-09-26,SE-14,Sabah,N.51 Sungai Manila,3,Sahidzan Bin Ag Salleh,22028,PCS,75,191,2.3165554881746515,lost_deposit,51,False,Sungai Manila
+2020-09-26,SE-14,Sabah,N.51 Sungai Manila,4,Mahmud Bin Sudin,22029,WARISAN,74,3168,38.423286840509405,lost,51,False,Sungai Manila
+2020-09-26,SE-14,Sabah,N.51 Sungai Manila,5,Mokran Bin Ingkat,22030,BN,25,4585,55.60946027895696,won,51,False,Sungai Manila
+2020-09-26,SE-14,Sabah,N.51 Sungai Manila,6,K Zulkipli @ K Zulkifli Bin Harrith,22031,USNO,15,111,1.3462704669496666,lost_deposit,51,False,Sungai Manila
+2020-09-26,SE-14,Sabah,N.52 Sungai Sibuga,1,Hj Mohamad Hamsan,22032,BN,25,7545,52.69590724961587,won,52,False,Sungai Sibuga
+2020-09-26,SE-14,Sabah,N.52 Sungai Sibuga,2,Irwanshah Bin Mustapa,4349,PCS,75,526,3.673697443777064,lost_deposit,52,False,Sungai Sibuga
+2020-09-26,SE-14,Sabah,N.52 Sungai Sibuga,3,Mohd Jain Bin Aliuddin,22034,PPRS,77,114,0.7962005866741164,lost_deposit,52,False,Sungai Sibuga
+2020-09-26,SE-14,Sabah,N.52 Sungai Sibuga,4,Kemellia Binti Hasan,22035,LDP,58,126,0.8800111747450762,lost_deposit,52,False,Sungai Sibuga
+2020-09-26,SE-14,Sabah,N.52 Sungai Sibuga,5,Armani Binti Mahiruddin,22036,WARISAN,74,6007,41.95418354518787,lost,52,False,Sungai Sibuga
+2020-09-26,SE-14,Sabah,N.53 Sekong,1,Saran Bin Jumdail,22037,USNO,15,63,0.5844155844155844,lost_deposit,53,False,Sekong
+2020-09-26,SE-14,Sabah,N.53 Sekong,2,Cikgu Alias Bin Sani,22038,WARISAN,74,5937,55.07421150278293,won,53,False,Sekong
+2020-09-26,SE-14,Sabah,N.53 Sekong,3,Mohd Fazil Bin Ajak,22039,LDP,58,102,0.9461966604823748,lost_deposit,53,False,Sekong
+2020-09-26,SE-14,Sabah,N.53 Sekong,4,Abidin Bin Sukor,22040,PPRS,77,87,0.8070500927643784,lost_deposit,53,False,Sekong
+2020-09-26,SE-14,Sabah,N.53 Sekong,5,Sitti Nurul Ain Sahidah Bt Pitting,22041,PCS,75,253,2.3469387755102042,lost_deposit,53,False,Sekong
+2020-09-26,SE-14,Sabah,N.53 Sekong,6,Hazulizah Mohd Dani,22042,BN,25,4338,40.24118738404452,lost,53,False,Sekong
+2020-09-26,SE-14,Sabah,N.54 Karamunting,1,Adam Chal,22043,USNO,15,306,3.1578947368421053,lost_deposit,54,False,Karamunting
+2020-09-26,SE-14,Sabah,N.54 Karamunting,2,Loo Mun Yew,22044,PCS,75,81,0.8359133126934984,lost_deposit,54,False,Karamunting
+2020-09-26,SE-14,Sabah,N.54 Karamunting,3,Hiew Vun Zin,18602,WARISAN,74,5694,58.76160990712074,won,54,False,Karamunting
+2020-09-26,SE-14,Sabah,N.54 Karamunting,4,Ha Cheun Hoo,22046,LDP,58,129,1.3312693498452013,lost_deposit,54,False,Karamunting
+2020-09-26,SE-14,Sabah,N.54 Karamunting,5,Kong Nyuk Thou,22047,PBS,48,235,2.425180598555212,lost_deposit,54,False,Karamunting
+2020-09-26,SE-14,Sabah,N.54 Karamunting,6,Chew Kok Woh,22048,BN,25,3215,33.178534571723425,lost,54,False,Karamunting
+2020-09-26,SE-14,Sabah,N.54 Karamunting,7,Lee Tiang  Yong @ Lee Chee Ui,22049,PPRS,77,30,0.3095975232198142,lost_deposit,54,False,Karamunting
+2020-09-26,SE-14,Sabah,N.55 Elopura,1,Voo Min Gin,22050,PCS,75,167,1.130746834585957,lost_deposit,55,False,Elopura
+2020-09-26,SE-14,Sabah,N.55 Elopura,2,Calvin Chong,22051,WARISAN,74,10871,73.60687927415532,won,55,False,Elopura
+2020-09-26,SE-14,Sabah,N.55 Elopura,3,Chan Boon Thian,22052,BN,25,3188,21.585753944072035,lost,55,False,Elopura
+2020-09-26,SE-14,Sabah,N.55 Elopura,4,Chong Thien Ming,22053,LDP,58,226,1.5302322432121336,lost_deposit,55,False,Elopura
+2020-09-26,SE-14,Sabah,N.55 Elopura,5,Khairiah @ Siti Khairiah Binti S.Mohd,22054,USNO,15,224,1.5166903649536192,lost_deposit,55,False,Elopura
+2020-09-26,SE-14,Sabah,N.55 Elopura,6,Pak Andi @ Mohd Saini,22055,PPRS,77,93,0.6296973390209222,lost_deposit,55,False,Elopura
+2020-09-26,SE-14,Sabah,N.56 Tanjong Papat,1,Chung Yu Seng,22056,PCS,75,79,0.9105578607653296,lost_deposit,56,False,Tanjong Papat
+2020-09-26,SE-14,Sabah,N.56 Tanjong Papat,2,Lam Jin Dak,22057,LDP,58,62,0.7146150299677271,lost_deposit,56,False,Tanjong Papat
+2020-09-26,SE-14,Sabah,N.56 Tanjong Papat,3,Noraini Binti Sulong,22058,BEBAS,1,98,1.1295527893038266,lost_deposit,56,False,Tanjong Papat
+2020-09-26,SE-14,Sabah,N.56 Tanjong Papat,4,Ken Yong,22059,PN,12,2157,24.86168741355463,lost,56,False,Tanjong Papat
+2020-09-26,SE-14,Sabah,N.56 Tanjong Papat,5,Poon Ming Fung @ Frankie,20266,WARISAN,74,5900,68.00368833563854,won,56,False,Tanjong Papat
+2020-09-26,SE-14,Sabah,N.56 Tanjong Papat,6,Mohd Yunus Bin Apil,22061,USNO,15,345,3.9764868603042873,lost_deposit,56,False,Tanjong Papat
+2020-09-26,SE-14,Sabah,N.56 Tanjong Papat,7,Jamal Bin Ali,22062,PPRS,77,35,0.4034117104656524,lost_deposit,56,False,Tanjong Papat
+2020-09-26,SE-14,Sabah,N.57 Kuamut,1,Masiung Banah,17229,BEBAS,1,2802,39.11222780569514,won,57,False,Kuamut
+2020-09-26,SE-14,Sabah,N.57 Kuamut,2,Benson Inggam,22064,UPKO,87,1824,25.4606365159129,lost,57,False,Kuamut
+2020-09-26,SE-14,Sabah,N.57 Kuamut,3,Mohd Mezsi Ng Abdullah,22065,PCS,75,721,10.064209938581797,lost_deposit,57,False,Kuamut
+2020-09-26,SE-14,Sabah,N.57 Kuamut,4,Juhari Bin Janan,22066,BN,25,1547,21.59408151870463,lost,57,False,Kuamut
+2020-09-26,SE-14,Sabah,N.57 Kuamut,5,Dr. Ationg Bin Tituh,22067,GAGASAN,86,270,3.7688442211055273,lost_deposit,57,False,Kuamut
+2020-09-26,SE-14,Sabah,N.58 Lamag,1,Junny @ Karuak Bin Abdullah,22068,BEBAS,1,73,1.3003206270039187,lost_deposit,58,False,Lamag
+2020-09-26,SE-14,Sabah,N.58 Lamag,2,Mohd Ismail Hj Ayob,22069,WARISAN,74,2374,42.287139294620594,lost,58,False,Lamag
+2020-09-26,SE-14,Sabah,N.58 Lamag,3,Sairin Abd.Rahman,22070,PPRS,77,61,1.086569291058069,lost_deposit,58,False,Lamag
+2020-09-26,SE-14,Sabah,N.58 Lamag,4,Bung Moktar Bin Radin,5135,BN,25,3035,54.06127538297115,won,58,False,Lamag
+2020-09-26,SE-14,Sabah,N.58 Lamag,5,Razman Bin Mayah,22072,PCS,75,71,1.2646954043462773,lost_deposit,58,False,Lamag
+2020-09-26,SE-14,Sabah,N.59 Sukau,1,Jafry Ariffin,22073,BN,25,3763,55.66568047337278,won,59,False,Sukau
+2020-09-26,SE-14,Sabah,N.59 Sukau,2,Malaya Bin Kasurah,22074,PCS,75,94,1.3905325443786982,lost_deposit,59,False,Sukau
+2020-09-26,SE-14,Sabah,N.59 Sukau,3,Datuk Saddi Haji Abdul Rahman,20275,BEBAS,1,1228,18.16568047337278,lost,59,False,Sukau
+2020-09-26,SE-14,Sabah,N.59 Sukau,4,Dato` Jakariah Bin Janit,22076,GAGASAN,86,41,0.606508875739645,lost_deposit,59,False,Sukau
+2020-09-26,SE-14,Sabah,N.59 Sukau,5,Amrah Bin Liwangsa,22077,WARISAN,74,1634,24.17159763313609,lost,59,False,Sukau
+2020-09-26,SE-14,Sabah,N.60 Tungku,1,Jumaat Bin Anwar,22078,BEBAS,1,154,1.9961114711600776,lost_deposit,60,False,Tungku
+2020-09-26,SE-14,Sabah,N.60 Tungku,2,Jani Bin Kulmen,22079,PCS,75,142,1.840570317563189,lost_deposit,60,False,Tungku
+2020-09-26,SE-14,Sabah,N.60 Tungku,3,Amil Bangsa Bin Amil Ahsan,22080,PKS,28,24,0.3110823071937783,lost_deposit,60,False,Tungku
+2020-09-26,SE-14,Sabah,N.60 Tungku,4,Assaffal @ Samsul Kamal Bin P. Alian,22081,WARISAN,74,3792,49.15100453661697,won,60,False,Tungku
+2020-09-26,SE-14,Sabah,N.60 Tungku,5,Mohammad Bin Sidam,22082,USNO,15,79,1.0239792611795204,lost_deposit,60,False,Tungku
+2020-09-26,SE-14,Sabah,N.60 Tungku,6,Momen @ Abd Momen Bin Anchai @ Anghai,22083,BN,25,3524,45.67725210628645,lost,60,False,Tungku
+2020-09-26,SE-14,Sabah,N.61 Segama,1,Basri Abd Gapar,22084,GAGASAN,86,135,1.4547413793103448,lost_deposit,61,False,Segama
+2020-09-26,SE-14,Sabah,N.61 Segama,2,Kamis Bin Burhan,22085,BEBAS,1,510,5.495689655172414,lost_deposit,61,False,Segama
+2020-09-26,SE-14,Sabah,N.61 Segama,3,Kamarudin Bin Mohmad Chinki,22086,PCS,75,570,6.142241379310343,lost_deposit,61,False,Segama
+2020-09-26,SE-14,Sabah,N.61 Segama,4,Nicholas Voo Vune Kett,22087,LDP,58,67,0.7219827586206896,lost_deposit,61,False,Segama
+2020-09-26,SE-14,Sabah,N.61 Segama,5,Sahidin Bin Rabaha,22088,PPRS,77,399,4.299568965517241,lost_deposit,61,False,Segama
+2020-09-26,SE-14,Sabah,N.61 Segama,6,Aljen Bin Johnny,22089,PN,12,2696,29.051724137931036,lost,61,False,Segama
+2020-09-26,SE-14,Sabah,N.61 Segama,7,Mohamaddin Bin Ketapi,2224,WARISAN,74,4864,52.41379310344828,won,61,False,Segama
+2020-09-26,SE-14,Sabah,N.61 Segama,8,Jikamisah Binti Abdul Salam,22091,USNO,15,39,0.4202586206896551,lost_deposit,61,False,Segama
+2020-09-26,SE-14,Sabah,N.62 Silam,1,Ahmad Bin Tiong @ Baba,22092,GAGASAN,86,122,1.2998082250159813,lost_deposit,62,False,Silam
+2020-09-26,SE-14,Sabah,N.62 Silam,2,Matusin Bin Sunsang,22093,PCS,75,196,2.088216492648626,lost_deposit,62,False,Silam
+2020-09-26,SE-14,Sabah,N.62 Silam,3,Dumi Bin Pg. Masdal,3929,WARISAN,74,5200,55.4016620498615,won,62,False,Silam
+2020-09-26,SE-14,Sabah,N.62 Silam,4,Mohammad Hamdan Bin Abdullah,22095,USNO,15,54,0.575324952056254,lost_deposit,62,False,Silam
+2020-09-26,SE-14,Sabah,N.62 Silam,5,Hj Abdul Hakim Bin Hj Gulam Hassan @ Hj Muda,22096,PN,12,3658,38.97293841892179,lost,62,False,Silam
+2020-09-26,SE-14,Sabah,N.62 Silam,6,Erwan Bin Johan,22097,PPRS,77,156,1.662049861495845,lost_deposit,62,False,Silam
+2020-09-26,SE-14,Sabah,N.63 Kunak,1,Norazlinah Binti Arif,20285,WARISAN,74,3861,48.651713709677416,won,63,False,Kunak
+2020-09-26,SE-14,Sabah,N.63 Kunak,2,Hasbi Bin Sariat,22099,GAGASAN,86,290,3.6542338709677415,lost_deposit,63,False,Kunak
+2020-09-26,SE-14,Sabah,N.63 Kunak,3,Nur Aini Binti Abdul Rahman,22100,LDP,58,404,5.090725806451613,lost_deposit,63,False,Kunak
+2020-09-26,SE-14,Sabah,N.63 Kunak,4,Mohd Azman @ Abdul Samad Bin Asiman,22101,PCS,75,77,0.9702620967741936,lost_deposit,63,False,Kunak
+2020-09-26,SE-14,Sabah,N.63 Kunak,5,Utoh Joehann Bin Angkie,22102,USNO,15,32,0.4032258064516129,lost_deposit,63,False,Kunak
+2020-09-26,SE-14,Sabah,N.63 Kunak,6,Halid Bin Harun,22103,BN,25,3272,41.229838709677416,lost,63,False,Kunak
+2020-09-26,SE-14,Sabah,N.64 Sulabayan,1,Alahuddin Bin Mohd. Sarah,22104,PCS,75,75,0.901009130225853,lost_deposit,64,False,Sulabayan
+2020-09-26,SE-14,Sabah,N.64 Sulabayan,2,Jaujan Bin Sambakong,20288,WARISAN,74,5747,69.0413262854397,won,64,False,Sulabayan
+2020-09-26,SE-14,Sabah,N.64 Sulabayan,3,Abdul Manan Bin Indanan,22106,BN,25,2502,30.057664584334454,lost,64,False,Sulabayan
+2020-09-26,SE-14,Sabah,N.65 Senallang,1,D. Pg. Ahmad Bin Datu Ali Alam,22107,PPRS,77,39,0.4729565850109143,lost_deposit,65,False,Senallang
+2020-09-26,SE-14,Sabah,N.65 Senallang,2,Mohd Shafie Bin Apdal,22108,WARISAN,74,6363,77.16468590831919,won,65,False,Senallang
+2020-09-26,SE-14,Sabah,N.65 Senallang,3,Norazman Hj. Utoh Nain,22109,PN,12,1732,21.00412321125394,lost,65,False,Senallang
+2020-09-26,SE-14,Sabah,N.65 Senallang,4,Mohammad Ramzan Bin Abdul Wahab,22110,USNO,15,61,0.7397526073247636,lost_deposit,65,False,Senallang
+2020-09-26,SE-14,Sabah,N.65 Senallang,5,Madjalis Kk Lais,22111,PCS,75,51,0.6184816880911957,lost_deposit,65,False,Senallang
+2020-09-26,SE-14,Sabah,N.66 Bugaya,1,Jihek Bin Basanu,22112,PCS,75,115,1.0004349717268377,lost_deposit,66,False,Bugaya
+2020-09-26,SE-14,Sabah,N.66 Bugaya,2,Manis Muka Binti Hj. Mohd Darah,22113,WARISAN,74,8557,74.44106133101349,won,66,False,Bugaya
+2020-09-26,SE-14,Sabah,N.66 Bugaya,3,Rasidan Bin Abd Latiff,22114,BEBAS,1,92,0.8003479773814702,lost_deposit,66,False,Bugaya
+2020-09-26,SE-14,Sabah,N.66 Bugaya,4,Ahmad Bin Hj Kenajaan,22115,USNO,15,99,0.8612440191387559,lost_deposit,66,False,Bugaya
+2020-09-26,SE-14,Sabah,N.66 Bugaya,5,Mohd Daud Bin Tampokong,22116,PN,12,2552,22.200956937799038,lost,66,False,Bugaya
+2020-09-26,SE-14,Sabah,N.66 Bugaya,6,Abdul Jan Bin Muammil @ Abdul Jim,22117,BEBAS,1,31,0.2696824706394084,lost_deposit,66,False,Bugaya
+2020-09-26,SE-14,Sabah,N.66 Bugaya,7,Taraji Bin Jamdi,22118,PPRS,77,49,0.4262722923010004,lost_deposit,66,False,Bugaya
+2020-09-26,SE-14,Sabah,N.67 Balung,1,Abdul Hamid Bin Damang,22119,PCS,75,110,1.389415182518631,lost_deposit,67,False,Balung
+2020-09-26,SE-14,Sabah,N.67 Balung,2,Labosa @ Ghazali Bin Jakilan,22120,USNO,15,33,0.4168245547555892,lost_deposit,67,False,Balung
+2020-09-26,SE-14,Sabah,N.67 Balung,3,Abu Bakar Bin Jambuan @ Omar,22121,GAGASAN,86,26,0.3284072249589491,lost_deposit,67,False,Balung
+2020-09-26,SE-14,Sabah,N.67 Balung,4,Hamild @ Hamid Bin Awang,22122,BN,25,3524,44.51181002905141,won,67,False,Balung
+2020-09-26,SE-14,Sabah,N.67 Balung,5,Cyril Aloysius,22123,LDP,58,67,0.8462801566249842,lost_deposit,67,False,Balung
+2020-09-26,SE-14,Sabah,N.67 Balung,6,Andi Rus Diana Bt Andi Paladjareng,20304,WARISAN,74,2944,37.185802703044075,lost,67,False,Balung
+2020-09-26,SE-14,Sabah,N.67 Balung,7,Ariffin Bin Kassim Ibong,22125,PHRS,78,1213,15.321460149046354,lost,67,False,Balung
+2020-09-26,SE-14,Sabah,N.68 Apas,1,Nizam Bin Datuk Abu Bakar Titingan,20308,PN,12,6252,58.29914211115256,won,68,False,Apas
+2020-09-26,SE-14,Sabah,N.68 Apas,2,Datuk Indal,22127,PCS,75,186,1.7344274524431182,lost_deposit,68,False,Apas
+2020-09-26,SE-14,Sabah,N.68 Apas,3,Amrullah @ Ambrullah Bin Kamal,22128,WARISAN,74,4203,39.19246549794853,lost,68,False,Apas
+2020-09-26,SE-14,Sabah,N.68 Apas,4,Mohd Sayadi Bin Bakal,22129,USNO,15,83,0.7739649384558001,lost_deposit,68,False,Apas
+2020-09-26,SE-14,Sabah,N.69 Sri Tanjong,1,Wong Su Vui,22130,GAGASAN,86,117,0.8036266227076035,lost_deposit,69,False,Sri Tanjong
+2020-09-26,SE-14,Sabah,N.69 Sri Tanjong,2,Lim Ting Khai,20314,LDP,58,276,1.8957345971563984,lost_deposit,69,False,Sri Tanjong
+2020-09-26,SE-14,Sabah,N.69 Sri Tanjong,3,Ricky Pang Siau Chern,22132,PPRS,77,46,0.315955766192733,lost_deposit,69,False,Sri Tanjong
+2020-09-26,SE-14,Sabah,N.69 Sri Tanjong,4,Justin Wong Yung Bin,22133,WARISAN,74,11150,76.58493028367333,won,69,False,Sri Tanjong
+2020-09-26,SE-14,Sabah,N.69 Sri Tanjong,5,Kour Ken-Keat,22134,PCS,75,80,0.54948828903084,lost_deposit,69,False,Sri Tanjong
+2020-09-26,SE-14,Sabah,N.69 Sri Tanjong,6,Yapp Yin Hoau,22135,PHRS,78,568,3.9013668521189637,lost_deposit,69,False,Sri Tanjong
+2020-09-26,SE-14,Sabah,N.69 Sri Tanjong,7,Chung Yaw Vui,22136,BEBAS,1,52,0.35716738787004604,lost_deposit,69,False,Sri Tanjong
+2020-09-26,SE-14,Sabah,N.69 Sri Tanjong,8,Fung Len Fui,18654,PN,12,2270,15.591730201250089,lost,69,False,Sri Tanjong
+2020-09-26,SE-14,Sabah,N.70 Kukusan,1,Ismail Idris @ Pakcik.El,22138,USNO,15,80,1.2004801920768309,lost_deposit,70,False,Kukusan
+2020-09-26,SE-14,Sabah,N.70 Kukusan,2,Taufik Bin Muin,22139,PCS,75,75,1.1254501800720291,lost_deposit,70,False,Kukusan
+2020-09-26,SE-14,Sabah,N.70 Kukusan,3,Wong Jin Soon,22140,PHRS,78,796,11.944777911164465,lost_deposit,70,False,Kukusan
+2020-09-26,SE-14,Sabah,N.70 Kukusan,4,Rina Hj. Jainal,22141,WARISAN,74,2834,42.527010804321726,won,70,False,Kukusan
+2020-09-26,SE-14,Sabah,N.70 Kukusan,5,Rosdiansa Bin Mohd Noor,22142,PPRS,77,34,0.5102040816326531,lost_deposit,70,False,Kukusan
+2020-09-26,SE-14,Sabah,N.70 Kukusan,6,Chaya Binti Sulaiman,22143,BN,25,2824,42.37695078031212,lost,70,False,Kukusan
+2020-09-26,SE-14,Sabah,N.70 Kukusan,7,Lee Boon King,22144,GAGASAN,86,21,0.31512605042016806,lost_deposit,70,False,Kukusan
+2020-09-26,SE-14,Sabah,N.71 Tanjung Batu,1,Andi Muhammad Suryady Bin Bandy,5148,BN,25,4728,62.07983193277311,won,71,False,Tanjung Batu
+2020-09-26,SE-14,Sabah,N.71 Tanjung Batu,2,Rudy Bin Nurdin,22146,PCS,75,130,1.7069327731092436,lost_deposit,71,False,Tanjung Batu
+2020-09-26,SE-14,Sabah,N.71 Tanjung Batu,3,Kamshari @ Johari Ibrahim,22147,PPRS,77,79,1.0372899159663864,lost_deposit,71,False,Tanjung Batu
+2020-09-26,SE-14,Sabah,N.71 Tanjung Batu,4,Zulkifli Bin Ahmad,22148,USNO,15,58,0.7615546218487395,lost_deposit,71,False,Tanjung Batu
+2020-09-26,SE-14,Sabah,N.71 Tanjung Batu,5,Mohd Afsar Bin Abd Latif,22149,WARISAN,74,2605,34.20430672268908,lost,71,False,Tanjung Batu
+2020-09-26,SE-14,Sabah,N.71 Tanjung Batu,6,Asmari @ Nas Bin Udoh,22150,BEBAS,1,16,0.2100840336134453,lost_deposit,71,False,Tanjung Batu
+2020-09-26,SE-14,Sabah,N.72 Merotai,1,Hafeezatul Halimah Binti Mohamad,22151,USNO,15,60,0.7072135785007072,lost_deposit,72,False,Merotai
+2020-09-26,SE-14,Sabah,N.72 Merotai,2,Shim Nyat Yun,22152,LDP,58,30,0.3536067892503536,lost_deposit,72,False,Merotai
+2020-09-26,SE-14,Sabah,N.72 Merotai,3,Sarifuddin Hata,22153,WARISAN,74,4058,47.831211692597826,won,72,False,Merotai
+2020-09-26,SE-14,Sabah,N.72 Merotai,4,Abdullah Bin Palile,22154,PCS,75,86,1.0136727958510137,lost_deposit,72,False,Merotai
+2020-09-26,SE-14,Sabah,N.72 Merotai,5,Mohamad Jalani Bin Chachu,22155,PN,12,2471,29.125412541254125,lost,72,False,Merotai
+2020-09-26,SE-14,Sabah,N.72 Merotai,6,Liew Yun Fah,15947,PHRS,78,1779,20.96888260254597,lost,72,False,Merotai
+2020-09-26,SE-14,Sabah,N.73 Sebatik,1,Juhuran Bin Kalmin,22157,BEBAS,1,90,1.5055202408832384,lost_deposit,73,False,Sebatik
+2020-09-26,SE-14,Sabah,N.73 Sebatik,2,Hassan A Gani Pg Amir,20327,WARISAN,74,2665,44.58012713282034,won,73,False,Sebatik
+2020-09-26,SE-14,Sabah,N.73 Sebatik,3,Abdul Samat Bin Akui,22159,PCS,75,504,8.430913348946136,lost_deposit,73,False,Sebatik
+2020-09-26,SE-14,Sabah,N.73 Sebatik,4,Baharuddin Bin Basrie,22160,PPRS,77,140,2.3419203747072603,lost_deposit,73,False,Sebatik
+2020-09-26,SE-14,Sabah,N.73 Sebatik,5,Datuk Hj Abd Muis Hj Picho,20326,PN,12,2143,35.848109735697555,lost,73,False,Sebatik
+2020-09-26,SE-14,Sabah,N.73 Sebatik,6,Hassan Bin Ibrahim,7655,USNO,15,253,4.232184677149548,lost_deposit,73,False,Sebatik
+2020-09-26,SE-14,Sabah,N.73 Sebatik,7,Mohd Balbir Bin Arjan,22163,BEBAS,1,183,3.0612244897959178,lost_deposit,73,False,Sebatik

@@ -1,0 +1,61 @@
+export interface CensusDataRecord {
+  state: string;
+  parlimen: string;
+  dun: string;
+  code_state: number;
+  code_parlimen: string;
+  code_dun: string;
+  code_state_dun: string;
+  year: number;
+  // This column contains commas (e.g., '1,011') and is best typed as a string
+  area_km2: string;
+  population_total: number;
+  nationality_citizen: number;
+  nationality_non_citizen: number;
+  sex_male: number;
+  sex_female: number;
+  ethnicity_proportion_bumi: number;
+  ethnicity_proportion_chinese: number;
+  ethnicity_proportion_indian: number;
+  ethnicity_proportion_other: number;
+  age_proportion_0_14: number;
+  age_proportion_15_64: number;
+  age_proportion_65_above: number;
+  age_proportion_18_above: number;
+  housing_total: number;
+  household_total: number;
+  household_size_avg: number;
+  // These birth columns are treated as strings
+  live_births: string;
+  live_births_male: string;
+  live_births_female: string;
+  deaths: number;
+  deaths_male: number;
+  deaths_female: number;
+  labour_participation_rate: number;
+  labour_unemployment_rate: number;
+  income_median: number;
+  income_avg: number;
+  expenditure_avg: number;
+  gini: number;
+  poverty_incidence: number;
+  sme_small: number;
+  sme_micro: number;
+  // This column has some missing values (nulls)
+  sme_medium: number | null;
+  businesses_agriculture: number;
+  businesses_crops: number;
+  businesses_livestock: number;
+  businesses_fisheries: number;
+  businesses_forestry: number;
+  businesses_mining: number;
+  businesses_manufacturing: number;
+  businesses_construction: number;
+  businesses_services: number;
+  utilities_pipedwater_home: number;
+  utilities_pipedwater_public: number;
+  utilities_pipedwater_other: number;
+  utilities_electricity_home: number;
+  utilities_electricity_none: number;
+  constituency_id: string;
+}
