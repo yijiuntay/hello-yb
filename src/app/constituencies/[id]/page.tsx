@@ -4,11 +4,21 @@ import Header from "@/app/components/Header";
 import Footer from "@/app/components/Footer";
 import DemographicsSection from "../components/DemographicsSection";
 // import CandidatesSection from "../components/CandidatesSection";
-// import PastResultsSection from "../components/PastResultsSection";
+import PastResultsSection from "../components/PastResultsSection";
 // import AccountabilitySection from "../components/AccountabilitySection";
 import WorkInProgressBanner from "../components/WorkInProgressBanner";
-import { getConstituencies, getCensus } from "@/lib/data";
-import { Constituency, CensusDataRecord } from "@/types";
+import {
+  getConstituencies,
+  getCensus,
+  getDunBallots,
+  getDunSummary,
+} from "@/lib/data";
+import {
+  Constituency,
+  CensusDataRecord,
+  SabahDunBallot,
+  SabahDunSummary,
+} from "@/types";
 
 const GlobalStyles = () => (
   <style>{`
@@ -32,17 +42,21 @@ const GlobalStyles = () => (
 export default async function ConstituencyPage({
   params,
 }: {
-  params: { id: string };
+  params: Promise<{ id: string }>;
 }) {
+  const { id } = await params;
+
   // Use Promise.all to fetch multiple data sources concurrently
-  const [constituencies, censusData] = await Promise.all([
+  const [constituencies, censusData, ballots, summary] = await Promise.all([
     getConstituencies(),
     getCensus(),
+    getDunBallots(),
+    getDunSummary(),
     // Add more async data fetching functions here
   ]);
 
   const constituency = constituencies.find(
-    (c: Constituency) => c.id === params.id
+    (c: Constituency) => c.id.toString() === id
   );
 
   if (!constituency) {
@@ -50,7 +64,19 @@ export default async function ConstituencyPage({
   }
 
   const censusDataRecord = censusData.find(
-    (record: CensusDataRecord) => record.constituency_id === params.id
+    (row: CensusDataRecord) => row.constituency_id.toString() === id
+  );
+
+  const normalize = (s?: string) => (s ? s.trim().toLowerCase() : "");
+
+  const filteredBallots: SabahDunBallot[] = ballots.filter(
+    (row: SabahDunBallot) =>
+      normalize(row.area_name) === normalize(constituency.name)
+  );
+
+  const filteredSummary: SabahDunSummary[] = summary.filter(
+    (row: SabahDunSummary) =>
+      normalize(row.area_name) === normalize(constituency.name)
   );
 
   return (
@@ -85,7 +111,10 @@ export default async function ConstituencyPage({
           {/* <CandidatesSection constituencyId={params.id} /> */}
 
           {/* Past Results Section */}
-          {/* <PastResultsSection results={constituency.pastResults} /> */}
+          <PastResultsSection
+            ballots={filteredBallots}
+            summary={filteredSummary}
+          />
 
           {/* Accountability Section */}
           {/* <AccountabilitySection constituencyId={params.id} /> */}
