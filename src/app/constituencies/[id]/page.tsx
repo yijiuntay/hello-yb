@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import Header from "@/app/components/Header";
 import Footer from "@/app/components/Footer";
 import DemographicsSection from "../components/DemographicsSection";
-// import CandidatesSection from "../components/CandidatesSection";
+import CandidatesSection from "../components/CandidatesSection";
 import PastResultsSection from "../components/PastResultsSection";
 // import AccountabilitySection from "../components/AccountabilitySection";
 import WorkInProgressBanner from "../components/WorkInProgressBanner";
@@ -108,7 +108,7 @@ export default async function ConstituencyPage({
           <DemographicsSection censusDataRecord={censusDataRecord} />
 
           {/* Candidates Section */}
-          {/* <CandidatesSection constituencyId={params.id} /> */}
+          <CandidatesSection constituencyId={id} />
 
           {/* Past Results Section */}
           <PastResultsSection
