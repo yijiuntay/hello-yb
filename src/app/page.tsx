@@ -4,6 +4,10 @@ import Footer from "./components/Footer"; // <-- IMPORT reusable Footer
 import ConstituencySearch from "./components/ConstituencySearch";
 import { getConstituencies } from "@/lib/data";
 
+export const metadata = {
+  title: "Hello YB!", // The title for this specific page
+};
+
 const GlobalStyles = () => (
   <style>{`
     @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
