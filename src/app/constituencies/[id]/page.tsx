@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import Header from "@/app/components/Header";
 import Footer from "@/app/components/Footer";
 import DemographicsSection from "../components/DemographicsSection";
-// import CandidatesSection from "../components/CandidatesSection";
+import CandidatesSection from "../components/CandidatesSection";
 import PastResultsSection from "../components/PastResultsSection";
 // import AccountabilitySection from "../components/AccountabilitySection";
 import WorkInProgressBanner from "../components/WorkInProgressBanner";
@@ -19,6 +19,7 @@ import {
   SabahDunBallot,
   SabahDunSummary,
 } from "@/types";
+import { Metadata, ResolvingMetadata } from "next";
 
 const GlobalStyles = () => (
   <style>{`
@@ -38,6 +39,27 @@ const GlobalStyles = () => (
     }
   `}</style>
 );
+
+// Define the structure of dynamic route params
+type Props = {
+  params: { id: string };
+};
+
+export async function generateMetadata(
+  { params }: Props,
+  parent: ResolvingMetadata // parent is the second argument, useful for combining metadata) {
+): Promise<Metadata> {
+  const { id } = await params;
+
+  const constituencies = await getConstituencies();
+  const constituency = constituencies.find(
+    (c: Constituency) => c.id.toString() === id
+  );
+
+  return {
+    title: `${constituency.code} ${constituency.name}`,
+  };
+}
 
 export default async function ConstituencyPage({
   params,
@@ -108,7 +130,7 @@ export default async function ConstituencyPage({
           <DemographicsSection censusDataRecord={censusDataRecord} />
 
           {/* Candidates Section */}
-          {/* <CandidatesSection constituencyId={params.id} /> */}
+          <CandidatesSection constituencyId={id} />
 
           {/* Past Results Section */}
           <PastResultsSection

@@ -8,6 +8,23 @@ const pressStart2P = Press_Start_2P({
   variable: "--font-press-start",
 });
 
+export const metadata = {
+  // ... other metadata
+  icons: {
+    icon: "/favicon.png", // Reference the file in the public directory
+    shortcut: "/favicon.png",
+    apple: "/favicon.png",
+    other: [
+      {
+        rel: "icon",
+        type: "image/png",
+        sizes: "32x32",
+        url: "/favicon.png",
+      },
+    ],
+  },
+};
+
 export default function RootLayout({
   children,
 }: {
