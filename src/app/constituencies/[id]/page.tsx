@@ -13,12 +13,14 @@ import {
   getCensus,
   getDunBallots,
   getDunSummary,
+  getCandidates,
 } from "@/lib/data";
 import {
   Constituency,
   CensusDataRecord,
   SabahDunBallot,
   SabahDunSummary,
+  Candidate,
 } from "@/types";
 import { Metadata, ResolvingMetadata } from "next";
 
@@ -70,13 +72,15 @@ export default async function ConstituencyPage({
   const { id } = await params;
 
   // Use Promise.all to fetch multiple data sources concurrently
-  const [constituencies, censusData, ballots, summary] = await Promise.all([
-    getConstituencies(),
-    getCensus(),
-    getDunBallots(),
-    getDunSummary(),
-    // Add more async data fetching functions here
-  ]);
+  const [constituencies, censusData, ballots, summary, candidates] =
+    await Promise.all([
+      getConstituencies(),
+      getCensus(),
+      getDunBallots(),
+      getDunSummary(),
+      getCandidates(),
+      // Add more async data fetching functions here
+    ]);
 
   const constituency = constituencies.find(
     (c: Constituency) => c.id.toString() === id
@@ -100,6 +104,10 @@ export default async function ConstituencyPage({
   const filteredSummary: SabahDunSummary[] = summary.filter(
     (row: SabahDunSummary) =>
       normalize(row.area_name) === normalize(constituency.name)
+  );
+
+  const filteredCandidates: Candidate[] = candidates.filter(
+    (row: Candidate) => row.constituency_id.toString() === id
   );
 
   return (
@@ -131,7 +139,7 @@ export default async function ConstituencyPage({
           <DemographicsSection censusDataRecord={censusDataRecord} />
 
           {/* Candidates Section */}
-          <CandidatesSection constituencyId={id} />
+          <CandidatesSection candidates={filteredCandidates} />
 
           {/* Past Results Section */}
           <PastResultsSection

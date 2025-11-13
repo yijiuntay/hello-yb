@@ -1,0 +1,1148 @@
+[
+  {
+    "code": "N.01",
+    "constituency_id": "1",
+    "candidate": "Datuk Mohamad Mohamarin",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.01",
+    "constituency_id": "1",
+    "candidate": "Zainal Romio",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.01",
+    "constituency_id": "1",
+    "candidate": "Rahimah binti Majid",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.02",
+    "constituency_id": "2",
+    "candidate": "Dr Samuil Mopun",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.02",
+    "constituency_id": "2",
+    "candidate": "Fauziah Mohd Fuad Stephens",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.02",
+    "constituency_id": "2",
+    "candidate": "Berusli bin Kimin",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.03",
+    "constituency_id": "3",
+    "candidate": "Datuk Seri Ruddy Awah",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.03",
+    "constituency_id": "3",
+    "candidate": "Harun Ismail",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.04",
+    "constituency_id": "4",
+    "candidate": "Datuk Ben Chong Chen Bin",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.04",
+    "constituency_id": "4",
+    "candidate": "Terence Au Soon Fui",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.04",
+    "constituency_id": "4",
+    "candidate": "Muhammad Affan bin Jumahat",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.05",
+    "constituency_id": "5",
+    "candidate": "Datuk Julita Majungki",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.05",
+    "constituency_id": "5",
+    "candidate": "Jornah Mozihim",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.06",
+    "constituency_id": "6",
+    "candidate": "Datuk Redonah Bahanda",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.06",
+    "constituency_id": "6",
+    "candidate": "Rizham Abd Rahman",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.07",
+    "constituency_id": "7",
+    "candidate": "Datuk Hendrus Anding",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.07",
+    "constituency_id": "7",
+    "candidate": "Datuk Jilid @ Zainuddin Kuminding",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.08",
+    "constituency_id": "8",
+    "candidate": "Tan Sri Pandikar Amin Mulia",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.08",
+    "constituency_id": "8",
+    "candidate": "Abdullah Otong",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.08",
+    "constituency_id": "8",
+    "candidate": "Awang Salleh bin Makmud",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.09",
+    "constituency_id": "9",
+    "candidate": "Datuk Mohd Arsad Bistari",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.09",
+    "constituency_id": "9",
+    "candidate": "Mohd Khidir Lamsil",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.10",
+    "constituency_id": "10",
+    "candidate": "Datuk Japlin Akim",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.10",
+    "constituency_id": "10",
+    "candidate": "Isnaraissah Munirah Majilis",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.11",
+    "constituency_id": "11",
+    "candidate": "Mudezam Muyau",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.11",
+    "constituency_id": "11",
+    "candidate": "Norman Simon",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.12",
+    "constituency_id": "12",
+    "candidate": "Datuk Seri Hajiji Noor",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.12",
+    "constituency_id": "12",
+    "candidate": "Mokhtar Hussin",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.12",
+    "constituency_id": "12",
+    "candidate": "Datin Tiaminah @ Siti Aminah binti Ele",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.13",
+    "constituency_id": "13",
+    "candidate": "Datuk Jasnih Daya",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.13",
+    "constituency_id": "13",
+    "candidate": "Datuk Aliasgar @ Ali Ashgar Basri",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.13",
+    "constituency_id": "13",
+    "candidate": "Mohd Zulkernain bin Osman",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.14",
+    "constituency_id": "14",
+    "candidate": "belum umum",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.14",
+    "constituency_id": "14",
+    "candidate": "Lee Han Kyun @ Joseph Lee",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.15",
+    "constituency_id": "15",
+    "candidate": "Datuk Joniston Bangkuai",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.15",
+    "constituency_id": "15",
+    "candidate": "Saibin Gunsari",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.16",
+    "constituency_id": "16",
+    "candidate": "Datuk Arshad Idris",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.16",
+    "constituency_id": "16",
+    "candidate": "Mentoh Aru",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.16",
+    "constituency_id": "16",
+    "candidate": "Datuk Dr. Aliakbar bin Gulasan",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.17",
+    "constituency_id": "17",
+    "candidate": "Datuk Mohd Razali Razi",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.17",
+    "constituency_id": "17",
+    "candidate": "Azhar Matusin",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.17",
+    "constituency_id": "17",
+    "candidate": "Nabila binti Norsahar",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.18",
+    "constituency_id": "18",
+    "candidate": "Peto Galim",
+    "party": "Parti Keadilan Rakyat"
+  },
+  {
+    "code": "N.18",
+    "constituency_id": "18",
+    "candidate": "Shah Alfie Yahya",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.18",
+    "constituency_id": "18",
+    "candidate": "Edna Jessica Majimbun",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.19",
+    "constituency_id": "19",
+    "candidate": "Phoong Jin Zhe",
+    "party": "Democratic Action Party"
+  },
+  {
+    "code": "N.19",
+    "constituency_id": "19",
+    "candidate": "Joeynwood Bansin",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.19",
+    "constituency_id": "19",
+    "candidate": "Tham Yun Fook",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.20",
+    "constituency_id": "20",
+    "candidate": "Thonny Chee",
+    "party": "Parti Keadilan Rakyat"
+  },
+  {
+    "code": "N.20",
+    "constituency_id": "20",
+    "candidate": "Datuk Juil Nuatim",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.20",
+    "constituency_id": "20",
+    "candidate": "Loi Kok Liang",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.21",
+    "constituency_id": "21",
+    "candidate": "Chan Loong Wei",
+    "party": "Democratic Action Party"
+  },
+  {
+    "code": "N.21",
+    "constituency_id": "21",
+    "candidate": "Datuk Gulam Haidar Khan Bahadar",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.21",
+    "constituency_id": "21",
+    "candidate": "Samuel Wong Tshun Chuen",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.21",
+    "constituency_id": "21",
+    "candidate": "Ooi Hong Wee",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.22",
+    "constituency_id": "22",
+    "candidate": "Chan Foong Hin",
+    "party": "Democratic Action Party"
+  },
+  {
+    "code": "N.22",
+    "constituency_id": "22",
+    "candidate": "Datuk Pg Saifuddin Pg Tahir Petra",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.22",
+    "constituency_id": "22",
+    "candidate": "Datuk Wong Hong Jun",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.22",
+    "constituency_id": "22",
+    "candidate": "Suhaimi bin Buang",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.23",
+    "constituency_id": "23",
+    "candidate": "Awang Husaini Sahari",
+    "party": "Parti Keadilan Rakyat"
+  },
+  {
+    "code": "N.23",
+    "constituency_id": "23",
+    "candidate": "Tan Sri Anifah Aman",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.23",
+    "constituency_id": "23",
+    "candidate": "Datuk Uda Sulai",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.24",
+    "constituency_id": "24",
+    "candidate": "Shah Alfie Yahya",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.24",
+    "constituency_id": "24",
+    "candidate": "Mohammad Firdaus Diun",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.24",
+    "constituency_id": "24",
+    "candidate": "Farish Adamz Shah @ Kanny",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.25",
+    "constituency_id": "25",
+    "candidate": "Jannie Lasimbang",
+    "party": "Democratic Action Party"
+  },
+  {
+    "code": "N.25",
+    "constituency_id": "25",
+    "candidate": "Chin Tek Ming",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.26",
+    "constituency_id": "26",
+    "candidate": "Joeynwood Bansin",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.26",
+    "constituency_id": "26",
+    "candidate": "Terrence Siambun",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.26",
+    "constituency_id": "26",
+    "candidate": "Francis Mojikon",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.27",
+    "constituency_id": "27",
+    "candidate": "Datuk Juil Nuatim",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.27",
+    "constituency_id": "27",
+    "candidate": "Roger @ Roy Valentine Amandus",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.27",
+    "constituency_id": "27",
+    "candidate": "Adrian Alexander",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.28",
+    "constituency_id": "28",
+    "candidate": "Datuk Gulam Haidar Khan Bahadar",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.28",
+    "constituency_id": "28",
+    "candidate": "Md Shaffie Said",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.29",
+    "constituency_id": "29",
+    "candidate": "Datuk Pg Saifuddin Pg Tahir Petra",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.29",
+    "constituency_id": "29",
+    "candidate": "Datuk Aidi Mokhtar",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.29",
+    "constituency_id": "29",
+    "candidate": "Faizal bin Julaili",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.30",
+    "constituency_id": "30",
+    "candidate": "Tan Sri Anifah Aman",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.30",
+    "constituency_id": "30",
+    "candidate": "Dr Daud Yusof",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.30",
+    "constituency_id": "30",
+    "candidate": "Ridzuan bin Agus Payong",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.31",
+    "constituency_id": "31",
+    "candidate": "Datuk Mohd Ariffin Arif",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.31",
+    "constituency_id": "31",
+    "candidate": "Mohamad Said @ Ismail Sait",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.32",
+    "constituency_id": "32",
+    "candidate": "Datuk Isnin Aliasnih",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.32",
+    "constituency_id": "32",
+    "candidate": "Mohd Shaid Othman",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.32",
+    "constituency_id": "32",
+    "candidate": "Mohammed Hisyam bin Hazaril",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.33",
+    "constituency_id": "33",
+    "candidate": "Datuk Limus Jury",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.33",
+    "constituency_id": "33",
+    "candidate": "Dr Monih Epin",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.34",
+    "constituency_id": "34",
+    "candidate": "Datuk Ruslan Muharam",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.34",
+    "constituency_id": "34",
+    "candidate": "Mohammad Norizhuan Awang",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.35",
+    "constituency_id": "35",
+    "candidate": "Yamani Hafez Musa",
+    "party": "Parti Keadilan Rakyat"
+  },
+  {
+    "code": "N.35",
+    "constituency_id": "35",
+    "candidate": "Yusri Pungut",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.36",
+    "constituency_id": "36",
+    "candidate": "Datuk Dr Joachim Gunsalam",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.36",
+    "constituency_id": "36",
+    "candidate": "Jeffrey Gopigog",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.36",
+    "constituency_id": "36",
+    "candidate": "Dr. Atong bin Antong",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.37",
+    "constituency_id": "37",
+    "candidate": "Datuk Seri Masidi Manjun",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.37",
+    "constituency_id": "37",
+    "candidate": "Mukinin @ Mazlan Daiman",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.38",
+    "constituency_id": "38",
+    "candidate": "Datuk Abidin Madingkir",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.38",
+    "constituency_id": "38",
+    "candidate": "Juhaili Sidek",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.39",
+    "constituency_id": "39",
+    "candidate": "Datuk Victor Paut",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.39",
+    "constituency_id": "39",
+    "candidate": "Bianus Kontong",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.40",
+    "constituency_id": "40",
+    "candidate": "belum umum",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.40",
+    "constituency_id": "40",
+    "candidate": "Benedict Martin Gunir",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.41",
+    "constituency_id": "41",
+    "candidate": "Datuk Annuar Ayub Aman",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.41",
+    "constituency_id": "41",
+    "candidate": "Adzhar Jasni @ Eddy",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.41",
+    "constituency_id": "41",
+    "candidate": "Johny @ John bin Anthony",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.42",
+    "constituency_id": "42",
+    "candidate": "Jamawi bin Jaafar",
+    "party": "Parti Keadilan Rakyat"
+  },
+  {
+    "code": "N.42",
+    "constituency_id": "42",
+    "candidate": "Cheld Bryend Lind",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.43",
+    "constituency_id": "43",
+    "candidate": "Datuk Rubin Balang",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.43",
+    "constituency_id": "43",
+    "candidate": "Burnley Balang",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.44",
+    "constituency_id": "44",
+    "candidate": "Rufinah Pengeran",
+    "party": "Parti Keadilan Rakyat"
+  },
+  {
+    "code": "N.44",
+    "constituency_id": "44",
+    "candidate": "belum umum",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.44",
+    "constituency_id": "44",
+    "candidate": "Lucia Kihing",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.45",
+    "constituency_id": "45",
+    "candidate": "Datuk Ellron Angin",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.45",
+    "constituency_id": "45",
+    "candidate": "Joseph Peter Tinggi",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.46",
+    "constituency_id": "46",
+    "candidate": "Datuk Abdul Ghani Yasin",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.46",
+    "constituency_id": "46",
+    "candidate": "Alfian A Koroh",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.46",
+    "constituency_id": "46",
+    "candidate": "Sayau bin Tangkap",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.47",
+    "constituency_id": "47",
+    "candidate": "Datuk Jonybone J Kurum",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.47",
+    "constituency_id": "47",
+    "candidate": "Simah Matusip",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.47",
+    "constituency_id": "47",
+    "candidate": "Jamin bin Jamri",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.48",
+    "constituency_id": "48",
+    "candidate": "Datuk James Ratib",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.48",
+    "constituency_id": "48",
+    "candidate": "Aspah Abdullah Sani",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.48",
+    "constituency_id": "48",
+    "candidate": "Datuk Seri Dr. Ronald Kiandee",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.49",
+    "constituency_id": "49",
+    "candidate": "Datuk Samad Jamri",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.49",
+    "constituency_id": "49",
+    "candidate": "Jafar Awang",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.49",
+    "constituency_id": "49",
+    "candidate": "Asmad bin Nasir",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.50",
+    "constituency_id": "50",
+    "candidate": "Abdul Said Pimping",
+    "party": "Parti Keadilan Rakyat"
+  },
+  {
+    "code": "N.50",
+    "constituency_id": "50",
+    "candidate": "Arunarnsin Taib",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.50",
+    "constituency_id": "50",
+    "candidate": "Yunus bin Nurdin",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.51",
+    "constituency_id": "51",
+    "candidate": "Hazem Mubarak Musa",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.51",
+    "constituency_id": "51",
+    "candidate": "Sittinra Sakah",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.51",
+    "constituency_id": "51",
+    "candidate": "Yusri bin Abu",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.52",
+    "constituency_id": "52",
+    "candidate": "Datuk Amirshah Yaakub",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.52",
+    "constituency_id": "52",
+    "candidate": "Nurlalsah Hassan Alban",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.52",
+    "constituency_id": "52",
+    "candidate": "Noraini binti Asmatil",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.53",
+    "constituency_id": "53",
+    "candidate": "Puan Sri Diana Diego @ Yusrina Sufiana",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.53",
+    "constituency_id": "53",
+    "candidate": "Alias Sani",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.53",
+    "constituency_id": "53",
+    "candidate": "Mohd Fazriee bin Awang",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.54",
+    "constituency_id": "54",
+    "candidate": "George Hiew",
+    "party": "Parti Keadilan Rakyat"
+  },
+  {
+    "code": "N.54",
+    "constituency_id": "54",
+    "candidate": "Wong Tshun Khee",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.55",
+    "constituency_id": "55",
+    "candidate": "Vivian Wong Shir Yee",
+    "party": "Democratic Action Party"
+  },
+  {
+    "code": "N.55",
+    "constituency_id": "55",
+    "candidate": "Chong Ket Kiun",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.55",
+    "constituency_id": "55",
+    "candidate": "Mohd Firdaus @ Silvester bin Abdullah",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.56",
+    "constituency_id": "56",
+    "candidate": "Tang Szu Ching",
+    "party": "Democratic Action Party"
+  },
+  {
+    "code": "N.56",
+    "constituency_id": "56",
+    "candidate": "Thien Ching Qiang",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.56",
+    "constituency_id": "56",
+    "candidate": "Koa Wei Yang",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.57",
+    "constituency_id": "57",
+    "candidate": "Datuk Masiung Banah",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.57",
+    "constituency_id": "57",
+    "candidate": "Norfaizah Chua @ Giak Kiang",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.58",
+    "constituency_id": "58",
+    "candidate": "Johainizamshah Johari",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.58",
+    "constituency_id": "58",
+    "candidate": "Mohd Saifulah Lokman",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.58",
+    "constituency_id": "58",
+    "candidate": "Haji Mazlin bin Madali",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.59",
+    "constituency_id": "59",
+    "candidate": "Datuk Juhari Janan",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.59",
+    "constituency_id": "59",
+    "candidate": "Azahari Rangon",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.59",
+    "constituency_id": "59",
+    "candidate": "Tuan Pengiran Petra bin Pengiran Asri",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.60",
+    "constituency_id": "60",
+    "candidate": "Datuk Abdul Hakim Gulam Hassan",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.60",
+    "constituency_id": "60",
+    "candidate": "Assaffal @ Samsul Kamal P Alian",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.61",
+    "constituency_id": "61",
+    "candidate": "Romansa Lamin",
+    "party": "Parti Keadilan Rakyat"
+  },
+  {
+    "code": "N.61",
+    "constituency_id": "61",
+    "candidate": "Muhammad Abdul Karim",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.62",
+    "constituency_id": "62",
+    "candidate": "Datuk Mizma Apehdullah",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.62",
+    "constituency_id": "62",
+    "candidate": "Datuk Mohammad Yusof Apdal",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.62",
+    "constituency_id": "62",
+    "candidate": "Hajah Borkes @ Balkis binti Haji Kalinggalan",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.63",
+    "constituency_id": "63",
+    "candidate": "Datuk Norazlinah Arif",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.63",
+    "constituency_id": "63",
+    "candidate": "Datuk Jasa @ Ismail bin Raudah",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.63",
+    "constituency_id": "63",
+    "candidate": "Kasman bin Karate",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.64",
+    "constituency_id": "64",
+    "candidate": "Datuk Dr. Jaujan Sambakong",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.64",
+    "constituency_id": "64",
+    "candidate": "Abdul Malik bin Haji Abd Bool",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.65",
+    "constituency_id": "65",
+    "candidate": "Datuk Marunda KK. Ampong",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.65",
+    "constituency_id": "65",
+    "candidate": "Datuk Seri Mohd Shafie Apdal",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.66",
+    "constituency_id": "66",
+    "candidate": "Noordin Abdul Hussin",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.66",
+    "constituency_id": "66",
+    "candidate": "Jamil Hamzah",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.66",
+    "constituency_id": "66",
+    "candidate": "Jamil bin Abdul Gapar",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.67",
+    "constituency_id": "67",
+    "candidate": "Syed Ahmad Syed Abas",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.67",
+    "constituency_id": "67",
+    "candidate": "Frank Salazar @ Franco",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.67",
+    "constituency_id": "67",
+    "candidate": "Dr. Munzier bin Mahamud",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.68",
+    "constituency_id": "68",
+    "candidate": "Datuk Nizam Abu Bakar Titingan",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.68",
+    "constituency_id": "68",
+    "candidate": "Sarman Amat Simito",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.68",
+    "constituency_id": "68",
+    "candidate": "Lim Ting Khai",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.69",
+    "constituency_id": "69",
+    "candidate": "Philip Yap",
+    "party": "Democratic Action Party"
+  },
+  {
+    "code": "N.69",
+    "constituency_id": "69",
+    "candidate": "Justin Wong Yung Bin",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.70",
+    "constituency_id": "70",
+    "candidate": "belum umum",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.70",
+    "constituency_id": "70",
+    "candidate": "Mamun Sulaiman",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.70",
+    "constituency_id": "70",
+    "candidate": "Francis bin Lawrence @ Yusop",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.71",
+    "constituency_id": "71",
+    "candidate": "Dr Andi Md Shamsureezal",
+    "party": "Gabungan Rakyat Sabah"
+  },
+  {
+    "code": "N.71",
+    "constituency_id": "71",
+    "candidate": "Ayuf Abdul Rahman",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.71",
+    "constituency_id": "71",
+    "candidate": "Ahmad bin Dullah",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.72",
+    "constituency_id": "72",
+    "candidate": "Ruji Bin Ubi",
+    "party": "Parti Keadilan Rakyat"
+  },
+  {
+    "code": "N.72",
+    "constituency_id": "72",
+    "candidate": "Sarifuddin Hata",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.72",
+    "constituency_id": "72",
+    "candidate": "Hasan bin Haris",
+    "party": "Parti Perikatan Nasional"
+  },
+  {
+    "code": "N.73",
+    "constituency_id": "73",
+    "candidate": "Manahing Tinggilani @ Tanggilani",
+    "party": "Parti Warisan"
+  },
+  {
+    "code": "N.73",
+    "constituency_id": "73",
+    "candidate": "Suhurani bin Haji Sammani",
+    "party": "Parti Perikatan Nasional"
+  }
+]
