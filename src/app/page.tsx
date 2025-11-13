@@ -2,6 +2,7 @@ import React from "react";
 import Header from "./components/Header"; // <-- IMPORT reusable Header
 import Footer from "./components/Footer"; // <-- IMPORT reusable Footer
 import ConstituencySearch from "./components/ConstituencySearch";
+import Link from "next/link";
 import { getConstituencies } from "@/lib/data";
 
 export const metadata = {
@@ -134,10 +135,38 @@ export default async function App() {
                 Get to Know Your Representative
               </p>
               <p className="max-w-2xl mx-auto mb-10 text-sm md:text-base leading-relaxed">
-                This site helps you get to know the candidates in your electoral
-                constituency. Accurate information for smart voters.
+                This site helps you get to know your electoral constituency and
+                its candidates. Accurate information for smart voters.
               </p>
               <ConstituencySearch constituencies={constituencies} />
+
+              {/* NEW SECTION: Action Buttons */}
+              <div className="mt-10 flex flex-col sm:flex-row justify-center items-center gap-4 sm:gap-6">
+                <Link
+                  href="https://mysprsemak.spr.gov.my/semakan/daftarPemilih"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-block bg-yellow-300 border-4 border-black text-black px-4 py-3 sm:px-6 sm:py-4 text-xs sm:text-sm md:text-base font-bold shadow-[4px_4px_0px_#000] hover:bg-yellow-400 transition-all"
+                  style={{ fontFamily: "'Press Start 2P', cursive" }}
+                >
+                  🗳 Check Voter Eligibility
+                </Link>
+
+                <Link
+                  href="/constituencies"
+                  className="inline-block bg-white border-4 border-black text-black px-4 py-3 sm:px-6 sm:py-4 text-xs sm:text-sm md:text-base font-bold shadow-[4px_4px_0px_#000] hover:bg-yellow-200 transition-all"
+                  style={{ fontFamily: "'Press Start 2P', cursive" }}
+                >
+                  🧭 View All Constituencies
+                </Link>
+              </div>
+
+              {/* Optional helper text below buttons */}
+              <p className="mt-4 text-xs sm:text-sm opacity-80 max-w-md mx-auto leading-relaxed">
+                Not sure where to start? Check your voting eligibility or browse
+                all constituencies to learn more about the areas and their
+                representatives.
+              </p>
             </div>
           </section>
 

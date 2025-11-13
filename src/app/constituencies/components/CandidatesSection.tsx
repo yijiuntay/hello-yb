@@ -2,53 +2,16 @@
 
 import { useState } from "react";
 import CandidateCard from "./CandidateCard";
-import CandidateComparison from "./CandidateComparison";
-
-// Dummy data - replace with actual data fetching
-const DUMMY_CANDIDATES = [
-  {
-    id: "1",
-    name: "Azmi Abdullah",
-    party: "Parti Kebangsaan",
-    partyLogo: "🏛️",
-    age: 26,
-    occupation: "Lawyer",
-    education: "LLB, University of Malaya",
-  },
-  {
-    id: "2",
-    name: "Esther Richard",
-    party: "Parti Reformasi",
-    partyLogo: "🌟",
-    age: 18,
-    occupation: "Social Worker",
-    education: "MSc Social Work, UKM",
-  },
-  {
-    id: "3",
-    name: "Hassanel Zachary",
-    party: "Parti Progresif",
-    partyLogo: "🚀",
-    age: 25,
-    occupation: "Business Owner",
-    education: "MBA, Nottingham",
-  },
-  {
-    id: "4",
-    name: "Tay",
-    party: "Independent",
-    partyLogo: "⭐",
-    age: 50,
-    occupation: "Engineer",
-    education: "BEng Civil, UMS",
-  },
-];
+// import CandidateComparison from "./CandidateComparison";
+import { Candidate } from "@/types";
 
 export default function CandidatesSection({
-  constituencyId,
+  candidates,
 }: {
-  constituencyId: string;
+  candidates: Candidate[];
 }) {
+  // 🟡 Comparison-related logic (hidden)
+  /*
   const [selectedCandidates, setSelectedCandidates] = useState<string[]>([]);
   const [showComparison, setShowComparison] = useState(false);
 
@@ -70,6 +33,9 @@ export default function CandidatesSection({
     setShowComparison(false);
     setSelectedCandidates([]);
   };
+  */
+
+  const noCandidates = !candidates || candidates.length === 0;
 
   return (
     <section className="py-12 md:py-16 bg-blue-600 border-y-4 border-black">
@@ -81,67 +47,46 @@ export default function CandidatesSection({
           Candidates
         </h3>
 
-        {/* Comparison Trigger */}
-        {selectedCandidates.length > 0 && (
-          <div className="max-w-5xl mx-auto mb-6 bg-yellow-300 border-4 border-black p-4 shadow-[6px_6px_0px_rgba(0,0,0,0.8)]">
-            <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
-              <p className="text-black text-xs md:text-sm font-bold text-center sm:text-left">
-                {selectedCandidates.length} candidate(s) selected
-                {selectedCandidates.length < 2 &&
-                  " • Select at least 2 to compare"}
-              </p>
-              <div className="flex gap-3">
-                <button
-                  onClick={() => setSelectedCandidates([])}
-                  className="px-4 py-2 bg-white text-black border-4 border-black text-xs md:text-sm font-bold hover:bg-gray-200 transition-colors shadow-[4px_4px_0px_#000]"
-                >
-                  Clear
-                </button>
-                <button
-                  onClick={handleCompare}
-                  disabled={selectedCandidates.length < 2}
-                  className={`px-4 py-2 border-4 border-black text-xs md:text-sm font-bold shadow-[4px_4px_0px_#000] transition-colors ${
-                    selectedCandidates.length >= 2
-                      ? "bg-green-500 text-white hover:bg-green-600"
-                      : "bg-gray-400 text-gray-700 cursor-not-allowed"
-                  }`}
-                >
-                  Compare
-                </button>
-              </div>
-            </div>
+        {/* Default empty state */}
+        {noCandidates && (
+          <div className="max-w-3xl mx-auto bg-yellow-300 text-black border-4 border-black p-6 rounded shadow-[6px_6px_0px_rgba(0,0,0,0.8)] text-center">
+            <p className="font-bold text-sm md:text-base">
+              No candidates found for this constituency.
+            </p>
           </div>
         )}
 
         {/* Candidate Grid */}
-        <div className="max-w-5xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-          {DUMMY_CANDIDATES.map((candidate) => (
-            <CandidateCard
-              key={candidate.id}
-              candidate={candidate}
-              isSelected={selectedCandidates.includes(candidate.id)}
-              onToggleSelect={toggleCandidate}
-            />
-          ))}
-        </div>
+        {!noCandidates && (
+          <div className="max-w-5xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            {candidates.map((candidate) => (
+              <CandidateCard
+                key={candidate.candidate}
+                candidate={candidate}
+                // isSelected={selectedCandidates.includes(candidate.id)}
+                // onToggleSelect={toggleCandidate}
+              />
+            ))}
+          </div>
+        )}
 
         {/* Data Source */}
         <div className="max-w-5xl mx-auto mt-8">
           <p className="text-xs md:text-sm text-center opacity-75">
-            📊 Data Source: Electoral Commission of Malaysia (Dummy Data)
+            📊 Data Source: Electoral Commission of Malaysia
           </p>
         </div>
       </div>
 
-      {/* Comparison Modal */}
+      {/* 🟡 Comparison Modal (hidden)
       {showComparison && (
         <CandidateComparison
-          candidates={DUMMY_CANDIDATES.filter((c) =>
+          candidates={candidates.filter((c) =>
             selectedCandidates.includes(c.id)
           )}
           onClose={handleCloseComparison}
         />
-      )}
+      )} */}
     </section>
   );
 }
