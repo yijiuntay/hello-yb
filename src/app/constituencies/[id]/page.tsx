@@ -7,6 +7,7 @@ import CandidatesSection from "../components/CandidatesSection";
 import PastResultsSection from "../components/PastResultsSection";
 // import AccountabilitySection from "../components/AccountabilitySection";
 import WorkInProgressBanner from "../components/WorkInProgressBanner";
+import BackToTopButton from "../components/BackToTopButton";
 import {
   getConstituencies,
   getCensus,
@@ -141,6 +142,7 @@ export default async function ConstituencyPage({
           {/* Accountability Section */}
           {/* <AccountabilitySection constituencyId={params.id} /> */}
         </main>
+        <BackToTopButton />
         <Footer />
       </div>
     </>

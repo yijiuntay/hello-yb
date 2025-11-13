@@ -134,8 +134,8 @@ export default async function App() {
                 Get to Know Your Representative
               </p>
               <p className="max-w-2xl mx-auto mb-10 text-sm md:text-base leading-relaxed">
-                This site helps you get to know the candidates in your electoral
-                constituency. Accurate information for smart voters.
+                This site helps you get to know your electoral constituency and
+                its candidates. Accurate information for smart voters.
               </p>
               <ConstituencySearch constituencies={constituencies} />
             </div>
