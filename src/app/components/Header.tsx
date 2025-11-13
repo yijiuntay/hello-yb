@@ -15,14 +15,6 @@ const Header: React.FC = () => {
             Hello YB
           </h1>
         </Link>
-        <nav>
-          <Link
-            href="/constituencies"
-            className="text-white hover:text-yellow-300 transition-colors"
-          >
-            Constituencies
-          </Link>
-        </nav>
       </div>
     </header>
   );
