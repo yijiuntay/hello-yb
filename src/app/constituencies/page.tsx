@@ -81,7 +81,7 @@ export default async function ConstituenciesPage() {
               className="text-xl text-white mb-10"
               style={{ textShadow: "2px 2px 0px #172554" }}
             >
-              Sabah State Election 2020 Challengers
+              Sabah State Election 2025 (SE-17) Challengers
             </p>
           </div>
 
