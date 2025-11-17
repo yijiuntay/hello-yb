@@ -1,6 +1,9 @@
 export interface Candidate {
-  code: string;
+  dun: string;
   constituency_id: string;
-  candidate: string;
+  number: number;
+  name: string;
   party: string;
+  party_id: string;
+  logo_path: string;
 }

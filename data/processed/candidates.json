@@ -1,1148 +1,5438 @@
 [
   {
-    "code": "N.01",
+    "dun": "N.01 BANGGI",
     "constituency_id": "1",
-    "candidate": "Datuk Mohamad Mohamarin",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "RAHIMAH MAJID",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
   },
   {
-    "code": "N.01",
+    "dun": "N.01 BANGGI",
     "constituency_id": "1",
-    "candidate": "Zainal Romio",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "AMONG BIN TIMBUL",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.01",
+    "dun": "N.01 BANGGI",
     "constituency_id": "1",
-    "candidate": "Rahimah binti Majid",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "DATU RAZAK DATU SALAM",
+    "party": "PARTI KERJASAMA ANAK NEGERI (ANAK NEGERI)",
+    "party_id": "3",
+    "logo_path": "PARTI_KERJASAMA_ANAK_NEGERI_ANAK_NEGERI.png"
   },
   {
-    "code": "N.02",
+    "dun": "N.01 BANGGI",
+    "constituency_id": "1",
+    "number": "4",
+    "name": "NORMALAH RASIK",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
+  },
+  {
+    "dun": "N.01 BANGGI",
+    "constituency_id": "1",
+    "number": "5",
+    "name": "ZAINAL BIN ROMIO",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.01 BANGGI",
+    "constituency_id": "1",
+    "number": "6",
+    "name": "SAKINOLIN MOHAMAD",
+    "party": "BEBAS (MANGGIS)",
+    "party_id": "6",
+    "logo_path": "BEBAS_MANGGIS.png"
+  },
+  {
+    "dun": "N.01 BANGGI",
+    "constituency_id": "1",
+    "number": "7",
+    "name": "HALMAN BIN MANIUK",
+    "party": "PARTI BUMI KENYALANG (PBK)",
+    "party_id": "7",
+    "logo_path": "PARTI_BUMI_KENYALANG_PBK.png"
+  },
+  {
+    "dun": "N.01 BANGGI",
+    "constituency_id": "1",
+    "number": "8",
+    "name": "SALBIN BIN MUKSIN",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.01 BANGGI",
+    "constituency_id": "1",
+    "number": "9",
+    "name": "NASIB BIN SAMODI @ SAMNURI",
+    "party": "BEBAS (KUNCI)",
+    "party_id": "9",
+    "logo_path": "BEBAS_KUNCI.png"
+  },
+  {
+    "dun": "N.01 BANGGI",
+    "constituency_id": "1",
+    "number": "10",
+    "name": "DR. AZLAN @ RAYMON BIN MAJUMAH",
+    "party": "PARTI KEBANGSAAN SABAH (PKS)",
+    "party_id": "10",
+    "logo_path": "PARTI_KEBANGSAAN_SABAH_PKS.png"
+  },
+  {
+    "dun": "N.01 BANGGI",
+    "constituency_id": "1",
+    "number": "11",
+    "name": "DATUK MOHAMMAD BIN MOHAMARIN",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.01 BANGGI",
+    "constituency_id": "1",
+    "number": "12",
+    "name": "HUSSIN @ TALIYASIN BIN MASUDDIN",
+    "party": "BEBAS (BAJU)",
+    "party_id": "12",
+    "logo_path": "BEBAS_BAJU.png"
+  },
+  {
+    "dun": "N.02 BENGKOKA",
     "constituency_id": "2",
-    "candidate": "Dr Samuil Mopun",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "RAHIMAH MAJID",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
   },
   {
-    "code": "N.02",
+    "dun": "N.02 BENGKOKA",
     "constituency_id": "2",
-    "candidate": "Fauziah Mohd Fuad Stephens",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "AMONG BIN TIMBUL",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.02",
+    "dun": "N.02 BENGKOKA",
     "constituency_id": "2",
-    "candidate": "Berusli bin Kimin",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "DATU RAZAK DATU SALAM",
+    "party": "PARTI KERJASAMA ANAK NEGERI (ANAK NEGERI)",
+    "party_id": "3",
+    "logo_path": "PARTI_KERJASAMA_ANAK_NEGERI_ANAK_NEGERI.png"
   },
   {
-    "code": "N.03",
+    "dun": "N.02 BENGKOKA",
+    "constituency_id": "2",
+    "number": "4",
+    "name": "NORMALAH RASIK",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
+  },
+  {
+    "dun": "N.02 BENGKOKA",
+    "constituency_id": "2",
+    "number": "5",
+    "name": "ZAINAL BIN ROMIO",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.02 BENGKOKA",
+    "constituency_id": "2",
+    "number": "6",
+    "name": "SAKINOLIN MOHAMAD",
+    "party": "BEBAS (MANGGIS)",
+    "party_id": "6",
+    "logo_path": "BEBAS_MANGGIS.png"
+  },
+  {
+    "dun": "N.02 BENGKOKA",
+    "constituency_id": "2",
+    "number": "7",
+    "name": "HALMAN BIN MANIUK",
+    "party": "PARTI BUMI KENYALANG (PBK)",
+    "party_id": "7",
+    "logo_path": "PARTI_BUMI_KENYALANG_PBK.png"
+  },
+  {
+    "dun": "N.02 BENGKOKA",
+    "constituency_id": "2",
+    "number": "8",
+    "name": "SALBIN BIN MUKSIN",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.02 BENGKOKA",
+    "constituency_id": "2",
+    "number": "9",
+    "name": "NASIB BIN SAMODI @ SAMNURI",
+    "party": "BEBAS (KUNCI)",
+    "party_id": "9",
+    "logo_path": "BEBAS_KUNCI.png"
+  },
+  {
+    "dun": "N.02 BENGKOKA",
+    "constituency_id": "2",
+    "number": "10",
+    "name": "DR. AZLAN @ RAYMON BIN MAJUMAH",
+    "party": "PARTI KEBANGSAAN SABAH (PKS)",
+    "party_id": "10",
+    "logo_path": "PARTI_KEBANGSAAN_SABAH_PKS.png"
+  },
+  {
+    "dun": "N.02 BENGKOKA",
+    "constituency_id": "2",
+    "number": "11",
+    "name": "DATUK MOHAMMAD BIN MOHAMARIN",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.02 BENGKOKA",
+    "constituency_id": "2",
+    "number": "12",
+    "name": "HUSSIN @ TALIYASIN BIN MASUDDIN",
+    "party": "BEBAS (BAJU)",
+    "party_id": "12",
+    "logo_path": "BEBAS_BAJU.png"
+  },
+  {
+    "dun": "N.03 PITAS",
     "constituency_id": "3",
-    "candidate": "Datuk Seri Ruddy Awah",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "RAHIMAH MAJID",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
   },
   {
-    "code": "N.03",
+    "dun": "N.03 PITAS",
     "constituency_id": "3",
-    "candidate": "Harun Ismail",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "AMONG BIN TIMBUL",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.04",
+    "dun": "N.03 PITAS",
+    "constituency_id": "3",
+    "number": "3",
+    "name": "DATU RAZAK DATU SALAM",
+    "party": "PARTI KERJASAMA ANAK NEGERI (ANAK NEGERI)",
+    "party_id": "3",
+    "logo_path": "PARTI_KERJASAMA_ANAK_NEGERI_ANAK_NEGERI.png"
+  },
+  {
+    "dun": "N.03 PITAS",
+    "constituency_id": "3",
+    "number": "4",
+    "name": "NORMALAH RASIK",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
+  },
+  {
+    "dun": "N.03 PITAS",
+    "constituency_id": "3",
+    "number": "5",
+    "name": "ZAINAL BIN ROMIO",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.03 PITAS",
+    "constituency_id": "3",
+    "number": "6",
+    "name": "SAKINOLIN MOHAMAD",
+    "party": "BEBAS (MANGGIS)",
+    "party_id": "6",
+    "logo_path": "BEBAS_MANGGIS.png"
+  },
+  {
+    "dun": "N.03 PITAS",
+    "constituency_id": "3",
+    "number": "7",
+    "name": "HALMAN BIN MANIUK",
+    "party": "PARTI BUMI KENYALANG (PBK)",
+    "party_id": "7",
+    "logo_path": "PARTI_BUMI_KENYALANG_PBK.png"
+  },
+  {
+    "dun": "N.03 PITAS",
+    "constituency_id": "3",
+    "number": "8",
+    "name": "SALBIN BIN MUKSIN",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.03 PITAS",
+    "constituency_id": "3",
+    "number": "9",
+    "name": "NASIB BIN SAMODI @ SAMNURI",
+    "party": "BEBAS (KUNCI)",
+    "party_id": "9",
+    "logo_path": "BEBAS_KUNCI.png"
+  },
+  {
+    "dun": "N.03 PITAS",
+    "constituency_id": "3",
+    "number": "10",
+    "name": "DR. AZLAN @ RAYMON BIN MAJUMAH",
+    "party": "PARTI KEBANGSAAN SABAH (PKS)",
+    "party_id": "10",
+    "logo_path": "PARTI_KEBANGSAAN_SABAH_PKS.png"
+  },
+  {
+    "dun": "N.03 PITAS",
+    "constituency_id": "3",
+    "number": "11",
+    "name": "DATUK MOHAMMAD BIN MOHAMARIN",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.03 PITAS",
+    "constituency_id": "3",
+    "number": "12",
+    "name": "HUSSIN @ TALIYASIN BIN MASUDDIN",
+    "party": "BEBAS (BAJU)",
+    "party_id": "12",
+    "logo_path": "BEBAS_BAJU.png"
+  },
+  {
+    "dun": "N.04 TANJONG KAPOR",
     "constituency_id": "4",
-    "candidate": "Datuk Ben Chong Chen Bin",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "RAHIMAH MAJID",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
   },
   {
-    "code": "N.04",
+    "dun": "N.04 TANJONG KAPOR",
     "constituency_id": "4",
-    "candidate": "Terence Au Soon Fui",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "AMONG BIN TIMBUL",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.04",
+    "dun": "N.04 TANJONG KAPOR",
     "constituency_id": "4",
-    "candidate": "Muhammad Affan bin Jumahat",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "DATU RAZAK DATU SALAM",
+    "party": "PARTI KERJASAMA ANAK NEGERI (ANAK NEGERI)",
+    "party_id": "3",
+    "logo_path": "PARTI_KERJASAMA_ANAK_NEGERI_ANAK_NEGERI.png"
   },
   {
-    "code": "N.05",
+    "dun": "N.04 TANJONG KAPOR",
+    "constituency_id": "4",
+    "number": "4",
+    "name": "NORMALAH RASIK",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
+  },
+  {
+    "dun": "N.04 TANJONG KAPOR",
+    "constituency_id": "4",
+    "number": "5",
+    "name": "ZAINAL BIN ROMIO",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.04 TANJONG KAPOR",
+    "constituency_id": "4",
+    "number": "6",
+    "name": "SAKINOLIN MOHAMAD",
+    "party": "BEBAS (MANGGIS)",
+    "party_id": "6",
+    "logo_path": "BEBAS_MANGGIS.png"
+  },
+  {
+    "dun": "N.04 TANJONG KAPOR",
+    "constituency_id": "4",
+    "number": "7",
+    "name": "HALMAN BIN MANIUK",
+    "party": "PARTI BUMI KENYALANG (PBK)",
+    "party_id": "7",
+    "logo_path": "PARTI_BUMI_KENYALANG_PBK.png"
+  },
+  {
+    "dun": "N.04 TANJONG KAPOR",
+    "constituency_id": "4",
+    "number": "8",
+    "name": "SALBIN BIN MUKSIN",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.04 TANJONG KAPOR",
+    "constituency_id": "4",
+    "number": "9",
+    "name": "NASIB BIN SAMODI @ SAMNURI",
+    "party": "BEBAS (KUNCI)",
+    "party_id": "9",
+    "logo_path": "BEBAS_KUNCI.png"
+  },
+  {
+    "dun": "N.04 TANJONG KAPOR",
+    "constituency_id": "4",
+    "number": "10",
+    "name": "DR. AZLAN @ RAYMON BIN MAJUMAH",
+    "party": "PARTI KEBANGSAAN SABAH (PKS)",
+    "party_id": "10",
+    "logo_path": "PARTI_KEBANGSAAN_SABAH_PKS.png"
+  },
+  {
+    "dun": "N.04 TANJONG KAPOR",
+    "constituency_id": "4",
+    "number": "11",
+    "name": "DATUK MOHAMMAD BIN MOHAMARIN",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.04 TANJONG KAPOR",
+    "constituency_id": "4",
+    "number": "12",
+    "name": "HUSSIN @ TALIYASIN BIN MASUDDIN",
+    "party": "BEBAS (BAJU)",
+    "party_id": "12",
+    "logo_path": "BEBAS_BAJU.png"
+  },
+  {
+    "dun": "N.05 MATUNGGONG",
     "constituency_id": "5",
-    "candidate": "Datuk Julita Majungki",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "RAHIMAH MAJID",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
   },
   {
-    "code": "N.05",
+    "dun": "N.05 MATUNGGONG",
     "constituency_id": "5",
-    "candidate": "Jornah Mozihim",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "AMONG BIN TIMBUL",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.06",
+    "dun": "N.05 MATUNGGONG",
+    "constituency_id": "5",
+    "number": "3",
+    "name": "DATU RAZAK DATU SALAM",
+    "party": "PARTI KERJASAMA ANAK NEGERI (ANAK NEGERI)",
+    "party_id": "3",
+    "logo_path": "PARTI_KERJASAMA_ANAK_NEGERI_ANAK_NEGERI.png"
+  },
+  {
+    "dun": "N.05 MATUNGGONG",
+    "constituency_id": "5",
+    "number": "4",
+    "name": "NORMALAH RASIK",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
+  },
+  {
+    "dun": "N.05 MATUNGGONG",
+    "constituency_id": "5",
+    "number": "5",
+    "name": "ZAINAL BIN ROMIO",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.05 MATUNGGONG",
+    "constituency_id": "5",
+    "number": "6",
+    "name": "SAKINOLIN MOHAMAD",
+    "party": "BEBAS (MANGGIS)",
+    "party_id": "6",
+    "logo_path": "BEBAS_MANGGIS.png"
+  },
+  {
+    "dun": "N.05 MATUNGGONG",
+    "constituency_id": "5",
+    "number": "7",
+    "name": "HALMAN BIN MANIUK",
+    "party": "PARTI BUMI KENYALANG (PBK)",
+    "party_id": "7",
+    "logo_path": "PARTI_BUMI_KENYALANG_PBK.png"
+  },
+  {
+    "dun": "N.05 MATUNGGONG",
+    "constituency_id": "5",
+    "number": "8",
+    "name": "SALBIN BIN MUKSIN",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.05 MATUNGGONG",
+    "constituency_id": "5",
+    "number": "9",
+    "name": "NASIB BIN SAMODI @ SAMNURI",
+    "party": "BEBAS (KUNCI)",
+    "party_id": "9",
+    "logo_path": "BEBAS_KUNCI.png"
+  },
+  {
+    "dun": "N.05 MATUNGGONG",
+    "constituency_id": "5",
+    "number": "10",
+    "name": "DR. AZLAN @ RAYMON BIN MAJUMAH",
+    "party": "PARTI KEBANGSAAN SABAH (PKS)",
+    "party_id": "10",
+    "logo_path": "PARTI_KEBANGSAAN_SABAH_PKS.png"
+  },
+  {
+    "dun": "N.05 MATUNGGONG",
+    "constituency_id": "5",
+    "number": "11",
+    "name": "DATUK MOHAMMAD BIN MOHAMARIN",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.05 MATUNGGONG",
+    "constituency_id": "5",
+    "number": "12",
+    "name": "HUSSIN @ TALIYASIN BIN MASUDDIN",
+    "party": "BEBAS (BAJU)",
+    "party_id": "12",
+    "logo_path": "BEBAS_BAJU.png"
+  },
+  {
+    "dun": "N.06 BANDAU",
     "constituency_id": "6",
-    "candidate": "Datuk Redonah Bahanda",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "RAHIMAH MAJID",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
   },
   {
-    "code": "N.06",
+    "dun": "N.06 BANDAU",
     "constituency_id": "6",
-    "candidate": "Rizham Abd Rahman",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "AMONG BIN TIMBUL",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.07",
+    "dun": "N.06 BANDAU",
+    "constituency_id": "6",
+    "number": "3",
+    "name": "DATU RAZAK DATU SALAM",
+    "party": "PARTI KERJASAMA ANAK NEGERI (ANAK NEGERI)",
+    "party_id": "3",
+    "logo_path": "PARTI_KERJASAMA_ANAK_NEGERI_ANAK_NEGERI.png"
+  },
+  {
+    "dun": "N.06 BANDAU",
+    "constituency_id": "6",
+    "number": "4",
+    "name": "NORMALAH RASIK",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
+  },
+  {
+    "dun": "N.06 BANDAU",
+    "constituency_id": "6",
+    "number": "5",
+    "name": "ZAINAL BIN ROMIO",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.06 BANDAU",
+    "constituency_id": "6",
+    "number": "6",
+    "name": "SAKINOLIN MOHAMAD",
+    "party": "BEBAS (MANGGIS)",
+    "party_id": "6",
+    "logo_path": "BEBAS_MANGGIS.png"
+  },
+  {
+    "dun": "N.06 BANDAU",
+    "constituency_id": "6",
+    "number": "7",
+    "name": "HALMAN BIN MANIUK",
+    "party": "PARTI BUMI KENYALANG (PBK)",
+    "party_id": "7",
+    "logo_path": "PARTI_BUMI_KENYALANG_PBK.png"
+  },
+  {
+    "dun": "N.06 BANDAU",
+    "constituency_id": "6",
+    "number": "8",
+    "name": "SALBIN BIN MUKSIN",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.06 BANDAU",
+    "constituency_id": "6",
+    "number": "9",
+    "name": "NASIB BIN SAMODI @ SAMNURI",
+    "party": "BEBAS (KUNCI)",
+    "party_id": "9",
+    "logo_path": "BEBAS_KUNCI.png"
+  },
+  {
+    "dun": "N.06 BANDAU",
+    "constituency_id": "6",
+    "number": "10",
+    "name": "DR. AZLAN @ RAYMON BIN MAJUMAH",
+    "party": "PARTI KEBANGSAAN SABAH (PKS)",
+    "party_id": "10",
+    "logo_path": "PARTI_KEBANGSAAN_SABAH_PKS.png"
+  },
+  {
+    "dun": "N.06 BANDAU",
+    "constituency_id": "6",
+    "number": "11",
+    "name": "DATUK MOHAMMAD BIN MOHAMARIN",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.06 BANDAU",
+    "constituency_id": "6",
+    "number": "12",
+    "name": "HUSSIN @ TALIYASIN BIN MASUDDIN",
+    "party": "BEBAS (BAJU)",
+    "party_id": "12",
+    "logo_path": "BEBAS_BAJU.png"
+  },
+  {
+    "dun": "N.07 TANDEK",
     "constituency_id": "7",
-    "candidate": "Datuk Hendrus Anding",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "KINCHIN BIN BOLUOT",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.07",
+    "dun": "N.07 TANDEK",
     "constituency_id": "7",
-    "candidate": "Datuk Jilid @ Zainuddin Kuminding",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "NAZRI SANTONG",
+    "party": "BEBAS (KUNCI)",
+    "party_id": "9",
+    "logo_path": "BEBAS_KUNCI.png"
   },
   {
-    "code": "N.08",
+    "dun": "N.07 TANDEK",
+    "constituency_id": "7",
+    "number": "3",
+    "name": "HARUN BIN ISMAIL",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.07 TANDEK",
+    "constituency_id": "7",
+    "number": "4",
+    "name": "RUDDY AWAH",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.07 TANDEK",
+    "constituency_id": "7",
+    "number": "5",
+    "name": "ABD HAMID BIN KIMIN",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
+  },
+  {
+    "dun": "N.07 TANDEK",
+    "constituency_id": "7",
+    "number": "6",
+    "name": "BOLKIAH BIN ISMAIL",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
+  },
+  {
+    "dun": "N.08 PINTASAN",
     "constituency_id": "8",
-    "candidate": "Tan Sri Pandikar Amin Mulia",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "DATUK JILID@ZAINUDDIN BIN KUMINDING",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
   },
   {
-    "code": "N.08",
+    "dun": "N.08 PINTASAN",
     "constituency_id": "8",
-    "candidate": "Abdullah Otong",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "ABEL PANGAIR",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.08",
+    "dun": "N.08 PINTASAN",
     "constituency_id": "8",
-    "candidate": "Awang Salleh bin Makmud",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "BENSON BIN TUYUNDO",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
   },
   {
-    "code": "N.09",
+    "dun": "N.08 PINTASAN",
+    "constituency_id": "8",
+    "number": "4",
+    "name": "DATO' ZAMAN BIN HJ. BAYANG",
+    "party": "PARTI KEBANGSAAN SABAH (PKS)",
+    "party_id": "10",
+    "logo_path": "PARTI_KEBANGSAAN_SABAH_PKS.png"
+  },
+  {
+    "dun": "N.08 PINTASAN",
+    "constituency_id": "8",
+    "number": "5",
+    "name": "DATUK ARLINSIA AGANG",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.08 PINTASAN",
+    "constituency_id": "8",
+    "number": "6",
+    "name": "JAMES GANTUKOK",
+    "party": "PARTI BUMI KENYALANG (PBK)",
+    "party_id": "7",
+    "logo_path": "PARTI_BUMI_KENYALANG_PBK.png"
+  },
+  {
+    "dun": "N.08 PINTASAN",
+    "constituency_id": "8",
+    "number": "7",
+    "name": "JAMIL BIN MAJINGKIN",
+    "party": "PERTUBUHAN KINABALU PROGRESIF BERSATU (UPKO)",
+    "party_id": "14",
+    "logo_path": "PERTUBUHAN_KINABALU_PROGRESIF_BERSATU_UPKO.png"
+  },
+  {
+    "dun": "N.08 PINTASAN",
+    "constituency_id": "8",
+    "number": "8",
+    "name": "HENDRUS ANDING",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.09 TEMPASUK",
     "constituency_id": "9",
-    "candidate": "Datuk Mohd Arsad Bistari",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "DATUK JILID@ZAINUDDIN BIN KUMINDING",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
   },
   {
-    "code": "N.09",
+    "dun": "N.09 TEMPASUK",
     "constituency_id": "9",
-    "candidate": "Mohd Khidir Lamsil",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "ABEL PANGAIR",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.10",
+    "dun": "N.09 TEMPASUK",
+    "constituency_id": "9",
+    "number": "3",
+    "name": "BENSON BIN TUYUNDO",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
+  },
+  {
+    "dun": "N.09 TEMPASUK",
+    "constituency_id": "9",
+    "number": "4",
+    "name": "DATO' ZAMAN BIN HJ. BAYANG",
+    "party": "PARTI KEBANGSAAN SABAH (PKS)",
+    "party_id": "10",
+    "logo_path": "PARTI_KEBANGSAAN_SABAH_PKS.png"
+  },
+  {
+    "dun": "N.09 TEMPASUK",
+    "constituency_id": "9",
+    "number": "5",
+    "name": "DATUK ARLINSIA AGANG",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.09 TEMPASUK",
+    "constituency_id": "9",
+    "number": "6",
+    "name": "JAMES GANTUKOK",
+    "party": "PARTI BUMI KENYALANG (PBK)",
+    "party_id": "7",
+    "logo_path": "PARTI_BUMI_KENYALANG_PBK.png"
+  },
+  {
+    "dun": "N.09 TEMPASUK",
+    "constituency_id": "9",
+    "number": "7",
+    "name": "JAMIL BIN MAJINGKIN",
+    "party": "PERTUBUHAN KINABALU PROGRESIF BERSATU (UPKO)",
+    "party_id": "14",
+    "logo_path": "PERTUBUHAN_KINABALU_PROGRESIF_BERSATU_UPKO.png"
+  },
+  {
+    "dun": "N.09 TEMPASUK",
+    "constituency_id": "9",
+    "number": "8",
+    "name": "HENDRUS ANDING",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.10 USUKAN",
     "constituency_id": "10",
-    "candidate": "Datuk Japlin Akim",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "DATUK JILID@ZAINUDDIN BIN KUMINDING",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
   },
   {
-    "code": "N.10",
+    "dun": "N.10 USUKAN",
     "constituency_id": "10",
-    "candidate": "Isnaraissah Munirah Majilis",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "ABEL PANGAIR",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.11",
+    "dun": "N.10 USUKAN",
+    "constituency_id": "10",
+    "number": "3",
+    "name": "BENSON BIN TUYUNDO",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
+  },
+  {
+    "dun": "N.10 USUKAN",
+    "constituency_id": "10",
+    "number": "4",
+    "name": "DATO' ZAMAN BIN HJ. BAYANG",
+    "party": "PARTI KEBANGSAAN SABAH (PKS)",
+    "party_id": "10",
+    "logo_path": "PARTI_KEBANGSAAN_SABAH_PKS.png"
+  },
+  {
+    "dun": "N.10 USUKAN",
+    "constituency_id": "10",
+    "number": "5",
+    "name": "DATUK ARLINSIA AGANG",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.10 USUKAN",
+    "constituency_id": "10",
+    "number": "6",
+    "name": "JAMES GANTUKOK",
+    "party": "PARTI BUMI KENYALANG (PBK)",
+    "party_id": "7",
+    "logo_path": "PARTI_BUMI_KENYALANG_PBK.png"
+  },
+  {
+    "dun": "N.10 USUKAN",
+    "constituency_id": "10",
+    "number": "7",
+    "name": "JAMIL BIN MAJINGKIN",
+    "party": "PERTUBUHAN KINABALU PROGRESIF BERSATU (UPKO)",
+    "party_id": "14",
+    "logo_path": "PERTUBUHAN_KINABALU_PROGRESIF_BERSATU_UPKO.png"
+  },
+  {
+    "dun": "N.10 USUKAN",
+    "constituency_id": "10",
+    "number": "8",
+    "name": "HENDRUS ANDING",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.11 KADAMAIAN",
     "constituency_id": "11",
-    "candidate": "Mudezam Muyau",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "AWANG SALEH BIN MAKMUD",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
   },
   {
-    "code": "N.11",
+    "dun": "N.11 KADAMAIAN",
     "constituency_id": "11",
-    "candidate": "Norman Simon",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "PANDIKAR AMIN BIN MULIA",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
   },
   {
-    "code": "N.12",
+    "dun": "N.11 KADAMAIAN",
+    "constituency_id": "11",
+    "number": "3",
+    "name": "SYARIF MOHD SHUKREE BIN DANCHINGAN",
+    "party": "BEBAS (PEN)",
+    "party_id": "15",
+    "logo_path": "BEBAS_PEN.png"
+  },
+  {
+    "dun": "N.11 KADAMAIAN",
+    "constituency_id": "11",
+    "number": "4",
+    "name": "RAPLIN BIN SAMAT",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.11 KADAMAIAN",
+    "constituency_id": "11",
+    "number": "5",
+    "name": "ABDULLAH BIN OTONG",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.11 KADAMAIAN",
+    "constituency_id": "11",
+    "number": "6",
+    "name": "FAIRUZ RENDDAN",
+    "party": "BEBAS (BUKU)",
+    "party_id": "16",
+    "logo_path": "BEBAS_BUKU.png"
+  },
+  {
+    "dun": "N.11 KADAMAIAN",
+    "constituency_id": "11",
+    "number": "7",
+    "name": "TAJUDDIN BIN PADIS",
+    "party": "BEBAS (KUNCI)",
+    "party_id": "9",
+    "logo_path": "BEBAS_KUNCI.png"
+  },
+  {
+    "dun": "N.11 KADAMAIAN",
+    "constituency_id": "11",
+    "number": "8",
+    "name": "DATUK ALMUDIN BIN KAIDA",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
+  },
+  {
+    "dun": "N.11 KADAMAIAN",
+    "constituency_id": "11",
+    "number": "9",
+    "name": "TADZUL BIN RADIM",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
+  },
+  {
+    "dun": "N.11 KADAMAIAN",
+    "constituency_id": "11",
+    "number": "10",
+    "name": "MOHD RIZAL BIN SAIMAN",
+    "party": "BEBAS (GAJAH)",
+    "party_id": "17",
+    "logo_path": "BEBAS_GAJAH.png"
+  },
+  {
+    "dun": "N.11 KADAMAIAN",
+    "constituency_id": "11",
+    "number": "11",
+    "name": "LOMOG BIN RUDIN @ EFEJUS BIN RUDIN",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.12 SULAMAN",
     "constituency_id": "12",
-    "candidate": "Datuk Seri Hajiji Noor",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "JOHN SAMUD",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
   },
   {
-    "code": "N.12",
+    "dun": "N.12 SULAMAN",
     "constituency_id": "12",
-    "candidate": "Mokhtar Hussin",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "MOHD ARSAD BIN BISTARI",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
   },
   {
-    "code": "N.12",
+    "dun": "N.12 SULAMAN",
     "constituency_id": "12",
-    "candidate": "Datin Tiaminah @ Siti Aminah binti Ele",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "DR. RIMIN BIN MAUN",
+    "party": "PARTI KEBANGSAAN SABAH (PKS)",
+    "party_id": "10",
+    "logo_path": "PARTI_KEBANGSAAN_SABAH_PKS.png"
   },
   {
-    "code": "N.13",
+    "dun": "N.12 SULAMAN",
+    "constituency_id": "12",
+    "number": "4",
+    "name": "AZUWAN BIN MARJAN@NORJAN",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
+  },
+  {
+    "dun": "N.12 SULAMAN",
+    "constituency_id": "12",
+    "number": "5",
+    "name": "TIMUTI MAJITOL",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.12 SULAMAN",
+    "constituency_id": "12",
+    "number": "6",
+    "name": "MOHD KHIDIR LAMSIL",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.12 SULAMAN",
+    "constituency_id": "12",
+    "number": "7",
+    "name": "WALTER MARK MUKIS",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.13 PANTAI DALIT",
     "constituency_id": "13",
-    "candidate": "Datuk Jasnih Daya",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "JEFRIS BIN MUADIS",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.13",
+    "dun": "N.13 PANTAI DALIT",
     "constituency_id": "13",
-    "candidate": "Datuk Aliasgar @ Ali Ashgar Basri",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "MUNIRAH MAJILIS",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
   },
   {
-    "code": "N.13",
+    "dun": "N.13 PANTAI DALIT",
     "constituency_id": "13",
-    "candidate": "Mohd Zulkernain bin Osman",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "SALLEH SAID KERUAK",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
   },
   {
-    "code": "N.14",
+    "dun": "N.13 PANTAI DALIT",
+    "constituency_id": "13",
+    "number": "4",
+    "name": "AJUN BIN MELIYON",
+    "party": "BEBAS (RUMAH)",
+    "party_id": "18",
+    "logo_path": "BEBAS_RUMAH.png"
+  },
+  {
+    "dun": "N.13 PANTAI DALIT",
+    "constituency_id": "13",
+    "number": "5",
+    "name": "DATUK JAPLIN BIN HJ. AKIM",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.13 PANTAI DALIT",
+    "constituency_id": "13",
+    "number": "6",
+    "name": "LIN BIN HARUN",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.14 TAMPARULI",
     "constituency_id": "14",
-    "candidate": "belum umum",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "EWON BENEDICK",
+    "party": "PERTUBUHAN KINABALU PROGRESIF BERSATU (UPKO)",
+    "party_id": "14",
+    "logo_path": "PERTUBUHAN_KINABALU_PROGRESIF_BERSATU_UPKO.png"
   },
   {
-    "code": "N.14",
+    "dun": "N.14 TAMPARULI",
     "constituency_id": "14",
-    "candidate": "Lee Han Kyun @ Joseph Lee",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "NORMAN BIN SIMON",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
   },
   {
-    "code": "N.15",
+    "dun": "N.14 TAMPARULI",
+    "constituency_id": "14",
+    "number": "3",
+    "name": "JUDIN BIN TINGIH",
+    "party": "PARTI BANGSA MALAYSIA (PBM)",
+    "party_id": "19",
+    "logo_path": "PARTI_BANGSA_MALAYSIA_PBM.png"
+  },
+  {
+    "dun": "N.14 TAMPARULI",
+    "constituency_id": "14",
+    "number": "4",
+    "name": "DAIBI BIN MANDADI",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.14 TAMPARULI",
+    "constituency_id": "14",
+    "number": "5",
+    "name": "JAMES MUYOU",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.14 TAMPARULI",
+    "constituency_id": "14",
+    "number": "6",
+    "name": "DAVYLANDON RUBBIN",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.14 TAMPARULI",
+    "constituency_id": "14",
+    "number": "7",
+    "name": "JOSELY TAISING",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
+  },
+  {
+    "dun": "N.14 TAMPARULI",
+    "constituency_id": "14",
+    "number": "8",
+    "name": "PRISKILA AKWILA",
+    "party": "PARTI KERJASAMA ANAK NEGERI (ANAK NEGERI)",
+    "party_id": "3",
+    "logo_path": "PARTI_KERJASAMA_ANAK_NEGERI_ANAK_NEGERI.png"
+  },
+  {
+    "dun": "N.15 KIULU",
     "constituency_id": "15",
-    "candidate": "Datuk Joniston Bangkuai",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "HAJIJI BIN HAJI NOOR",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
   },
   {
-    "code": "N.15",
+    "dun": "N.15 KIULU",
     "constituency_id": "15",
-    "candidate": "Saibin Gunsari",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "DATIN HJH. SITI AMINAH ELE",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
   },
   {
-    "code": "N.16",
+    "dun": "N.15 KIULU",
+    "constituency_id": "15",
+    "number": "3",
+    "name": "DR. SHAHNON RIZAL THAIJUDIN",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
+  },
+  {
+    "dun": "N.15 KIULU",
+    "constituency_id": "15",
+    "number": "4",
+    "name": "PAJUDIN BIN NORDIN",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.15 KIULU",
+    "constituency_id": "15",
+    "number": "5",
+    "name": "MOKHTAR BIN HUSSIN",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.16 KARAMBUNAI",
     "constituency_id": "16",
-    "candidate": "Datuk Arshad Idris",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "MOHD ZULKERNAIN BIN OSMAN",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
   },
   {
-    "code": "N.16",
+    "dun": "N.16 KARAMBUNAI",
     "constituency_id": "16",
-    "candidate": "Mentoh Aru",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "DATUK ALIASGAR BASRI",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
   },
   {
-    "code": "N.16",
+    "dun": "N.16 KARAMBUNAI",
     "constituency_id": "16",
-    "candidate": "Datuk Dr. Aliakbar bin Gulasan",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "JASNIH DAYA",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
   },
   {
-    "code": "N.17",
+    "dun": "N.16 KARAMBUNAI",
+    "constituency_id": "16",
+    "number": "4",
+    "name": "FRANCIS BIN FAHIR @ TONGONG",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.16 KARAMBUNAI",
+    "constituency_id": "16",
+    "number": "5",
+    "name": "JAESMAN @ JAESS GIPIN",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
+  },
+  {
+    "dun": "N.16 KARAMBUNAI",
+    "constituency_id": "16",
+    "number": "6",
+    "name": "LIAM BIN TAWIL",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.16 KARAMBUNAI",
+    "constituency_id": "16",
+    "number": "7",
+    "name": "ALFIAN BIN SAMBAS",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
+  },
+  {
+    "dun": "N.17 DARAU",
     "constituency_id": "17",
-    "candidate": "Datuk Mohd Razali Razi",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "JULIA ONGKILI",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.17",
+    "dun": "N.17 DARAU",
     "constituency_id": "17",
-    "candidate": "Azhar Matusin",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "JINITOH SONTORI",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
   },
   {
-    "code": "N.17",
+    "dun": "N.17 DARAU",
     "constituency_id": "17",
-    "candidate": "Nabila binti Norsahar",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "ARTHUR ERIK LEE",
+    "party": "PARTI KERJASAMA ANAK NEGERI (ANAK NEGERI)",
+    "party_id": "3",
+    "logo_path": "PARTI_KERJASAMA_ANAK_NEGERI_ANAK_NEGERI.png"
   },
   {
-    "code": "N.18",
+    "dun": "N.17 DARAU",
+    "constituency_id": "17",
+    "number": "4",
+    "name": "ANDREW MALI",
+    "party": "BEBAS (JAM)",
+    "party_id": "20",
+    "logo_path": "BEBAS_JAM.png"
+  },
+  {
+    "dun": "N.17 DARAU",
+    "constituency_id": "17",
+    "number": "5",
+    "name": "DATUK DR JOSEPH LEE",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.17 DARAU",
+    "constituency_id": "17",
+    "number": "6",
+    "name": "VUN YUN FOOK",
+    "party": "BEBAS (TRAKTOR)",
+    "party_id": "21",
+    "logo_path": "BEBAS_TRAKTOR.png"
+  },
+  {
+    "dun": "N.17 DARAU",
+    "constituency_id": "17",
+    "number": "7",
+    "name": "JOHAN JAHID",
+    "party": "BEBAS (ARNAB)",
+    "party_id": "22",
+    "logo_path": "BEBAS_ARNAB.png"
+  },
+  {
+    "dun": "N.17 DARAU",
+    "constituency_id": "17",
+    "number": "8",
+    "name": "RAZALI KOROH",
+    "party": "BEBAS (MANGGIS)",
+    "party_id": "6",
+    "logo_path": "BEBAS_MANGGIS.png"
+  },
+  {
+    "dun": "N.17 DARAU",
+    "constituency_id": "17",
+    "number": "9",
+    "name": "RAYMOND ALFRED",
+    "party": "BEBAS (KUNCI)",
+    "party_id": "9",
+    "logo_path": "BEBAS_KUNCI.png"
+  },
+  {
+    "dun": "N.17 DARAU",
+    "constituency_id": "17",
+    "number": "10",
+    "name": "WILFRED MADIUS TANGAU",
+    "party": "PERTUBUHAN KINABALU PROGRESIF BERSATU (UPKO)",
+    "party_id": "14",
+    "logo_path": "PERTUBUHAN_KINABALU_PROGRESIF_BERSATU_UPKO.png"
+  },
+  {
+    "dun": "N.17 DARAU",
+    "constituency_id": "17",
+    "number": "11",
+    "name": "ALIUSUS BIN SIPIL @ ABDUL AZIZ",
+    "party": "PARTI RUMPUN SABAH (RUMPUN)",
+    "party_id": "23",
+    "logo_path": "PARTI_RUMPUN_SABAH_RUMPUN.png"
+  },
+  {
+    "dun": "N.17 DARAU",
+    "constituency_id": "17",
+    "number": "12",
+    "name": "DR. GAIM @ JAMES BIN LUNKAPIS",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
+  },
+  {
+    "dun": "N.17 DARAU",
+    "constituency_id": "17",
+    "number": "13",
+    "name": "DR BONAVENTURE BONIFACE",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.18 INANAM",
     "constituency_id": "18",
-    "candidate": "Peto Galim",
-    "party": "Parti Keadilan Rakyat"
+    "number": "1",
+    "name": "DATUK JONISTON BANGKUAI",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
   },
   {
-    "code": "N.18",
+    "dun": "N.18 INANAM",
     "constituency_id": "18",
-    "candidate": "Shah Alfie Yahya",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "2",
+    "name": "HENRY SAIMPON",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
   },
   {
-    "code": "N.18",
+    "dun": "N.18 INANAM",
     "constituency_id": "18",
-    "candidate": "Edna Jessica Majimbun",
-    "party": "Parti Warisan"
+    "number": "3",
+    "name": "DUSI BIN GINGGING",
+    "party": "PARTI KEBANGSAAN SABAH (PKS)",
+    "party_id": "10",
+    "logo_path": "PARTI_KEBANGSAAN_SABAH_PKS.png"
   },
   {
-    "code": "N.19",
+    "dun": "N.18 INANAM",
+    "constituency_id": "18",
+    "number": "4",
+    "name": "TREVOR MARINGKING",
+    "party": "PARTI KERJASAMA ANAK NEGERI (ANAK NEGERI)",
+    "party_id": "3",
+    "logo_path": "PARTI_KERJASAMA_ANAK_NEGERI_ANAK_NEGERI.png"
+  },
+  {
+    "dun": "N.18 INANAM",
+    "constituency_id": "18",
+    "number": "5",
+    "name": "SAIBIN GUNSARI",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.18 INANAM",
+    "constituency_id": "18",
+    "number": "6",
+    "name": "JOISIN ROMUT",
+    "party": "PERTUBUHAN KINABALU PROGRESIF BERSATU (UPKO)",
+    "party_id": "14",
+    "logo_path": "PERTUBUHAN_KINABALU_PROGRESIF_BERSATU_UPKO.png"
+  },
+  {
+    "dun": "N.18 INANAM",
+    "constituency_id": "18",
+    "number": "7",
+    "name": "NIYKY @ NIKY BINTI J.BOSIKOL",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.18 INANAM",
+    "constituency_id": "18",
+    "number": "8",
+    "name": "TERENCE SINTI",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.19 LIKAS",
     "constituency_id": "19",
-    "candidate": "Phoong Jin Zhe",
-    "party": "Democratic Action Party"
+    "number": "1",
+    "name": "YAKUB KHAN",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
   },
   {
-    "code": "N.19",
+    "dun": "N.19 LIKAS",
     "constituency_id": "19",
-    "candidate": "Joeynwood Bansin",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "2",
+    "name": "MOHD YUNUS BIN IBRAHIM",
+    "party": "PARTI BUMI KENYALANG (PBK)",
+    "party_id": "7",
+    "logo_path": "PARTI_BUMI_KENYALANG_PBK.png"
   },
   {
-    "code": "N.19",
+    "dun": "N.19 LIKAS",
     "constituency_id": "19",
-    "candidate": "Tham Yun Fook",
-    "party": "Parti Warisan"
+    "number": "3",
+    "name": "MATKRI BIN KASSIM",
+    "party": "PARTI KEBANGSAAN SABAH (PKS)",
+    "party_id": "10",
+    "logo_path": "PARTI_KEBANGSAAN_SABAH_PKS.png"
   },
   {
-    "code": "N.20",
+    "dun": "N.19 LIKAS",
+    "constituency_id": "19",
+    "number": "4",
+    "name": "AZMAN BIN FATHIL",
+    "party": "PERTUBUHAN PARTI GEMILANG ANAK SABAH (GAS)",
+    "party_id": "24",
+    "logo_path": "PERTUBUHAN_PARTI_GEMILANG_ANAK_SABAH_GAS.png"
+  },
+  {
+    "dun": "N.19 LIKAS",
+    "constituency_id": "19",
+    "number": "5",
+    "name": "DATUK HAJI ARSHAD BIN IDRIS",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.19 LIKAS",
+    "constituency_id": "19",
+    "number": "6",
+    "name": "AJIS",
+    "party": "PARTI DAMAI SABAH (SPP)",
+    "party_id": "25",
+    "logo_path": "PARTI_DAMAI_SABAH_SPP.png"
+  },
+  {
+    "dun": "N.19 LIKAS",
+    "constituency_id": "19",
+    "number": "7",
+    "name": "DATUK DR. ALIAKBAR",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
+  },
+  {
+    "dun": "N.19 LIKAS",
+    "constituency_id": "19",
+    "number": "8",
+    "name": "DATUK STEPHEN TEO",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.19 LIKAS",
+    "constituency_id": "19",
+    "number": "9",
+    "name": "AHMAD JAIS BIN OTONG",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.19 LIKAS",
+    "constituency_id": "19",
+    "number": "10",
+    "name": "RAYNOLD SAIKAM SALINGGOU",
+    "party": "PERTUBUHAN PERPADUAN RAKYAT KEBANGSAAN SABAH (PERPADUAN)",
+    "party_id": "26",
+    "logo_path": "PERTUBUHAN_PERPADUAN_RAKYAT_KEBANGSAAN_SABAH_PERPADUAN.png"
+  },
+  {
+    "dun": "N.19 LIKAS",
+    "constituency_id": "19",
+    "number": "11",
+    "name": "ADIS BIN JALIE",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.20 API-API",
     "constituency_id": "20",
-    "candidate": "Thonny Chee",
-    "party": "Parti Keadilan Rakyat"
+    "number": "1",
+    "name": "MERIAH BINTI OSMAN",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.20",
+    "dun": "N.20 API-API",
     "constituency_id": "20",
-    "candidate": "Datuk Juil Nuatim",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "2",
+    "name": "AZHAR BIN MATUSSIN",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
   },
   {
-    "code": "N.20",
+    "dun": "N.20 API-API",
     "constituency_id": "20",
-    "candidate": "Loi Kok Liang",
-    "party": "Parti Warisan"
+    "number": "3",
+    "name": "JOE ARFAN",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
   },
   {
-    "code": "N.21",
+    "dun": "N.20 API-API",
+    "constituency_id": "20",
+    "number": "4",
+    "name": "NORDIN THANI",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
+  },
+  {
+    "dun": "N.20 API-API",
+    "constituency_id": "20",
+    "number": "5",
+    "name": "NABILA BINTI NORSAHAR",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
+  },
+  {
+    "dun": "N.20 API-API",
+    "constituency_id": "20",
+    "number": "6",
+    "name": "DATUK RAZALI RAZI @ BOB",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.21 LUYANG",
     "constituency_id": "21",
-    "candidate": "Chan Loong Wei",
-    "party": "Democratic Action Party"
+    "number": "1",
+    "name": "MERIAH BINTI OSMAN",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.21",
+    "dun": "N.21 LUYANG",
     "constituency_id": "21",
-    "candidate": "Datuk Gulam Haidar Khan Bahadar",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "2",
+    "name": "AZHAR BIN MATUSSIN",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
   },
   {
-    "code": "N.21",
+    "dun": "N.21 LUYANG",
     "constituency_id": "21",
-    "candidate": "Samuel Wong Tshun Chuen",
-    "party": "Parti Warisan"
+    "number": "3",
+    "name": "JOE ARFAN",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
   },
   {
-    "code": "N.21",
+    "dun": "N.21 LUYANG",
     "constituency_id": "21",
-    "candidate": "Ooi Hong Wee",
-    "party": "Parti Perikatan Nasional"
+    "number": "4",
+    "name": "NORDIN THANI",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
   },
   {
-    "code": "N.22",
+    "dun": "N.21 LUYANG",
+    "constituency_id": "21",
+    "number": "5",
+    "name": "NABILA BINTI NORSAHAR",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
+  },
+  {
+    "dun": "N.21 LUYANG",
+    "constituency_id": "21",
+    "number": "6",
+    "name": "DATUK RAZALI RAZI @ BOB",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.22 TANJUNG ARU",
     "constituency_id": "22",
-    "candidate": "Chan Foong Hin",
-    "party": "Democratic Action Party"
+    "number": "1",
+    "name": "KU YUK CHEONG",
+    "party": "PARTI KEBANGSAAN SABAH (PKS)",
+    "party_id": "10",
+    "logo_path": "PARTI_KEBANGSAAN_SABAH_PKS.png"
   },
   {
-    "code": "N.22",
+    "dun": "N.22 TANJUNG ARU",
     "constituency_id": "22",
-    "candidate": "Datuk Pg Saifuddin Pg Tahir Petra",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "2",
+    "name": "YONG YIN LOONG @ LOUIS YONG",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.22",
+    "dun": "N.22 TANJUNG ARU",
     "constituency_id": "22",
-    "candidate": "Datuk Wong Hong Jun",
-    "party": "Parti Warisan"
+    "number": "3",
+    "name": "CANDY CHIEW",
+    "party": "PARTI BUMI KENYALANG (PBK)",
+    "party_id": "7",
+    "logo_path": "PARTI_BUMI_KENYALANG_PBK.png"
   },
   {
-    "code": "N.22",
+    "dun": "N.22 TANJUNG ARU",
     "constituency_id": "22",
-    "candidate": "Suhaimi bin Buang",
-    "party": "Parti Perikatan Nasional"
+    "number": "4",
+    "name": "PHOONG JIN ZHE",
+    "party": "PAKATAN HARAPAN (PH)",
+    "party_id": "27",
+    "logo_path": "PAKATAN_HARAPAN_PH.png"
   },
   {
-    "code": "N.23",
+    "dun": "N.22 TANJUNG ARU",
+    "constituency_id": "22",
+    "number": "5",
+    "name": "YONG YIT JEE",
+    "party": "PARTI MAJU SABAH (SAPP)",
+    "party_id": "28",
+    "logo_path": "PARTI_MAJU_SABAH_SAPP.png"
+  },
+  {
+    "dun": "N.22 TANJUNG ARU",
+    "constituency_id": "22",
+    "number": "6",
+    "name": "THAM YUN FOOK",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.23 PETAGAS",
     "constituency_id": "23",
-    "candidate": "Awang Husaini Sahari",
-    "party": "Parti Keadilan Rakyat"
+    "number": "1",
+    "name": "NG CHUN SUA @ KANDRIX",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.23",
+    "dun": "N.23 PETAGAS",
     "constituency_id": "23",
-    "candidate": "Tan Sri Anifah Aman",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "2",
+    "name": "TING SHU KIONG",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
   },
   {
-    "code": "N.23",
+    "dun": "N.23 PETAGAS",
     "constituency_id": "23",
-    "candidate": "Datuk Uda Sulai",
-    "party": "Parti Warisan"
+    "number": "3",
+    "name": "SOH KEE SUAT @ SO CHEE SAY",
+    "party": "PARTI BUMI KENYALANG (PBK)",
+    "party_id": "7",
+    "logo_path": "PARTI_BUMI_KENYALANG_PBK.png"
   },
   {
-    "code": "N.24",
+    "dun": "N.23 PETAGAS",
+    "constituency_id": "23",
+    "number": "4",
+    "name": "LOI KOK LIANG",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.23 PETAGAS",
+    "constituency_id": "23",
+    "number": "5",
+    "name": "THONNY CHEE",
+    "party": "PAKATAN HARAPAN (PH)",
+    "party_id": "27",
+    "logo_path": "PAKATAN_HARAPAN_PH.png"
+  },
+  {
+    "dun": "N.24 TANJUNG KERAMAT",
     "constituency_id": "24",
-    "candidate": "Shah Alfie Yahya",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "GEE TIEN SIONG",
+    "party": "PARTI MAJU SABAH (SAPP)",
+    "party_id": "28",
+    "logo_path": "PARTI_MAJU_SABAH_SAPP.png"
   },
   {
-    "code": "N.24",
+    "dun": "N.24 TANJUNG KERAMAT",
     "constituency_id": "24",
-    "candidate": "Mohammad Firdaus Diun",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "SAMUEL WONG TSHUN CHUEN",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
   },
   {
-    "code": "N.24",
+    "dun": "N.24 TANJUNG KERAMAT",
     "constituency_id": "24",
-    "candidate": "Farish Adamz Shah @ Kanny",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "CHAN LOONG WEI",
+    "party": "PAKATAN HARAPAN (PH)",
+    "party_id": "27",
+    "logo_path": "PAKATAN_HARAPAN_PH.png"
   },
   {
-    "code": "N.25",
+    "dun": "N.24 TANJUNG KERAMAT",
+    "constituency_id": "24",
+    "number": "4",
+    "name": "WILLIAM OOI HONG WEE",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
+  },
+  {
+    "dun": "N.24 TANJUNG KERAMAT",
+    "constituency_id": "24",
+    "number": "5",
+    "name": "PAUL CHONG",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.25 KAPAYAN",
     "constituency_id": "25",
-    "candidate": "Jannie Lasimbang",
-    "party": "Democratic Action Party"
+    "number": "1",
+    "name": "LOH EE ENG",
+    "party": "PARTI BUMI KENYALANG (PBK)",
+    "party_id": "7",
+    "logo_path": "PARTI_BUMI_KENYALANG_PBK.png"
   },
   {
-    "code": "N.25",
+    "dun": "N.25 KAPAYAN",
     "constituency_id": "25",
-    "candidate": "Chin Tek Ming",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "HIEW CHOON YU",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
   },
   {
-    "code": "N.26",
+    "dun": "N.25 KAPAYAN",
+    "constituency_id": "25",
+    "number": "3",
+    "name": "WONG HONG JUN",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.25 KAPAYAN",
+    "constituency_id": "25",
+    "number": "4",
+    "name": "YEE WEE PING",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.25 KAPAYAN",
+    "constituency_id": "25",
+    "number": "5",
+    "name": "DENNISON R INDANG",
+    "party": "PERTUBUHAN KINABALU PROGRESIF BERSATU (UPKO)",
+    "party_id": "14",
+    "logo_path": "PERTUBUHAN_KINABALU_PROGRESIF_BERSATU_UPKO.png"
+  },
+  {
+    "dun": "N.25 KAPAYAN",
+    "constituency_id": "25",
+    "number": "6",
+    "name": "MOHAMED ZAIM BIN ANSAWI",
+    "party": "BEBAS (KUNCI)",
+    "party_id": "9",
+    "logo_path": "BEBAS_KUNCI.png"
+  },
+  {
+    "dun": "N.25 KAPAYAN",
+    "constituency_id": "25",
+    "number": "7",
+    "name": "DR. RITCHIE JAY CHENG",
+    "party": "BEBAS (GAJAH)",
+    "party_id": "17",
+    "logo_path": "BEBAS_GAJAH.png"
+  },
+  {
+    "dun": "N.25 KAPAYAN",
+    "constituency_id": "25",
+    "number": "8",
+    "name": "SUHAIMI BIN BUANG",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
+  },
+  {
+    "dun": "N.25 KAPAYAN",
+    "constituency_id": "25",
+    "number": "9",
+    "name": "DATUK CHAN FOONG HIN",
+    "party": "PAKATAN HARAPAN (PH)",
+    "party_id": "27",
+    "logo_path": "PAKATAN_HARAPAN_PH.png"
+  },
+  {
+    "dun": "N.26 MOYOG",
     "constituency_id": "26",
-    "candidate": "Joeynwood Bansin",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "ASLIN BIN SAMAT",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.26",
+    "dun": "N.26 MOYOG",
     "constituency_id": "26",
-    "candidate": "Terrence Siambun",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "SABREZANI BIN SABDIN GHANI",
+    "party": "PARTI KERJASAMA ANAK NEGERI (ANAK NEGERI)",
+    "party_id": "3",
+    "logo_path": "PARTI_KERJASAMA_ANAK_NEGERI_ANAK_NEGERI.png"
   },
   {
-    "code": "N.26",
+    "dun": "N.26 MOYOG",
     "constituency_id": "26",
-    "candidate": "Francis Mojikon",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "DR. AFIFI SAIF",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
   },
   {
-    "code": "N.27",
+    "dun": "N.26 MOYOG",
+    "constituency_id": "26",
+    "number": "4",
+    "name": "LEE NYUK SOON @ JASON LEE",
+    "party": "PERTUBUHAN KINABALU PROGRESIF BERSATU (UPKO)",
+    "party_id": "14",
+    "logo_path": "PERTUBUHAN_KINABALU_PROGRESIF_BERSATU_UPKO.png"
+  },
+  {
+    "dun": "N.26 MOYOG",
+    "constituency_id": "26",
+    "number": "5",
+    "name": "PATRICK MANIUS",
+    "party": "BEBAS (RUMAH)",
+    "party_id": "18",
+    "logo_path": "BEBAS_RUMAH.png"
+  },
+  {
+    "dun": "N.26 MOYOG",
+    "constituency_id": "26",
+    "number": "6",
+    "name": "AWANG HUSAINI BIN SAHARI",
+    "party": "PAKATAN HARAPAN (PH)",
+    "party_id": "27",
+    "logo_path": "PAKATAN_HARAPAN_PH.png"
+  },
+  {
+    "dun": "N.26 MOYOG",
+    "constituency_id": "26",
+    "number": "7",
+    "name": "AWANG AHMAD SAH",
+    "party": "BEBAS (GAJAH)",
+    "party_id": "17",
+    "logo_path": "BEBAS_GAJAH.png"
+  },
+  {
+    "dun": "N.26 MOYOG",
+    "constituency_id": "26",
+    "number": "8",
+    "name": "ADELAIDE CORNELIUS",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
+  },
+  {
+    "dun": "N.26 MOYOG",
+    "constituency_id": "26",
+    "number": "9",
+    "name": "ANNITA SHIELA F. AMONG",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.26 MOYOG",
+    "constituency_id": "26",
+    "number": "10",
+    "name": "UDA BIN SULAI",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.27 LIMBAHAU",
     "constituency_id": "27",
-    "candidate": "Datuk Juil Nuatim",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "SUGARAH@ SEGARAH BIN MIASIN",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
   },
   {
-    "code": "N.27",
+    "dun": "N.27 LIMBAHAU",
     "constituency_id": "27",
-    "candidate": "Roger @ Roy Valentine Amandus",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "FARISH ADAMZ@KANNY",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
   },
   {
-    "code": "N.27",
+    "dun": "N.27 LIMBAHAU",
     "constituency_id": "27",
-    "candidate": "Adrian Alexander",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "JEFFERY NOR BIN MOHAMED",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
   },
   {
-    "code": "N.28",
+    "dun": "N.27 LIMBAHAU",
+    "constituency_id": "27",
+    "number": "4",
+    "name": "SAIFULLAH PHANG",
+    "party": "BEBAS (KUNCI)",
+    "party_id": "9",
+    "logo_path": "BEBAS_KUNCI.png"
+  },
+  {
+    "dun": "N.27 LIMBAHAU",
+    "constituency_id": "27",
+    "number": "5",
+    "name": "MAHADTHIR BIN ASBOLLAH",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.27 LIMBAHAU",
+    "constituency_id": "27",
+    "number": "6",
+    "name": "MIL KUSIN BIN ABDILLAH",
+    "party": "PARTI KERJASAMA ANAK NEGERI (ANAK NEGERI)",
+    "party_id": "3",
+    "logo_path": "PARTI_KERJASAMA_ANAK_NEGERI_ANAK_NEGERI.png"
+  },
+  {
+    "dun": "N.27 LIMBAHAU",
+    "constituency_id": "27",
+    "number": "7",
+    "name": "SHAH ALFIE BIN YAHYA",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.27 LIMBAHAU",
+    "constituency_id": "27",
+    "number": "8",
+    "name": "AZNI BIN MOHD SALLEH",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.27 LIMBAHAU",
+    "constituency_id": "27",
+    "number": "9",
+    "name": "ROSDY BIN WASLI",
+    "party": "PERTUBUHAN KINABALU PROGRESIF BERSATU (UPKO)",
+    "party_id": "14",
+    "logo_path": "PERTUBUHAN_KINABALU_PROGRESIF_BERSATU_UPKO.png"
+  },
+  {
+    "dun": "N.27 LIMBAHAU",
+    "constituency_id": "27",
+    "number": "10",
+    "name": "MOHAMMAD FIRDAUS DIUN @ AWANG",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.27 LIMBAHAU",
+    "constituency_id": "27",
+    "number": "11",
+    "name": "JASNI BIN MATLANI",
+    "party": "PARTI BUMI KENYALANG (PBK)",
+    "party_id": "7",
+    "logo_path": "PARTI_BUMI_KENYALANG_PBK.png"
+  },
+  {
+    "dun": "N.28 KAWANG",
     "constituency_id": "28",
-    "candidate": "Datuk Gulam Haidar Khan Bahadar",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "CYRIL GERALD LIEW",
+    "party": "BEBAS (KUDA)",
+    "party_id": "29",
+    "logo_path": "BEBAS_KUDA.png"
   },
   {
-    "code": "N.28",
+    "dun": "N.28 KAWANG",
     "constituency_id": "28",
-    "candidate": "Md Shaffie Said",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "LAND LIP FONG",
+    "party": "BEBAS (KUNCI)",
+    "party_id": "9",
+    "logo_path": "BEBAS_KUNCI.png"
   },
   {
-    "code": "N.29",
+    "dun": "N.28 KAWANG",
+    "constituency_id": "28",
+    "number": "3",
+    "name": "BILLY JOE DOMINIC",
+    "party": "PERTUBUHAN KINABALU PROGRESIF BERSATU (UPKO)",
+    "party_id": "14",
+    "logo_path": "PERTUBUHAN_KINABALU_PROGRESIF_BERSATU_UPKO.png"
+  },
+  {
+    "dun": "N.28 KAWANG",
+    "constituency_id": "28",
+    "number": "4",
+    "name": "BERNARD A LOGIJIN",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.28 KAWANG",
+    "constituency_id": "28",
+    "number": "5",
+    "name": "KUO LEE ON",
+    "party": "PARTI BUMI KENYALANG (PBK)",
+    "party_id": "7",
+    "logo_path": "PARTI_BUMI_KENYALANG_PBK.png"
+  },
+  {
+    "dun": "N.28 KAWANG",
+    "constituency_id": "28",
+    "number": "6",
+    "name": "SABARIA @ SABARIAH AZIZ",
+    "party": "BEBAS (POKOK)",
+    "party_id": "30",
+    "logo_path": "BEBAS_POKOK.png"
+  },
+  {
+    "dun": "N.28 KAWANG",
+    "constituency_id": "28",
+    "number": "7",
+    "name": "SYLVESTER MOLUKUN",
+    "party": "PARTI ASPIRASI RAKYAT SARAWAK (ASPIRASI)",
+    "party_id": "31",
+    "logo_path": "PARTI_ASPIRASI_RAKYAT_SARAWAK_ASPIRASI.png"
+  },
+  {
+    "dun": "N.28 KAWANG",
+    "constituency_id": "28",
+    "number": "8",
+    "name": "DR. EDWIN @ JACK BOSI",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
+  },
+  {
+    "dun": "N.28 KAWANG",
+    "constituency_id": "28",
+    "number": "9",
+    "name": "CHIN LING LING",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.28 KAWANG",
+    "constituency_id": "28",
+    "number": "10",
+    "name": "JANNIE LASIMBANG",
+    "party": "PAKATAN HARAPAN (PH)",
+    "party_id": "27",
+    "logo_path": "PAKATAN_HARAPAN_PH.png"
+  },
+  {
+    "dun": "N.28 KAWANG",
+    "constituency_id": "28",
+    "number": "11",
+    "name": "CHIN TEK MING",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.28 KAWANG",
+    "constituency_id": "28",
+    "number": "12",
+    "name": "LASIUS MIKI",
+    "party": "PERJUANGAN RAKYAT (PR)",
+    "party_id": "32",
+    "logo_path": "PERJUANGAN_RAKYAT_PR.png"
+  },
+  {
+    "dun": "N.28 KAWANG",
+    "constituency_id": "28",
+    "number": "13",
+    "name": "WONG KONG FOOH",
+    "party": "PARTI KERJASAMA ANAK NEGERI (ANAK NEGERI)",
+    "party_id": "3",
+    "logo_path": "PARTI_KERJASAMA_ANAK_NEGERI_ANAK_NEGERI.png"
+  },
+  {
+    "dun": "N.29 PANTAI MANIS",
     "constituency_id": "29",
-    "candidate": "Datuk Pg Saifuddin Pg Tahir Petra",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "PETER MAURICE LIDADUN",
+    "party": "BEBAS (POKOK)",
+    "party_id": "30",
+    "logo_path": "BEBAS_POKOK.png"
   },
   {
-    "code": "N.29",
+    "dun": "N.29 PANTAI MANIS",
     "constituency_id": "29",
-    "candidate": "Datuk Aidi Mokhtar",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "CLEFTUS STEPHEN SPINE",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.29",
+    "dun": "N.29 PANTAI MANIS",
     "constituency_id": "29",
-    "candidate": "Faizal bin Julaili",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "DONALD PETER MOJUNTIN",
+    "party": "PERTUBUHAN KINABALU PROGRESIF BERSATU (UPKO)",
+    "party_id": "14",
+    "logo_path": "PERTUBUHAN_KINABALU_PROGRESIF_BERSATU_UPKO.png"
   },
   {
-    "code": "N.30",
+    "dun": "N.29 PANTAI MANIS",
+    "constituency_id": "29",
+    "number": "4",
+    "name": "FRANCIS MOJIKON",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
+  },
+  {
+    "dun": "N.29 PANTAI MANIS",
+    "constituency_id": "29",
+    "number": "5",
+    "name": "RICHARD RONALD DOMPOK",
+    "party": "PARTI KEBANGSAAN SABAH (PKS)",
+    "party_id": "10",
+    "logo_path": "PARTI_KEBANGSAAN_SABAH_PKS.png"
+  },
+  {
+    "dun": "N.29 PANTAI MANIS",
+    "constituency_id": "29",
+    "number": "6",
+    "name": "RICKY CHANG",
+    "party": "BEBAS (KUDA)",
+    "party_id": "29",
+    "logo_path": "BEBAS_KUDA.png"
+  },
+  {
+    "dun": "N.29 PANTAI MANIS",
+    "constituency_id": "29",
+    "number": "7",
+    "name": "WALTER NORBERT JOHNNY",
+    "party": "PARTI BUMI KENYALANG (PBK)",
+    "party_id": "7",
+    "logo_path": "PARTI_BUMI_KENYALANG_PBK.png"
+  },
+  {
+    "dun": "N.29 PANTAI MANIS",
+    "constituency_id": "29",
+    "number": "8",
+    "name": "Ir.TS. JOEYNODD BANSIN",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.29 PANTAI MANIS",
+    "constituency_id": "29",
+    "number": "9",
+    "name": "TS. MCKERY VICTOR NININ",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
+  },
+  {
+    "dun": "N.29 PANTAI MANIS",
+    "constituency_id": "29",
+    "number": "10",
+    "name": "JOE SULEIMAN",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.29 PANTAI MANIS",
+    "constituency_id": "29",
+    "number": "11",
+    "name": "TERRENCE SIAMBUN @ ALON",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.29 PANTAI MANIS",
+    "constituency_id": "29",
+    "number": "12",
+    "name": "REMYSTA JIMMY TAYLOR",
+    "party": "PAKATAN HARAPAN (PH)",
+    "party_id": "27",
+    "logo_path": "PAKATAN_HARAPAN_PH.png"
+  },
+  {
+    "dun": "N.30 BONGAWAN",
     "constituency_id": "30",
-    "candidate": "Tan Sri Anifah Aman",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "JOSEPH PHILIP KULIP",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.30",
+    "dun": "N.30 BONGAWAN",
     "constituency_id": "30",
-    "candidate": "Dr Daud Yusof",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "LINDA BEDA DUNSTAN",
+    "party": "BEBAS (GAJAH)",
+    "party_id": "17",
+    "logo_path": "BEBAS_GAJAH.png"
   },
   {
-    "code": "N.30",
+    "dun": "N.30 BONGAWAN",
     "constituency_id": "30",
-    "candidate": "Ridzuan bin Agus Payong",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "MALIK BIN LUMAN",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
   },
   {
-    "code": "N.31",
+    "dun": "N.30 BONGAWAN",
+    "constituency_id": "30",
+    "number": "4",
+    "name": "NELSON WENCES ANGANG",
+    "party": "PERTUBUHAN KINABALU PROGRESIF BERSATU (UPKO)",
+    "party_id": "14",
+    "logo_path": "PERTUBUHAN_KINABALU_PROGRESIF_BERSATU_UPKO.png"
+  },
+  {
+    "dun": "N.30 BONGAWAN",
+    "constituency_id": "30",
+    "number": "5",
+    "name": "EDWARD DAGUL",
+    "party": "PARTI MAJU SABAH (SAPP)",
+    "party_id": "28",
+    "logo_path": "PARTI_MAJU_SABAH_SAPP.png"
+  },
+  {
+    "dun": "N.30 BONGAWAN",
+    "constituency_id": "30",
+    "number": "6",
+    "name": "ROGER @ ROY VALENTINE AMANDUS",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.30 BONGAWAN",
+    "constituency_id": "30",
+    "number": "7",
+    "name": "DATUK JUIL NUATIM",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.30 BONGAWAN",
+    "constituency_id": "30",
+    "number": "8",
+    "name": "ADRIAN ALEXANDER MALIM",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
+  },
+  {
+    "dun": "N.30 BONGAWAN",
+    "constituency_id": "30",
+    "number": "9",
+    "name": "MARCELLUS BIN TAMBUD",
+    "party": "BEBAS (KUNCI)",
+    "party_id": "9",
+    "logo_path": "BEBAS_KUNCI.png"
+  },
+  {
+    "dun": "N.31 MEMBAKUT",
     "constituency_id": "31",
-    "candidate": "Datuk Mohd Ariffin Arif",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "SAMAIL BIN BULONGIK",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.31",
+    "dun": "N.31 MEMBAKUT",
     "constituency_id": "31",
-    "candidate": "Mohamad Said @ Ismail Sait",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "GULAMHAIDAR @ YUSOF BIN KHAN BAHADAR",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
   },
   {
-    "code": "N.32",
+    "dun": "N.31 MEMBAKUT",
+    "constituency_id": "31",
+    "number": "3",
+    "name": "JAMAL NERUBI",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
+  },
+  {
+    "dun": "N.31 MEMBAKUT",
+    "constituency_id": "31",
+    "number": "4",
+    "name": "BEVERLEY NATALIE KOH",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.31 MEMBAKUT",
+    "constituency_id": "31",
+    "number": "5",
+    "name": "NIN BIN JELLIH",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.32 KLIAS",
     "constituency_id": "32",
-    "candidate": "Datuk Isnin Aliasnih",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "RICHARD VITALES @ CHARLES",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
   },
   {
-    "code": "N.32",
+    "dun": "N.32 KLIAS",
     "constituency_id": "32",
-    "candidate": "Mohd Shaid Othman",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "REDZUAN @ GARIN",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
   },
   {
-    "code": "N.32",
+    "dun": "N.32 KLIAS",
     "constituency_id": "32",
-    "candidate": "Mohammed Hisyam bin Hazaril",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "AIDI BIN MOKTAR",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
   },
   {
-    "code": "N.33",
+    "dun": "N.32 KLIAS",
+    "constituency_id": "32",
+    "number": "4",
+    "name": "FAIZAL BIN JULAILI",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
+  },
+  {
+    "dun": "N.32 KLIAS",
+    "constituency_id": "32",
+    "number": "5",
+    "name": "DATU MOHAMAD BIN DATU TAMIN",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
+  },
+  {
+    "dun": "N.32 KLIAS",
+    "constituency_id": "32",
+    "number": "6",
+    "name": "MOHAMAD AZZMI BIN AHMAD",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.32 KLIAS",
+    "constituency_id": "32",
+    "number": "7",
+    "name": "DATUK HAJI PENGIRAN SAIFUDDIN BIN PENGIRAN TAHIR PETRA",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.33 KUALA PENYU",
     "constituency_id": "33",
-    "candidate": "Datuk Limus Jury",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "RICHARD VITALES @ CHARLES",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
   },
   {
-    "code": "N.33",
+    "dun": "N.33 KUALA PENYU",
     "constituency_id": "33",
-    "candidate": "Dr Monih Epin",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "REDZUAN @ GARIN",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
   },
   {
-    "code": "N.34",
+    "dun": "N.33 KUALA PENYU",
+    "constituency_id": "33",
+    "number": "3",
+    "name": "AIDI BIN MOKTAR",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.33 KUALA PENYU",
+    "constituency_id": "33",
+    "number": "4",
+    "name": "FAIZAL BIN JULAILI",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
+  },
+  {
+    "dun": "N.33 KUALA PENYU",
+    "constituency_id": "33",
+    "number": "5",
+    "name": "DATU MOHAMAD BIN DATU TAMIN",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
+  },
+  {
+    "dun": "N.33 KUALA PENYU",
+    "constituency_id": "33",
+    "number": "6",
+    "name": "MOHAMAD AZZMI BIN AHMAD",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.33 KUALA PENYU",
+    "constituency_id": "33",
+    "number": "7",
+    "name": "DATUK HAJI PENGIRAN SAIFUDDIN BIN PENGIRAN TAHIR PETRA",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.34 LUMADAN",
     "constituency_id": "34",
-    "candidate": "Datuk Ruslan Muharam",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "CIKGU RUSMAN BIN DULAMIT",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
   },
   {
-    "code": "N.34",
+    "dun": "N.34 LUMADAN",
     "constituency_id": "34",
-    "candidate": "Mohammad Norizhuan Awang",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "MOHD ARIFIN BIN MOHD ARIF",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
   },
   {
-    "code": "N.35",
+    "dun": "N.34 LUMADAN",
+    "constituency_id": "34",
+    "number": "3",
+    "name": "ROWINDY LAWRENCE ODONG",
+    "party": "PERTUBUHAN KINABALU PROGRESIF BERSATU (UPKO)",
+    "party_id": "14",
+    "logo_path": "PERTUBUHAN_KINABALU_PROGRESIF_BERSATU_UPKO.png"
+  },
+  {
+    "dun": "N.34 LUMADAN",
+    "constituency_id": "34",
+    "number": "4",
+    "name": "KAMAL BIN IDRIS",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.34 LUMADAN",
+    "constituency_id": "34",
+    "number": "5",
+    "name": "ADRIAN BIN LAJIM",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.34 LUMADAN",
+    "constituency_id": "34",
+    "number": "6",
+    "name": "MOHAMAD BIN SAID @ ISMAIL BIN SAIT",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.34 LUMADAN",
+    "constituency_id": "34",
+    "number": "7",
+    "name": "SULIAMAN BIN ALLADAD",
+    "party": "PARTI KEBANGSAAN SABAH (PKS)",
+    "party_id": "10",
+    "logo_path": "PARTI_KEBANGSAAN_SABAH_PKS.png"
+  },
+  {
+    "dun": "N.34 LUMADAN",
+    "constituency_id": "34",
+    "number": "8",
+    "name": "HASLAN BIN WASLI",
+    "party": "BEBAS (KUNCI)",
+    "party_id": "9",
+    "logo_path": "BEBAS_KUNCI.png"
+  },
+  {
+    "dun": "N.34 LUMADAN",
+    "constituency_id": "34",
+    "number": "9",
+    "name": "AZIZ BIN ANGKIU @ JAAFAR",
+    "party": "PARTI PERPADUAN RAKYAT SABAH (PPRS)",
+    "party_id": "33",
+    "logo_path": "PARTI_PERPADUAN_RAKYAT_SABAH_PPRS.png"
+  },
+  {
+    "dun": "N.34 LUMADAN",
+    "constituency_id": "34",
+    "number": "10",
+    "name": "HAJI YAHYA AHMAD",
+    "party": "PARTI KERJASAMA ANAK NEGERI (ANAK NEGERI)",
+    "party_id": "3",
+    "logo_path": "PARTI_KERJASAMA_ANAK_NEGERI_ANAK_NEGERI.png"
+  },
+  {
+    "dun": "N.35 SINDUMIN",
     "constituency_id": "35",
-    "candidate": "Yamani Hafez Musa",
-    "party": "Parti Keadilan Rakyat"
+    "number": "1",
+    "name": "MOHD ARIFFIN BIN BARHIM",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
   },
   {
-    "code": "N.35",
+    "dun": "N.35 SINDUMIN",
     "constituency_id": "35",
-    "candidate": "Yusri Pungut",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "EDWIN LOUIS",
+    "party": "BEBAS (JAM)",
+    "party_id": "20",
+    "logo_path": "BEBAS_JAM.png"
   },
   {
-    "code": "N.36",
+    "dun": "N.35 SINDUMIN",
+    "constituency_id": "35",
+    "number": "3",
+    "name": "JISMIT BIN JAPONG",
+    "party": "PARTI KEBANGSAAN SABAH (PKS)",
+    "party_id": "10",
+    "logo_path": "PARTI_KEBANGSAAN_SABAH_PKS.png"
+  },
+  {
+    "dun": "N.35 SINDUMIN",
+    "constituency_id": "35",
+    "number": "4",
+    "name": "MOHD HISYAM HAZARIL BIN MOHD AZMAN",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
+  },
+  {
+    "dun": "N.35 SINDUMIN",
+    "constituency_id": "35",
+    "number": "5",
+    "name": "KALIWON BIN EDI",
+    "party": "PARTI PERPADUAN RAKYAT SABAH (PPRS)",
+    "party_id": "33",
+    "logo_path": "PARTI_PERPADUAN_RAKYAT_SABAH_PPRS.png"
+  },
+  {
+    "dun": "N.35 SINDUMIN",
+    "constituency_id": "35",
+    "number": "6",
+    "name": "MOHD SHAID OTHMAN",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.35 SINDUMIN",
+    "constituency_id": "35",
+    "number": "7",
+    "name": "MATLANI BIN SABLI",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.35 SINDUMIN",
+    "constituency_id": "35",
+    "number": "8",
+    "name": "DATUK ISNIN HJ ALIASNIH",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.35 SINDUMIN",
+    "constituency_id": "35",
+    "number": "9",
+    "name": "HJ OSIN BIN JILON",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
+  },
+  {
+    "dun": "N.36 KUNDASANG",
     "constituency_id": "36",
-    "candidate": "Datuk Dr Joachim Gunsalam",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "DINI BINTI GINSIK @ ANNIE BINTI GINSIK",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.36",
+    "dun": "N.36 KUNDASANG",
     "constituency_id": "36",
-    "candidate": "Jeffrey Gopigog",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "MONIH EPIN",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
   },
   {
-    "code": "N.36",
+    "dun": "N.36 KUNDASANG",
     "constituency_id": "36",
-    "candidate": "Dr. Atong bin Antong",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "AWANG ASLEE BIN LAKAT",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
   },
   {
-    "code": "N.37",
+    "dun": "N.36 KUNDASANG",
+    "constituency_id": "36",
+    "number": "4",
+    "name": "WALTHER PHILIP MICHAEL",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.36 KUNDASANG",
+    "constituency_id": "36",
+    "number": "5",
+    "name": "LIMUS BIN JURY",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.36 KUNDASANG",
+    "constituency_id": "36",
+    "number": "6",
+    "name": "JONEHTAN MATHEUS",
+    "party": "PARTI KEBANGSAAN SABAH (PKS)",
+    "party_id": "10",
+    "logo_path": "PARTI_KEBANGSAAN_SABAH_PKS.png"
+  },
+  {
+    "dun": "N.37 KARANAAN",
     "constituency_id": "37",
-    "candidate": "Datuk Seri Masidi Manjun",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "MOHAMMAD NORIZHUAN BIN AWANG",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
   },
   {
-    "code": "N.37",
+    "dun": "N.37 KARANAAN",
     "constituency_id": "37",
-    "candidate": "Mukinin @ Mazlan Daiman",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "ABDUL JARIH BIN OKIN",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
   },
   {
-    "code": "N.38",
+    "dun": "N.37 KARANAAN",
+    "constituency_id": "37",
+    "number": "3",
+    "name": "AMIT BIN BASRIN",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.37 KARANAAN",
+    "constituency_id": "37",
+    "number": "4",
+    "name": "DATUK HJ RUSLAN BIN MUHARAM",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.37 KARANAAN",
+    "constituency_id": "37",
+    "number": "5",
+    "name": "DATUK MOHD NAZRI ABDULLAH",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
+  },
+  {
+    "dun": "N.37 KARANAAN",
+    "constituency_id": "37",
+    "number": "6",
+    "name": "JURINAH BINTI NASIR",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.38 PAGINATAN",
     "constituency_id": "38",
-    "candidate": "Datuk Abidin Madingkir",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "MARKUS BUAS",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.38",
+    "dun": "N.38 PAGINATAN",
     "constituency_id": "38",
-    "candidate": "Juhaili Sidek",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "ABDILLAH BIN JALAF @ DILA",
+    "party": "BEBAS (GAJAH)",
+    "party_id": "17",
+    "logo_path": "BEBAS_GAJAH.png"
   },
   {
-    "code": "N.39",
+    "dun": "N.38 PAGINATAN",
+    "constituency_id": "38",
+    "number": "3",
+    "name": "IBRAHIM BIN TUAH",
+    "party": "BEBAS (MANGGIS)",
+    "party_id": "6",
+    "logo_path": "BEBAS_MANGGIS.png"
+  },
+  {
+    "dun": "N.38 PAGINATAN",
+    "constituency_id": "38",
+    "number": "4",
+    "name": "YUSRI BIN PUNGUT",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.38 PAGINATAN",
+    "constituency_id": "38",
+    "number": "5",
+    "name": "YAMANI HAFEZ MUSA",
+    "party": "PAKATAN HARAPAN (PH)",
+    "party_id": "27",
+    "logo_path": "PAKATAN_HARAPAN_PH.png"
+  },
+  {
+    "dun": "N.38 PAGINATAN",
+    "constituency_id": "38",
+    "number": "6",
+    "name": "WILSON LIOU",
+    "party": "BEBAS (KUNCI)",
+    "party_id": "9",
+    "logo_path": "BEBAS_KUNCI.png"
+  },
+  {
+    "dun": "N.38 PAGINATAN",
+    "constituency_id": "38",
+    "number": "7",
+    "name": "KANAFIA BIN BUJANG",
+    "party": "PARTI KEBANGSAAN SABAH (PKS)",
+    "party_id": "10",
+    "logo_path": "PARTI_KEBANGSAAN_SABAH_PKS.png"
+  },
+  {
+    "dun": "N.38 PAGINATAN",
+    "constituency_id": "38",
+    "number": "8",
+    "name": "MOKTAR BIN MATUSSIN",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.38 PAGINATAN",
+    "constituency_id": "38",
+    "number": "9",
+    "name": "DAYANG SYAFIQAH",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
+  },
+  {
+    "dun": "N.38 PAGINATAN",
+    "constituency_id": "38",
+    "number": "10",
+    "name": "SANI BIN MIASIN",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
+  },
+  {
+    "dun": "N.39 TAMBUNAN",
     "constituency_id": "39",
-    "candidate": "Datuk Victor Paut",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "DATUK JAPIRIL SUHAIMIN",
+    "party": "PARTI MAJU SABAH (SAPP)",
+    "party_id": "28",
+    "logo_path": "PARTI_MAJU_SABAH_SAPP.png"
   },
   {
-    "code": "N.39",
+    "dun": "N.39 TAMBUNAN",
     "constituency_id": "39",
-    "candidate": "Bianus Kontong",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "EDWARD JAMKIM",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.40",
+    "dun": "N.39 TAMBUNAN",
+    "constituency_id": "39",
+    "number": "3",
+    "name": "ATONG BIN ANTONG",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
+  },
+  {
+    "dun": "N.39 TAMBUNAN",
+    "constituency_id": "39",
+    "number": "4",
+    "name": "JEFFREY BIN GOPOG",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.39 TAMBUNAN",
+    "constituency_id": "39",
+    "number": "5",
+    "name": "NAZARUL KHAIWALA BIN WAHAB",
+    "party": "PARTI KERJASAMA ANAK NEGERI (ANAK NEGERI)",
+    "party_id": "3",
+    "logo_path": "PARTI_KERJASAMA_ANAK_NEGERI_ANAK_NEGERI.png"
+  },
+  {
+    "dun": "N.39 TAMBUNAN",
+    "constituency_id": "39",
+    "number": "6",
+    "name": "ROGERS TIAM",
+    "party": "PERTUBUHAN KINABALU PROGRESIF BERSATU (UPKO)",
+    "party_id": "14",
+    "logo_path": "PERTUBUHAN_KINABALU_PROGRESIF_BERSATU_UPKO.png"
+  },
+  {
+    "dun": "N.39 TAMBUNAN",
+    "constituency_id": "39",
+    "number": "7",
+    "name": "JATTRY ABIE @ JEFFRY MOHD ALI",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
+  },
+  {
+    "dun": "N.39 TAMBUNAN",
+    "constituency_id": "39",
+    "number": "8",
+    "name": "JAPIRIN BIN SAHADI",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
+  },
+  {
+    "dun": "N.39 TAMBUNAN",
+    "constituency_id": "39",
+    "number": "9",
+    "name": "JACKSON MUSI",
+    "party": "BEBAS (KUNCI)",
+    "party_id": "9",
+    "logo_path": "BEBAS_KUNCI.png"
+  },
+  {
+    "dun": "N.39 TAMBUNAN",
+    "constituency_id": "39",
+    "number": "10",
+    "name": "DR. JOACHIM GUNSALAM",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.40 BINGKOR",
     "constituency_id": "40",
-    "candidate": "belum umum",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "KARIM BIN ADAM",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
   },
   {
-    "code": "N.40",
+    "dun": "N.40 BINGKOR",
     "constituency_id": "40",
-    "candidate": "Benedict Martin Gunir",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "ANUAR GHANI GILONG @ PHILIP",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
   },
   {
-    "code": "N.41",
+    "dun": "N.40 BINGKOR",
+    "constituency_id": "40",
+    "number": "3",
+    "name": "MASIDI BIN MANJUN @ MASDI",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.40 BINGKOR",
+    "constituency_id": "40",
+    "number": "4",
+    "name": "MUKININ @ MAZLAN BIN DAIMAN",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.40 BINGKOR",
+    "constituency_id": "40",
+    "number": "5",
+    "name": "NAOMI @ NEOMI FRANCIS",
+    "party": "BEBAS (POKOK)",
+    "party_id": "30",
+    "logo_path": "BEBAS_POKOK.png"
+  },
+  {
+    "dun": "N.40 BINGKOR",
+    "constituency_id": "40",
+    "number": "6",
+    "name": "MD. NADZMIN KAMIN",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
+  },
+  {
+    "dun": "N.40 BINGKOR",
+    "constituency_id": "40",
+    "number": "7",
+    "name": "GEORGINA GEORGE",
+    "party": "PERTUBUHAN KINABALU PROGRESIF BERSATU (UPKO)",
+    "party_id": "14",
+    "logo_path": "PERTUBUHAN_KINABALU_PROGRESIF_BERSATU_UPKO.png"
+  },
+  {
+    "dun": "N.41 LIAWAN",
     "constituency_id": "41",
-    "candidate": "Datuk Annuar Ayub Aman",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "JUHAILI BIN SIDEK",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
   },
   {
-    "code": "N.41",
+    "dun": "N.41 LIAWAN",
     "constituency_id": "41",
-    "candidate": "Adzhar Jasni @ Eddy",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "RUBICA GABAYOI",
+    "party": "PARTI KERJASAMA ANAK NEGERI (ANAK NEGERI)",
+    "party_id": "3",
+    "logo_path": "PARTI_KERJASAMA_ANAK_NEGERI_ANAK_NEGERI.png"
   },
   {
-    "code": "N.41",
+    "dun": "N.41 LIAWAN",
     "constituency_id": "41",
-    "candidate": "Johny @ John bin Anthony",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "VENNEX BIN JASMIN @ MIKI",
+    "party": "PARTI BANGSA MALAYSIA (PBM)",
+    "party_id": "19",
+    "logo_path": "PARTI_BANGSA_MALAYSIA_PBM.png"
   },
   {
-    "code": "N.42",
+    "dun": "N.41 LIAWAN",
+    "constituency_id": "41",
+    "number": "4",
+    "name": "BENSIN DANI",
+    "party": "PERJUANGAN RAKYAT (PR)",
+    "party_id": "32",
+    "logo_path": "PERJUANGAN_RAKYAT_PR.png"
+  },
+  {
+    "dun": "N.41 LIAWAN",
+    "constituency_id": "41",
+    "number": "5",
+    "name": "DATUK ABIDIN MADINGKIR",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.41 LIAWAN",
+    "constituency_id": "41",
+    "number": "6",
+    "name": "FEDDRIN BIN TULIANG",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.41 LIAWAN",
+    "constituency_id": "41",
+    "number": "7",
+    "name": "IVAN BENEDICT",
+    "party": "BEBAS (JAM)",
+    "party_id": "20",
+    "logo_path": "BEBAS_JAM.png"
+  },
+  {
+    "dun": "N.41 LIAWAN",
+    "constituency_id": "41",
+    "number": "8",
+    "name": "DATUK JUNAIDI BIN SAHAT",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
+  },
+  {
+    "dun": "N.41 LIAWAN",
+    "constituency_id": "41",
+    "number": "9",
+    "name": "LINUS BIN YUBOD @ MD HAIDI B MD BADAWI",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.41 LIAWAN",
+    "constituency_id": "41",
+    "number": "10",
+    "name": "DATUK RUSDIN BIN RIMAN",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
+  },
+  {
+    "dun": "N.42 MELALAP",
     "constituency_id": "42",
-    "candidate": "Jamawi bin Jaafar",
-    "party": "Parti Keadilan Rakyat"
+    "number": "1",
+    "name": "GULIT BIN RUKAG",
+    "party": "PARTI DAMAI SABAH (SPP)",
+    "party_id": "25",
+    "logo_path": "PARTI_DAMAI_SABAH_SPP.png"
   },
   {
-    "code": "N.42",
+    "dun": "N.42 MELALAP",
     "constituency_id": "42",
-    "candidate": "Cheld Bryend Lind",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "JIKOL BIN TAGUA",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
   },
   {
-    "code": "N.43",
+    "dun": "N.42 MELALAP",
+    "constituency_id": "42",
+    "number": "3",
+    "name": "DSP DR. JEFFREY G. KITINGAN",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.42 MELALAP",
+    "constituency_id": "42",
+    "number": "4",
+    "name": "VICTOR P PAUT",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.42 MELALAP",
+    "constituency_id": "42",
+    "number": "5",
+    "name": "DIONYSIA GINSOS",
+    "party": "PARTI KERJASAMA ANAK NEGERI (ANAK NEGERI)",
+    "party_id": "3",
+    "logo_path": "PARTI_KERJASAMA_ANAK_NEGERI_ANAK_NEGERI.png"
+  },
+  {
+    "dun": "N.42 MELALAP",
+    "constituency_id": "42",
+    "number": "6",
+    "name": "KENNETH EDWIN N.",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.42 MELALAP",
+    "constituency_id": "42",
+    "number": "7",
+    "name": "BIANUS KONTONG",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.43 KEMABONG",
     "constituency_id": "43",
-    "candidate": "Datuk Rubin Balang",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "KENNEDY JOHN ANGIAN",
+    "party": "PERTUBUHAN KINABALU PROGRESIF BERSATU (UPKO)",
+    "party_id": "14",
+    "logo_path": "PERTUBUHAN_KINABALU_PROGRESIF_BERSATU_UPKO.png"
   },
   {
-    "code": "N.43",
+    "dun": "N.43 KEMABONG",
     "constituency_id": "43",
-    "candidate": "Burnley Balang",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "HARYADY BIN ANTUTU",
+    "party": "PERTUBUHAN PARTI GEMILANG ANAK SABAH (GAS)",
+    "party_id": "24",
+    "logo_path": "PERTUBUHAN_PARTI_GEMILANG_ANAK_SABAH_GAS.png"
   },
   {
-    "code": "N.44",
+    "dun": "N.43 KEMABONG",
+    "constituency_id": "43",
+    "number": "3",
+    "name": "BENEDICT MARTIN GUNIR",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.43 KEMABONG",
+    "constituency_id": "43",
+    "number": "4",
+    "name": "RAFIE ROBERT",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.43 KEMABONG",
+    "constituency_id": "43",
+    "number": "5",
+    "name": "THOMAS ANGGAN",
+    "party": "PARTI KEBANGSAAN SABAH (PKS)",
+    "party_id": "10",
+    "logo_path": "PARTI_KEBANGSAAN_SABAH_PKS.png"
+  },
+  {
+    "dun": "N.43 KEMABONG",
+    "constituency_id": "43",
+    "number": "6",
+    "name": "KENOLEE BIN JUSTINE",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.43 KEMABONG",
+    "constituency_id": "43",
+    "number": "7",
+    "name": "NIKLOS BIN ONGOH",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
+  },
+  {
+    "dun": "N.43 KEMABONG",
+    "constituency_id": "43",
+    "number": "8",
+    "name": "AHAMIN BIN SALIM",
+    "party": "BEBAS (MANGGIS)",
+    "party_id": "6",
+    "logo_path": "BEBAS_MANGGIS.png"
+  },
+  {
+    "dun": "N.43 KEMABONG",
+    "constituency_id": "43",
+    "number": "9",
+    "name": "MOHD ISHAK BIN AYUB",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.43 KEMABONG",
+    "constituency_id": "43",
+    "number": "10",
+    "name": "SOLZAH BIN SUAL",
+    "party": "PARTI DAMAI SABAH (SPP)",
+    "party_id": "25",
+    "logo_path": "PARTI_DAMAI_SABAH_SPP.png"
+  },
+  {
+    "dun": "N.44 TULID",
     "constituency_id": "44",
-    "candidate": "Rufinah Pengeran",
-    "party": "Parti Keadilan Rakyat"
+    "number": "1",
+    "name": "NIK MOHD NADZRI BIN NIK ZAWAWI",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
   },
   {
-    "code": "N.44",
+    "dun": "N.44 TULID",
     "constituency_id": "44",
-    "candidate": "belum umum",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "2",
+    "name": "YUKILIN BIN GIGING",
+    "party": "PARTI RUMPUN SABAH (RUMPUN)",
+    "party_id": "23",
+    "logo_path": "PARTI_RUMPUN_SABAH_RUMPUN.png"
   },
   {
-    "code": "N.44",
+    "dun": "N.44 TULID",
     "constituency_id": "44",
-    "candidate": "Lucia Kihing",
-    "party": "Parti Warisan"
+    "number": "3",
+    "name": "PETER PAUN",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
   },
   {
-    "code": "N.45",
+    "dun": "N.44 TULID",
+    "constituency_id": "44",
+    "number": "4",
+    "name": "ANNUAR AYUB AMAN @ BANAND",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.44 TULID",
+    "constituency_id": "44",
+    "number": "5",
+    "name": "WILSON GAN",
+    "party": "PERTUBUHAN KINABALU PROGRESIF BERSATU (UPKO)",
+    "party_id": "14",
+    "logo_path": "PERTUBUHAN_KINABALU_PROGRESIF_BERSATU_UPKO.png"
+  },
+  {
+    "dun": "N.44 TULID",
+    "constituency_id": "44",
+    "number": "6",
+    "name": "JOHNY ANTHONY",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
+  },
+  {
+    "dun": "N.44 TULID",
+    "constituency_id": "44",
+    "number": "7",
+    "name": "ADZHAR BIN JASNI @ EDDY",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.44 TULID",
+    "constituency_id": "44",
+    "number": "8",
+    "name": "MUSTAZARMIE BIN MUSTAPHA",
+    "party": "PARTI PERPADUAN RAKYAT SABAH (PPRS)",
+    "party_id": "33",
+    "logo_path": "PARTI_PERPADUAN_RAKYAT_SABAH_PPRS.png"
+  },
+  {
+    "dun": "N.44 TULID",
+    "constituency_id": "44",
+    "number": "9",
+    "name": "AUGUSTINE A.NAIN",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.44 TULID",
+    "constituency_id": "44",
+    "number": "10",
+    "name": "JUNADEY BIN EJIH @ EGIH",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.45 SOOK",
     "constituency_id": "45",
-    "candidate": "Datuk Ellron Angin",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "NIK MOHD NADZRI BIN NIK ZAWAWI",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
   },
   {
-    "code": "N.45",
+    "dun": "N.45 SOOK",
     "constituency_id": "45",
-    "candidate": "Joseph Peter Tinggi",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "YUKILIN BIN GIGING",
+    "party": "PARTI RUMPUN SABAH (RUMPUN)",
+    "party_id": "23",
+    "logo_path": "PARTI_RUMPUN_SABAH_RUMPUN.png"
   },
   {
-    "code": "N.46",
+    "dun": "N.45 SOOK",
+    "constituency_id": "45",
+    "number": "3",
+    "name": "PETER PAUN",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
+  },
+  {
+    "dun": "N.45 SOOK",
+    "constituency_id": "45",
+    "number": "4",
+    "name": "ANNUAR AYUB AMAN @ BANAND",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.45 SOOK",
+    "constituency_id": "45",
+    "number": "5",
+    "name": "WILSON GAN",
+    "party": "PERTUBUHAN KINABALU PROGRESIF BERSATU (UPKO)",
+    "party_id": "14",
+    "logo_path": "PERTUBUHAN_KINABALU_PROGRESIF_BERSATU_UPKO.png"
+  },
+  {
+    "dun": "N.45 SOOK",
+    "constituency_id": "45",
+    "number": "6",
+    "name": "JOHNY ANTHONY",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
+  },
+  {
+    "dun": "N.45 SOOK",
+    "constituency_id": "45",
+    "number": "7",
+    "name": "ADZHAR BIN JASNI @ EDDY",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.45 SOOK",
+    "constituency_id": "45",
+    "number": "8",
+    "name": "MUSTAZARMIE BIN MUSTAPHA",
+    "party": "PARTI PERPADUAN RAKYAT SABAH (PPRS)",
+    "party_id": "33",
+    "logo_path": "PARTI_PERPADUAN_RAKYAT_SABAH_PPRS.png"
+  },
+  {
+    "dun": "N.45 SOOK",
+    "constituency_id": "45",
+    "number": "9",
+    "name": "AUGUSTINE A.NAIN",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.45 SOOK",
+    "constituency_id": "45",
+    "number": "10",
+    "name": "JUNADEY BIN EJIH @ EGIH",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.46 NABAWAN",
     "constituency_id": "46",
-    "candidate": "Datuk Abdul Ghani Yasin",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "GABRIEL GEORGE TULAS",
+    "party": "BEBAS (KUDA)",
+    "party_id": "29",
+    "logo_path": "BEBAS_KUDA.png"
   },
   {
-    "code": "N.46",
+    "dun": "N.46 NABAWAN",
     "constituency_id": "46",
-    "candidate": "Alfian A Koroh",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "PRISCELLA PETER",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
   },
   {
-    "code": "N.46",
+    "dun": "N.46 NABAWAN",
     "constituency_id": "46",
-    "candidate": "Sayau bin Tangkap",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "JAMAWI BIN JA'AFAR",
+    "party": "PAKATAN HARAPAN (PH)",
+    "party_id": "27",
+    "logo_path": "PAKATAN_HARAPAN_PH.png"
   },
   {
-    "code": "N.47",
+    "dun": "N.46 NABAWAN",
+    "constituency_id": "46",
+    "number": "4",
+    "name": "ALVIANA BINTI LINUS",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.46 NABAWAN",
+    "constituency_id": "46",
+    "number": "5",
+    "name": "CHELD LIND",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.46 NABAWAN",
+    "constituency_id": "46",
+    "number": "6",
+    "name": "JUNIK BIN BAJIT",
+    "party": "PERTUBUHAN KINABALU PROGRESIF BERSATU (UPKO)",
+    "party_id": "14",
+    "logo_path": "PERTUBUHAN_KINABALU_PROGRESIF_BERSATU_UPKO.png"
+  },
+  {
+    "dun": "N.46 NABAWAN",
+    "constituency_id": "46",
+    "number": "7",
+    "name": "KEVIN CHONG",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.46 NABAWAN",
+    "constituency_id": "46",
+    "number": "8",
+    "name": "FATIMAH",
+    "party": "BEBAS (KUNCI)",
+    "party_id": "9",
+    "logo_path": "BEBAS_KUNCI.png"
+  },
+  {
+    "dun": "N.47 TELUPID",
     "constituency_id": "47",
-    "candidate": "Datuk Jonybone J Kurum",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "RAHMAH JAN BINTI SULAIMAN KHAN",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
   },
   {
-    "code": "N.47",
+    "dun": "N.47 TELUPID",
     "constituency_id": "47",
-    "candidate": "Simah Matusip",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "NOORITA BINTI SUAL",
+    "party": "PAKATAN HARAPAN (PH)",
+    "party_id": "27",
+    "logo_path": "PAKATAN_HARAPAN_PH.png"
   },
   {
-    "code": "N.47",
+    "dun": "N.47 TELUPID",
     "constituency_id": "47",
-    "candidate": "Jamin bin Jamri",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "RASSEDI BIN LIARON",
+    "party": "PARTI PERPADUAN RAKYAT SABAH (PPRS)",
+    "party_id": "33",
+    "logo_path": "PARTI_PERPADUAN_RAKYAT_SABAH_PPRS.png"
   },
   {
-    "code": "N.48",
+    "dun": "N.47 TELUPID",
+    "constituency_id": "47",
+    "number": "4",
+    "name": "BURNLEY BALANG",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.47 TELUPID",
+    "constituency_id": "47",
+    "number": "5",
+    "name": "JASINI BIN ANGKIWAN",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.47 TELUPID",
+    "constituency_id": "47",
+    "number": "6",
+    "name": "PETRUS BIN YAHYA",
+    "party": "BEBAS (CINCIN)",
+    "party_id": "34",
+    "logo_path": "BEBAS_CINCIN.png"
+  },
+  {
+    "dun": "N.47 TELUPID",
+    "constituency_id": "47",
+    "number": "7",
+    "name": "HASMIN AZROY ABDULLAH",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.47 TELUPID",
+    "constituency_id": "47",
+    "number": "8",
+    "name": "YABRI ONOS",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
+  },
+  {
+    "dun": "N.47 TELUPID",
+    "constituency_id": "47",
+    "number": "9",
+    "name": "RUBIN BALANG",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.48 SUGUT",
     "constituency_id": "48",
-    "candidate": "Datuk James Ratib",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "DATUK SUMAN YASAMBUN",
+    "party": "BEBAS (PEN)",
+    "party_id": "15",
+    "logo_path": "BEBAS_PEN.png"
   },
   {
-    "code": "N.48",
+    "dun": "N.48 SUGUT",
     "constituency_id": "48",
-    "candidate": "Aspah Abdullah Sani",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "CLARENCE CARTER MARAAT",
+    "party": "BEBAS (KUNCI)",
+    "party_id": "9",
+    "logo_path": "BEBAS_KUNCI.png"
   },
   {
-    "code": "N.48",
+    "dun": "N.48 SUGUT",
     "constituency_id": "48",
-    "candidate": "Datuk Seri Dr. Ronald Kiandee",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "EDWIN LAIMIN",
+    "party": "BEBAS (TRAKTOR)",
+    "party_id": "21",
+    "logo_path": "BEBAS_TRAKTOR.png"
   },
   {
-    "code": "N.49",
+    "dun": "N.48 SUGUT",
+    "constituency_id": "48",
+    "number": "4",
+    "name": "RUFINAH PENGERAN",
+    "party": "PAKATAN HARAPAN (PH)",
+    "party_id": "27",
+    "logo_path": "PAKATAN_HARAPAN_PH.png"
+  },
+  {
+    "dun": "N.48 SUGUT",
+    "constituency_id": "48",
+    "number": "5",
+    "name": "VINSON BIN RUSIKAN",
+    "party": "PARTI KEBANGSAAN SABAH (PKS)",
+    "party_id": "10",
+    "logo_path": "PARTI_KEBANGSAAN_SABAH_PKS.png"
+  },
+  {
+    "dun": "N.48 SUGUT",
+    "constituency_id": "48",
+    "number": "6",
+    "name": "DR. OSWALD AISAT IGAU",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
+  },
+  {
+    "dun": "N.48 SUGUT",
+    "constituency_id": "48",
+    "number": "7",
+    "name": "DATUK EVARISTUS GUNGKIT",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.48 SUGUT",
+    "constituency_id": "48",
+    "number": "8",
+    "name": "LUCIA BINTI KIHING",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.48 SUGUT",
+    "constituency_id": "48",
+    "number": "9",
+    "name": "JORDAN JUDE ELLRON",
+    "party": "BEBAS (MANGGIS)",
+    "party_id": "6",
+    "logo_path": "BEBAS_MANGGIS.png"
+  },
+  {
+    "dun": "N.48 SUGUT",
+    "constituency_id": "48",
+    "number": "10",
+    "name": "JUFINA BT DIMIS",
+    "party": "PARTI RUMPUN SABAH (RUMPUN)",
+    "party_id": "23",
+    "logo_path": "PARTI_RUMPUN_SABAH_RUMPUN.png"
+  },
+  {
+    "dun": "N.48 SUGUT",
+    "constituency_id": "48",
+    "number": "11",
+    "name": "RAYNER FRANCIS UDONG",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.48 SUGUT",
+    "constituency_id": "48",
+    "number": "12",
+    "name": "ENGAH BIN SINTAN @ DAHLAN BIN ABDULLAH",
+    "party": "BEBAS (RUMAH)",
+    "party_id": "18",
+    "logo_path": "BEBAS_RUMAH.png"
+  },
+  {
+    "dun": "N.48 SUGUT",
+    "constituency_id": "48",
+    "number": "13",
+    "name": "MOHD KHAIRIL ABDULLAH",
+    "party": "PERTUBUHAN KINABALU PROGRESIF BERSATU (UPKO)",
+    "party_id": "14",
+    "logo_path": "PERTUBUHAN_KINABALU_PROGRESIF_BERSATU_UPKO.png"
+  },
+  {
+    "dun": "N.48 SUGUT",
+    "constituency_id": "48",
+    "number": "14",
+    "name": "LAUTIS @ LAULIS BIN ANGGANG",
+    "party": "BEBAS (CEREK)",
+    "party_id": "35",
+    "logo_path": "BEBAS_CEREK.png"
+  },
+  {
+    "dun": "N.49 LABUK",
     "constituency_id": "49",
-    "candidate": "Datuk Samad Jamri",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "ELLRON BIN ANGIN",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
   },
   {
-    "code": "N.49",
+    "dun": "N.49 LABUK",
     "constituency_id": "49",
-    "candidate": "Jafar Awang",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "JOSEPH BIN PETER TINGGI",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
   },
   {
-    "code": "N.49",
+    "dun": "N.49 LABUK",
     "constituency_id": "49",
-    "candidate": "Asmad bin Nasir",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "IRENEUS PAGUT @ JRENEUS PAGUT",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
   },
   {
-    "code": "N.50",
+    "dun": "N.49 LABUK",
+    "constituency_id": "49",
+    "number": "4",
+    "name": "DATO' SRI ARTHUR JOSEPH KURUP",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
+  },
+  {
+    "dun": "N.49 LABUK",
+    "constituency_id": "49",
+    "number": "5",
+    "name": "V CHONG VIN @ SIAU HO",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.50 GUM-GUM",
     "constituency_id": "50",
-    "candidate": "Abdul Said Pimping",
-    "party": "Parti Keadilan Rakyat"
+    "number": "1",
+    "name": "JONNYBONE J KURUM",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
   },
   {
-    "code": "N.50",
+    "dun": "N.50 GUM-GUM",
     "constituency_id": "50",
-    "candidate": "Arunarnsin Taib",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "JAMIN BIN JAMRI",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
   },
   {
-    "code": "N.50",
+    "dun": "N.50 GUM-GUM",
     "constituency_id": "50",
-    "candidate": "Yunus bin Nurdin",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "SIMAH BINTI MATUSIP",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
   },
   {
-    "code": "N.51",
+    "dun": "N.50 GUM-GUM",
+    "constituency_id": "50",
+    "number": "4",
+    "name": "PAGRIOS @ PETRUS BIN ZABANG",
+    "party": "PARTI BANGSA MALAYSIA (PBM)",
+    "party_id": "19",
+    "logo_path": "PARTI_BANGSA_MALAYSIA_PBM.png"
+  },
+  {
+    "dun": "N.50 GUM-GUM",
+    "constituency_id": "50",
+    "number": "5",
+    "name": "MICHEL ALOK",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.50 GUM-GUM",
+    "constituency_id": "50",
+    "number": "6",
+    "name": "FELIX JOSEPH SAANG",
+    "party": "PERTUBUHAN KINABALU PROGRESIF BERSATU (UPKO)",
+    "party_id": "14",
+    "logo_path": "PERTUBUHAN_KINABALU_PROGRESIF_BERSATU_UPKO.png"
+  },
+  {
+    "dun": "N.50 GUM-GUM",
+    "constituency_id": "50",
+    "number": "7",
+    "name": "NILIS JOSEPH",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
+  },
+  {
+    "dun": "N.50 GUM-GUM",
+    "constituency_id": "50",
+    "number": "8",
+    "name": "JIKMARIYA BINTI MURAN",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.50 GUM-GUM",
+    "constituency_id": "50",
+    "number": "9",
+    "name": "BENEDICT ASMAT",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
+  },
+  {
+    "dun": "N.51 SUNGAI MANILA",
     "constituency_id": "51",
-    "candidate": "Hazem Mubarak Musa",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "JONNYBONE J KURUM",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
   },
   {
-    "code": "N.51",
+    "dun": "N.51 SUNGAI MANILA",
     "constituency_id": "51",
-    "candidate": "Sittinra Sakah",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "JAMIN BIN JAMRI",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
   },
   {
-    "code": "N.51",
+    "dun": "N.51 SUNGAI MANILA",
     "constituency_id": "51",
-    "candidate": "Yusri bin Abu",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "SIMAH BINTI MATUSIP",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
   },
   {
-    "code": "N.52",
+    "dun": "N.51 SUNGAI MANILA",
+    "constituency_id": "51",
+    "number": "4",
+    "name": "PAGRIOS @ PETRUS BIN ZABANG",
+    "party": "PARTI BANGSA MALAYSIA (PBM)",
+    "party_id": "19",
+    "logo_path": "PARTI_BANGSA_MALAYSIA_PBM.png"
+  },
+  {
+    "dun": "N.51 SUNGAI MANILA",
+    "constituency_id": "51",
+    "number": "5",
+    "name": "MICHEL ALOK",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.51 SUNGAI MANILA",
+    "constituency_id": "51",
+    "number": "6",
+    "name": "FELIX JOSEPH SAANG",
+    "party": "PERTUBUHAN KINABALU PROGRESIF BERSATU (UPKO)",
+    "party_id": "14",
+    "logo_path": "PERTUBUHAN_KINABALU_PROGRESIF_BERSATU_UPKO.png"
+  },
+  {
+    "dun": "N.51 SUNGAI MANILA",
+    "constituency_id": "51",
+    "number": "7",
+    "name": "NILIS JOSEPH",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
+  },
+  {
+    "dun": "N.51 SUNGAI MANILA",
+    "constituency_id": "51",
+    "number": "8",
+    "name": "JIKMARIYA BINTI MURAN",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.51 SUNGAI MANILA",
+    "constituency_id": "51",
+    "number": "9",
+    "name": "BENEDICT ASMAT",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
+  },
+  {
+    "dun": "N.52 SUNGAI SIBUGA",
     "constituency_id": "52",
-    "candidate": "Datuk Amirshah Yaakub",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "ROSELY BIN LAJUN",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.52",
+    "dun": "N.52 SUNGAI SIBUGA",
     "constituency_id": "52",
-    "candidate": "Nurlalsah Hassan Alban",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "DR RONALD KIANDEE",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
   },
   {
-    "code": "N.52",
+    "dun": "N.52 SUNGAI SIBUGA",
     "constituency_id": "52",
-    "candidate": "Noraini binti Asmatil",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "ROGER BIN LANGGAU",
+    "party": "BEBAS (KUNCI)",
+    "party_id": "9",
+    "logo_path": "BEBAS_KUNCI.png"
   },
   {
-    "code": "N.53",
+    "dun": "N.52 SUNGAI SIBUGA",
+    "constituency_id": "52",
+    "number": "4",
+    "name": "ASPAH ABDULLAH SANI",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.52 SUNGAI SIBUGA",
+    "constituency_id": "52",
+    "number": "5",
+    "name": "HASSAN BIN MENTIAK",
+    "party": "PARTI PERPADUAN RAKYAT SABAH (PPRS)",
+    "party_id": "33",
+    "logo_path": "PARTI_PERPADUAN_RAKYAT_SABAH_PPRS.png"
+  },
+  {
+    "dun": "N.52 SUNGAI SIBUGA",
+    "constituency_id": "52",
+    "number": "6",
+    "name": "MOHAMMAD ARIFIN BIN PACHUK",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
+  },
+  {
+    "dun": "N.52 SUNGAI SIBUGA",
+    "constituency_id": "52",
+    "number": "7",
+    "name": "DATUK JAMES RATIB",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.53 SEKONG",
     "constituency_id": "53",
-    "candidate": "Puan Sri Diana Diego @ Yusrina Sufiana",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "YUNUS BIN NURDIN",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
   },
   {
-    "code": "N.53",
+    "dun": "N.53 SEKONG",
     "constituency_id": "53",
-    "candidate": "Alias Sani",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "ABDUL SAID PIMPING",
+    "party": "PAKATAN HARAPAN (PH)",
+    "party_id": "27",
+    "logo_path": "PAKATAN_HARAPAN_PH.png"
   },
   {
-    "code": "N.53",
+    "dun": "N.53 SEKONG",
     "constituency_id": "53",
-    "candidate": "Mohd Fazriee bin Awang",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "ASMAWI BIN ASA",
+    "party": "BEBAS (RUMAH)",
+    "party_id": "18",
+    "logo_path": "BEBAS_RUMAH.png"
   },
   {
-    "code": "N.54",
+    "dun": "N.53 SEKONG",
+    "constituency_id": "53",
+    "number": "4",
+    "name": "YUSUF YODA",
+    "party": "BEBAS (KUDA)",
+    "party_id": "29",
+    "logo_path": "BEBAS_KUDA.png"
+  },
+  {
+    "dun": "N.53 SEKONG",
+    "constituency_id": "53",
+    "number": "5",
+    "name": "ARUNARNSIN BIN TAIB",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.53 SEKONG",
+    "constituency_id": "53",
+    "number": "6",
+    "name": "ESNIN BIN SATUR",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.53 SEKONG",
+    "constituency_id": "53",
+    "number": "7",
+    "name": "FADLY VOON @ WEA",
+    "party": "BEBAS (KUNCI)",
+    "party_id": "9",
+    "logo_path": "BEBAS_KUNCI.png"
+  },
+  {
+    "dun": "N.53 SEKONG",
+    "constituency_id": "53",
+    "number": "8",
+    "name": "SALZO BIN ASA",
+    "party": "BEBAS (TRAKTOR)",
+    "party_id": "21",
+    "logo_path": "BEBAS_TRAKTOR.png"
+  },
+  {
+    "dun": "N.53 SEKONG",
+    "constituency_id": "53",
+    "number": "9",
+    "name": "DR. PETER JR NAINTIN",
+    "party": "PERTUBUHAN KINABALU PROGRESIF BERSATU (UPKO)",
+    "party_id": "14",
+    "logo_path": "PERTUBUHAN_KINABALU_PROGRESIF_BERSATU_UPKO.png"
+  },
+  {
+    "dun": "N.54 KARAMUNTING",
     "constituency_id": "54",
-    "candidate": "George Hiew",
-    "party": "Parti Keadilan Rakyat"
+    "number": "1",
+    "name": "IRIAN BIN NANANG",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.54",
+    "dun": "N.54 KARAMUNTING",
     "constituency_id": "54",
-    "candidate": "Wong Tshun Khee",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "SITTIINARA",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
   },
   {
-    "code": "N.55",
+    "dun": "N.54 KARAMUNTING",
+    "constituency_id": "54",
+    "number": "3",
+    "name": "YUSRI BIN ABU",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
+  },
+  {
+    "dun": "N.54 KARAMUNTING",
+    "constituency_id": "54",
+    "number": "4",
+    "name": "ZAINI BIN TIKSUN",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
+  },
+  {
+    "dun": "N.54 KARAMUNTING",
+    "constituency_id": "54",
+    "number": "5",
+    "name": "FAIZAL BIN WAHAB",
+    "party": "PARTI PERPADUAN RAKYAT SABAH (PPRS)",
+    "party_id": "33",
+    "logo_path": "PARTI_PERPADUAN_RAKYAT_SABAH_PPRS.png"
+  },
+  {
+    "dun": "N.54 KARAMUNTING",
+    "constituency_id": "54",
+    "number": "6",
+    "name": "HAZEM MUBARAK MUSA",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.55 ELOPURA",
     "constituency_id": "55",
-    "candidate": "Vivian Wong Shir Yee",
-    "party": "Democratic Action Party"
+    "number": "1",
+    "name": "IRIAN BIN NANANG",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.55",
+    "dun": "N.55 ELOPURA",
     "constituency_id": "55",
-    "candidate": "Chong Ket Kiun",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "SITTIINARA",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
   },
   {
-    "code": "N.55",
+    "dun": "N.55 ELOPURA",
     "constituency_id": "55",
-    "candidate": "Mohd Firdaus @ Silvester bin Abdullah",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "YUSRI BIN ABU",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
   },
   {
-    "code": "N.56",
+    "dun": "N.55 ELOPURA",
+    "constituency_id": "55",
+    "number": "4",
+    "name": "ZAINI BIN TIKSUN",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
+  },
+  {
+    "dun": "N.55 ELOPURA",
+    "constituency_id": "55",
+    "number": "5",
+    "name": "FAIZAL BIN WAHAB",
+    "party": "PARTI PERPADUAN RAKYAT SABAH (PPRS)",
+    "party_id": "33",
+    "logo_path": "PARTI_PERPADUAN_RAKYAT_SABAH_PPRS.png"
+  },
+  {
+    "dun": "N.55 ELOPURA",
+    "constituency_id": "55",
+    "number": "6",
+    "name": "HAZEM MUBARAK MUSA",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.56 TANJONG PAPAT",
     "constituency_id": "56",
-    "candidate": "Tang Szu Ching",
-    "party": "Democratic Action Party"
+    "number": "1",
+    "name": "ISMAIL MD SAID",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.56",
+    "dun": "N.56 TANJONG PAPAT",
     "constituency_id": "56",
-    "candidate": "Thien Ching Qiang",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "LISA HASSAN ALBAN",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
   },
   {
-    "code": "N.56",
+    "dun": "N.56 TANJONG PAPAT",
     "constituency_id": "56",
-    "candidate": "Koa Wei Yang",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "NORANI BINTI ASMATIL",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
   },
   {
-    "code": "N.57",
+    "dun": "N.56 TANJONG PAPAT",
+    "constituency_id": "56",
+    "number": "4",
+    "name": "DATUK AMIR @ AMIR SHAH BIN YAAKUB",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.56 TANJONG PAPAT",
+    "constituency_id": "56",
+    "number": "5",
+    "name": "SUHAIMI BIN NASIR",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
+  },
+  {
+    "dun": "N.57 KUAMUT",
     "constituency_id": "57",
-    "candidate": "Datuk Masiung Banah",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "MOHD YUNUS BIN APIL",
+    "party": "PERJUANGAN RAKYAT (PR)",
+    "party_id": "32",
+    "logo_path": "PERJUANGAN_RAKYAT_PR.png"
   },
   {
-    "code": "N.57",
+    "dun": "N.57 KUAMUT",
     "constituency_id": "57",
-    "candidate": "Norfaizah Chua @ Giak Kiang",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "TANG SZU CHING",
+    "party": "PAKATAN HARAPAN (PH)",
+    "party_id": "27",
+    "logo_path": "PAKATAN_HARAPAN_PH.png"
   },
   {
-    "code": "N.58",
+    "dun": "N.57 KUAMUT",
+    "constituency_id": "57",
+    "number": "3",
+    "name": "SOHAIMI BIN RAMLI",
+    "party": "PARTI KEBANGSAAN SABAH (PKS)",
+    "party_id": "10",
+    "logo_path": "PARTI_KEBANGSAAN_SABAH_PKS.png"
+  },
+  {
+    "dun": "N.57 KUAMUT",
+    "constituency_id": "57",
+    "number": "4",
+    "name": "FRANKIE POON MING FUNG",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
+  },
+  {
+    "dun": "N.57 KUAMUT",
+    "constituency_id": "57",
+    "number": "5",
+    "name": "JAINUDIN BIN BERAHIM",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.57 KUAMUT",
+    "constituency_id": "57",
+    "number": "6",
+    "name": "HENLEY LIEW YUN YE",
+    "party": "PARTI MAJU SABAH (SAPP)",
+    "party_id": "28",
+    "logo_path": "PARTI_MAJU_SABAH_SAPP.png"
+  },
+  {
+    "dun": "N.57 KUAMUT",
+    "constituency_id": "57",
+    "number": "7",
+    "name": "ELVIS KOA WEI YANG",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
+  },
+  {
+    "dun": "N.57 KUAMUT",
+    "constituency_id": "57",
+    "number": "8",
+    "name": "ALEX THIEN",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.58 LAMAG",
     "constituency_id": "58",
-    "candidate": "Johainizamshah Johari",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "MOHD YUNUS BIN APIL",
+    "party": "PERJUANGAN RAKYAT (PR)",
+    "party_id": "32",
+    "logo_path": "PERJUANGAN_RAKYAT_PR.png"
   },
   {
-    "code": "N.58",
+    "dun": "N.58 LAMAG",
     "constituency_id": "58",
-    "candidate": "Mohd Saifulah Lokman",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "TANG SZU CHING",
+    "party": "PAKATAN HARAPAN (PH)",
+    "party_id": "27",
+    "logo_path": "PAKATAN_HARAPAN_PH.png"
   },
   {
-    "code": "N.58",
+    "dun": "N.58 LAMAG",
     "constituency_id": "58",
-    "candidate": "Haji Mazlin bin Madali",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "SOHAIMI BIN RAMLI",
+    "party": "PARTI KEBANGSAAN SABAH (PKS)",
+    "party_id": "10",
+    "logo_path": "PARTI_KEBANGSAAN_SABAH_PKS.png"
   },
   {
-    "code": "N.59",
+    "dun": "N.58 LAMAG",
+    "constituency_id": "58",
+    "number": "4",
+    "name": "FRANKIE POON MING FUNG",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
+  },
+  {
+    "dun": "N.58 LAMAG",
+    "constituency_id": "58",
+    "number": "5",
+    "name": "JAINUDIN BIN BERAHIM",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.58 LAMAG",
+    "constituency_id": "58",
+    "number": "6",
+    "name": "HENLEY LIEW YUN YE",
+    "party": "PARTI MAJU SABAH (SAPP)",
+    "party_id": "28",
+    "logo_path": "PARTI_MAJU_SABAH_SAPP.png"
+  },
+  {
+    "dun": "N.58 LAMAG",
+    "constituency_id": "58",
+    "number": "7",
+    "name": "ELVIS KOA WEI YANG",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
+  },
+  {
+    "dun": "N.58 LAMAG",
+    "constituency_id": "58",
+    "number": "8",
+    "name": "ALEX THIEN",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.59 SUKAU",
     "constituency_id": "59",
-    "candidate": "Datuk Juhari Janan",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "MOHD YUNUS BIN APIL",
+    "party": "PERJUANGAN RAKYAT (PR)",
+    "party_id": "32",
+    "logo_path": "PERJUANGAN_RAKYAT_PR.png"
   },
   {
-    "code": "N.59",
+    "dun": "N.59 SUKAU",
     "constituency_id": "59",
-    "candidate": "Azahari Rangon",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "TANG SZU CHING",
+    "party": "PAKATAN HARAPAN (PH)",
+    "party_id": "27",
+    "logo_path": "PAKATAN_HARAPAN_PH.png"
   },
   {
-    "code": "N.59",
+    "dun": "N.59 SUKAU",
     "constituency_id": "59",
-    "candidate": "Tuan Pengiran Petra bin Pengiran Asri",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "SOHAIMI BIN RAMLI",
+    "party": "PARTI KEBANGSAAN SABAH (PKS)",
+    "party_id": "10",
+    "logo_path": "PARTI_KEBANGSAAN_SABAH_PKS.png"
   },
   {
-    "code": "N.60",
+    "dun": "N.59 SUKAU",
+    "constituency_id": "59",
+    "number": "4",
+    "name": "FRANKIE POON MING FUNG",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
+  },
+  {
+    "dun": "N.59 SUKAU",
+    "constituency_id": "59",
+    "number": "5",
+    "name": "JAINUDIN BIN BERAHIM",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.59 SUKAU",
+    "constituency_id": "59",
+    "number": "6",
+    "name": "HENLEY LIEW YUN YE",
+    "party": "PARTI MAJU SABAH (SAPP)",
+    "party_id": "28",
+    "logo_path": "PARTI_MAJU_SABAH_SAPP.png"
+  },
+  {
+    "dun": "N.59 SUKAU",
+    "constituency_id": "59",
+    "number": "7",
+    "name": "ELVIS KOA WEI YANG",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
+  },
+  {
+    "dun": "N.59 SUKAU",
+    "constituency_id": "59",
+    "number": "8",
+    "name": "ALEX THIEN",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.60 TUNGKU",
     "constituency_id": "60",
-    "candidate": "Datuk Abdul Hakim Gulam Hassan",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "MOHINA BINTI SIDOM",
+    "party": "PERTUBUHAN KINABALU PROGRESIF BERSATU (UPKO)",
+    "party_id": "14",
+    "logo_path": "PERTUBUHAN_KINABALU_PROGRESIF_BERSATU_UPKO.png"
   },
   {
-    "code": "N.60",
+    "dun": "N.60 TUNGKU",
     "constituency_id": "60",
-    "candidate": "Assaffal @ Samsul Kamal P Alian",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "TED KELVIN SUDIN",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.61",
+    "dun": "N.60 TUNGKU",
+    "constituency_id": "60",
+    "number": "3",
+    "name": "MASIUNG BANAH",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.60 TUNGKU",
+    "constituency_id": "60",
+    "number": "4",
+    "name": "JOHN BIN SUNGKIANG",
+    "party": "PARTI PERPADUAN RAKYAT SABAH (PPRS)",
+    "party_id": "33",
+    "logo_path": "PARTI_PERPADUAN_RAKYAT_SABAH_PPRS.png"
+  },
+  {
+    "dun": "N.60 TUNGKU",
+    "constituency_id": "60",
+    "number": "5",
+    "name": "NORFAIZAH CHUA @ GIAK KIANG",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.60 TUNGKU",
+    "constituency_id": "60",
+    "number": "6",
+    "name": "DUIN BIN BINTARANG",
+    "party": "BEBAS (KUNCI)",
+    "party_id": "9",
+    "logo_path": "BEBAS_KUNCI.png"
+  },
+  {
+    "dun": "N.60 TUNGKU",
+    "constituency_id": "60",
+    "number": "7",
+    "name": "ABU BAKAR BIN ELLAH",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
+  },
+  {
+    "dun": "N.60 TUNGKU",
+    "constituency_id": "60",
+    "number": "8",
+    "name": "JEVRONNIE MANDEK",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.61 SEGAMA",
     "constituency_id": "61",
-    "candidate": "Romansa Lamin",
-    "party": "Parti Keadilan Rakyat"
+    "number": "1",
+    "name": "BUNG MOKTAR RADIN",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
   },
   {
-    "code": "N.61",
+    "dun": "N.61 SEGAMA",
     "constituency_id": "61",
-    "candidate": "Muhammad Abdul Karim",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "JOHAINIZAMSHAH BIN JOHARI",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
   },
   {
-    "code": "N.62",
+    "dun": "N.61 SEGAMA",
+    "constituency_id": "61",
+    "number": "3",
+    "name": "SALAHUDDIN @ SALEHUDDIN BIN ANOI",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.61 SEGAMA",
+    "constituency_id": "61",
+    "number": "4",
+    "name": "SAIFULAH LOKMAN",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.61 SEGAMA",
+    "constituency_id": "61",
+    "number": "5",
+    "name": "MIHA",
+    "party": "BEBAS (KUNCI)",
+    "party_id": "9",
+    "logo_path": "BEBAS_KUNCI.png"
+  },
+  {
+    "dun": "N.61 SEGAMA",
+    "constituency_id": "61",
+    "number": "6",
+    "name": "MAZLIN BIN MADALI",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
+  },
+  {
+    "dun": "N.62 SILAM",
     "constituency_id": "62",
-    "candidate": "Datuk Mizma Apehdullah",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "JAFRY BIN ARIFFIN",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
   },
   {
-    "code": "N.62",
+    "dun": "N.62 SILAM",
     "constituency_id": "62",
-    "candidate": "Datuk Mohammad Yusof Apdal",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "AFIQ ANWARI",
+    "party": "PARTI KEBANGSAAN SABAH (PKS)",
+    "party_id": "10",
+    "logo_path": "PARTI_KEBANGSAAN_SABAH_PKS.png"
   },
   {
-    "code": "N.62",
+    "dun": "N.62 SILAM",
     "constituency_id": "62",
-    "candidate": "Hajah Borkes @ Balkis binti Haji Kalinggalan",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "ROSLAN BIN MADALI",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.63",
+    "dun": "N.62 SILAM",
+    "constituency_id": "62",
+    "number": "4",
+    "name": "AZAHARI BIN RANGON",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.62 SILAM",
+    "constituency_id": "62",
+    "number": "5",
+    "name": "NORDIN BIN DAMIT",
+    "party": "PERJUANGAN RAKYAT (PR)",
+    "party_id": "32",
+    "logo_path": "PERJUANGAN_RAKYAT_PR.png"
+  },
+  {
+    "dun": "N.62 SILAM",
+    "constituency_id": "62",
+    "number": "6",
+    "name": "JUHARI JANAN",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.62 SILAM",
+    "constituency_id": "62",
+    "number": "7",
+    "name": "PENGIRAN PETRA BIN PENGIRAN ASRI",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
+  },
+  {
+    "dun": "N.63 KUNAK",
     "constituency_id": "63",
-    "candidate": "Datuk Norazlinah Arif",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "SALEHA ABDUL WAHID",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
   },
   {
-    "code": "N.63",
+    "dun": "N.63 KUNAK",
     "constituency_id": "63",
-    "candidate": "Datuk Jasa @ Ismail bin Raudah",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "SULING BIN ISIB",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
   },
   {
-    "code": "N.63",
+    "dun": "N.63 KUNAK",
     "constituency_id": "63",
-    "candidate": "Kasman bin Karate",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "ASSAFFAL P. ALIAN",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
   },
   {
-    "code": "N.64",
+    "dun": "N.63 KUNAK",
+    "constituency_id": "63",
+    "number": "4",
+    "name": "JANI BIN KULMEN",
+    "party": "PARTI KEBANGSAAN SABAH (PKS)",
+    "party_id": "10",
+    "logo_path": "PARTI_KEBANGSAAN_SABAH_PKS.png"
+  },
+  {
+    "dun": "N.63 KUNAK",
+    "constituency_id": "63",
+    "number": "5",
+    "name": "JAKARIA BIN NASIRAN",
+    "party": "PARTI PERPADUAN RAKYAT SABAH (PPRS)",
+    "party_id": "33",
+    "logo_path": "PARTI_PERPADUAN_RAKYAT_SABAH_PPRS.png"
+  },
+  {
+    "dun": "N.63 KUNAK",
+    "constituency_id": "63",
+    "number": "6",
+    "name": "HAIRUNNIZAM BIN KAMSIN",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.63 KUNAK",
+    "constituency_id": "63",
+    "number": "7",
+    "name": "DATUK HJ ABDUL HAKIM BIN HJ GULAM HASSAN @ HJ MUDA",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.64 SULABAYAN",
     "constituency_id": "64",
-    "candidate": "Datuk Dr. Jaujan Sambakong",
-    "party": "Parti Warisan"
+    "number": "1",
+    "name": "DATUK MOHAMADDIN BIN KETAPI",
+    "party": "BEBAS (PEN)",
+    "party_id": "15",
+    "logo_path": "BEBAS_PEN.png"
   },
   {
-    "code": "N.64",
+    "dun": "N.64 SULABAYAN",
     "constituency_id": "64",
-    "candidate": "Abdul Malik bin Haji Abd Bool",
-    "party": "Parti Perikatan Nasional"
+    "number": "2",
+    "name": "MUHAMMAD BIN ABDUL KARIM",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
   },
   {
-    "code": "N.65",
+    "dun": "N.64 SULABAYAN",
+    "constituency_id": "64",
+    "number": "3",
+    "name": "ALIF AFIANDY BIN ALI",
+    "party": "BEBAS (KUNCI)",
+    "party_id": "9",
+    "logo_path": "BEBAS_KUNCI.png"
+  },
+  {
+    "dun": "N.64 SULABAYAN",
+    "constituency_id": "64",
+    "number": "4",
+    "name": "EHTISHAM UR RAHMAN BIN MHAULAHA",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.64 SULABAYAN",
+    "constituency_id": "64",
+    "number": "5",
+    "name": "NORMAN BIN KASIMIN",
+    "party": "BEBAS (GAJAH)",
+    "party_id": "17",
+    "logo_path": "BEBAS_GAJAH.png"
+  },
+  {
+    "dun": "N.64 SULABAYAN",
+    "constituency_id": "64",
+    "number": "6",
+    "name": "ROMANSA LAMIN",
+    "party": "PAKATAN HARAPAN (PH)",
+    "party_id": "27",
+    "logo_path": "PAKATAN_HARAPAN_PH.png"
+  },
+  {
+    "dun": "N.64 SULABAYAN",
+    "constituency_id": "64",
+    "number": "7",
+    "name": "YVONNE YONG YIT PHUNG",
+    "party": "PARTI MAJU SABAH (SAPP)",
+    "party_id": "28",
+    "logo_path": "PARTI_MAJU_SABAH_SAPP.png"
+  },
+  {
+    "dun": "N.65 SENALLANG",
     "constituency_id": "65",
-    "candidate": "Datuk Marunda KK. Ampong",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "NORAZLINAH ARIF",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
   },
   {
-    "code": "N.65",
+    "dun": "N.65 SENALLANG",
     "constituency_id": "65",
-    "candidate": "Datuk Seri Mohd Shafie Apdal",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "KASMAN KARATE",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
   },
   {
-    "code": "N.66",
+    "dun": "N.65 SENALLANG",
+    "constituency_id": "65",
+    "number": "3",
+    "name": "ROSELIH BIN LUMAYAN",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.65 SENALLANG",
+    "constituency_id": "65",
+    "number": "4",
+    "name": "ISMU ISYAM BIN ARSAD",
+    "party": "PARTI PERPADUAN RAKYAT SABAH (PPRS)",
+    "party_id": "33",
+    "logo_path": "PARTI_PERPADUAN_RAKYAT_SABAH_PPRS.png"
+  },
+  {
+    "dun": "N.65 SENALLANG",
+    "constituency_id": "65",
+    "number": "5",
+    "name": "ANIL SANDHU",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
+  },
+  {
+    "dun": "N.65 SENALLANG",
+    "constituency_id": "65",
+    "number": "6",
+    "name": "JASA @ ISMAIL BIN RAUDDAH",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.66 BUGAYA",
     "constituency_id": "66",
-    "candidate": "Noordin Abdul Hussin",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "SUMINI BINTI YASINTUS",
+    "party": "PARTI PERPADUAN RAKYAT SABAH (PPRS)",
+    "party_id": "33",
+    "logo_path": "PARTI_PERPADUAN_RAKYAT_SABAH_PPRS.png"
   },
   {
-    "code": "N.66",
+    "dun": "N.66 BUGAYA",
     "constituency_id": "66",
-    "candidate": "Jamil Hamzah",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "MAT ROYA BIN JAAFAR",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.66",
+    "dun": "N.66 BUGAYA",
     "constituency_id": "66",
-    "candidate": "Jamil bin Abdul Gapar",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "DATUK HAJI ABDILLAH HAJI ABDUL HAMID",
+    "party": "BEBAS (MANGGIS)",
+    "party_id": "6",
+    "logo_path": "BEBAS_MANGGIS.png"
   },
   {
-    "code": "N.67",
+    "dun": "N.66 BUGAYA",
+    "constituency_id": "66",
+    "number": "4",
+    "name": "UST ZULFIKAR AB MIJAN",
+    "party": "PAKATAN HARAPAN (PH)",
+    "party_id": "27",
+    "logo_path": "PAKATAN_HARAPAN_PH.png"
+  },
+  {
+    "dun": "N.66 BUGAYA",
+    "constituency_id": "66",
+    "number": "5",
+    "name": "JAUJAN BIN SAMBAKONG",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.66 BUGAYA",
+    "constituency_id": "66",
+    "number": "6",
+    "name": "BIDIN BIN JAWA",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.66 BUGAYA",
+    "constituency_id": "66",
+    "number": "7",
+    "name": "HASAMAN BIN SAGARAN",
+    "party": "PARTI KERJASAMA ANAK NEGERI (ANAK NEGERI)",
+    "party_id": "3",
+    "logo_path": "PARTI_KERJASAMA_ANAK_NEGERI_ANAK_NEGERI.png"
+  },
+  {
+    "dun": "N.66 BUGAYA",
+    "constituency_id": "66",
+    "number": "8",
+    "name": "ABD MALIK BIN ABD BOOL",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
+  },
+  {
+    "dun": "N.67 BALUNG",
     "constituency_id": "67",
-    "candidate": "Syed Ahmad Syed Abas",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "SUMINI BINTI YASINTUS",
+    "party": "PARTI PERPADUAN RAKYAT SABAH (PPRS)",
+    "party_id": "33",
+    "logo_path": "PARTI_PERPADUAN_RAKYAT_SABAH_PPRS.png"
   },
   {
-    "code": "N.67",
+    "dun": "N.67 BALUNG",
     "constituency_id": "67",
-    "candidate": "Frank Salazar @ Franco",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "MAT ROYA BIN JAAFAR",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.67",
+    "dun": "N.67 BALUNG",
     "constituency_id": "67",
-    "candidate": "Dr. Munzier bin Mahamud",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "DATUK HAJI ABDILLAH HAJI ABDUL HAMID",
+    "party": "BEBAS (MANGGIS)",
+    "party_id": "6",
+    "logo_path": "BEBAS_MANGGIS.png"
   },
   {
-    "code": "N.68",
+    "dun": "N.67 BALUNG",
+    "constituency_id": "67",
+    "number": "4",
+    "name": "UST ZULFIKAR AB MIJAN",
+    "party": "PAKATAN HARAPAN (PH)",
+    "party_id": "27",
+    "logo_path": "PAKATAN_HARAPAN_PH.png"
+  },
+  {
+    "dun": "N.67 BALUNG",
+    "constituency_id": "67",
+    "number": "5",
+    "name": "JAUJAN BIN SAMBAKONG",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.67 BALUNG",
+    "constituency_id": "67",
+    "number": "6",
+    "name": "BIDIN BIN JAWA",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.67 BALUNG",
+    "constituency_id": "67",
+    "number": "7",
+    "name": "HASAMAN BIN SAGARAN",
+    "party": "PARTI KERJASAMA ANAK NEGERI (ANAK NEGERI)",
+    "party_id": "3",
+    "logo_path": "PARTI_KERJASAMA_ANAK_NEGERI_ANAK_NEGERI.png"
+  },
+  {
+    "dun": "N.67 BALUNG",
+    "constituency_id": "67",
+    "number": "8",
+    "name": "ABD MALIK BIN ABD BOOL",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
+  },
+  {
+    "dun": "N.68 APAS",
     "constituency_id": "68",
-    "candidate": "Datuk Nizam Abu Bakar Titingan",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "MOHD LIPAI @ SAMSU BIN SUNDALU",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.68",
+    "dun": "N.68 APAS",
     "constituency_id": "68",
-    "candidate": "Sarman Amat Simito",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "MOHD SHAFIE BIN APDAL",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
   },
   {
-    "code": "N.68",
+    "dun": "N.68 APAS",
     "constituency_id": "68",
-    "candidate": "Lim Ting Khai",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "MARUNDA BIN K.K AMPONG",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
   },
   {
-    "code": "N.69",
+    "dun": "N.68 APAS",
+    "constituency_id": "68",
+    "number": "4",
+    "name": "ABDUL MAJID BIN ANGKULAN",
+    "party": "PARTI BERSATU SASA MALAYSIA (BERSAMA)",
+    "party_id": "36",
+    "logo_path": "PARTI_BERSATU_SASA_MALAYSIA_BERSAMA.png"
+  },
+  {
+    "dun": "N.69 SRI TANJONG",
     "constituency_id": "69",
-    "candidate": "Philip Yap",
-    "party": "Democratic Action Party"
+    "number": "1",
+    "name": "JAMIL BIN HAMZAH",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
   },
   {
-    "code": "N.69",
+    "dun": "N.69 SRI TANJONG",
     "constituency_id": "69",
-    "candidate": "Justin Wong Yung Bin",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "NOORUDIN BIN ABD HUSSIN",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
   },
   {
-    "code": "N.70",
+    "dun": "N.69 SRI TANJONG",
+    "constituency_id": "69",
+    "number": "3",
+    "name": "MAULANA BIN UNDING",
+    "party": "PARTI ASPIRASI RAKYAT SARAWAK (ASPIRASI)",
+    "party_id": "31",
+    "logo_path": "PARTI_ASPIRASI_RAKYAT_SARAWAK_ASPIRASI.png"
+  },
+  {
+    "dun": "N.69 SRI TANJONG",
+    "constituency_id": "69",
+    "number": "4",
+    "name": "ROSLAN BIN ALI",
+    "party": "PERJUANGAN RAKYAT (PR)",
+    "party_id": "32",
+    "logo_path": "PERJUANGAN_RAKYAT_PR.png"
+  },
+  {
+    "dun": "N.69 SRI TANJONG",
+    "constituency_id": "69",
+    "number": "5",
+    "name": "MOHD TAHA BIN MOHD DARA",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.69 SRI TANJONG",
+    "constituency_id": "69",
+    "number": "6",
+    "name": "ARMAN BIN MARASAL",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.69 SRI TANJONG",
+    "constituency_id": "69",
+    "number": "7",
+    "name": "SUFFIAN BIN AHMAD",
+    "party": "PARTI RUMPUN SABAH (RUMPUN)",
+    "party_id": "23",
+    "logo_path": "PARTI_RUMPUN_SABAH_RUMPUN.png"
+  },
+  {
+    "dun": "N.69 SRI TANJONG",
+    "constituency_id": "69",
+    "number": "8",
+    "name": "JAMIL BIN ABDUL GAPAR",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
+  },
+  {
+    "dun": "N.69 SRI TANJONG",
+    "constituency_id": "69",
+    "number": "9",
+    "name": "ABDUL MANAN INDANAN",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
+  },
+  {
+    "dun": "N.70 KUKUSAN",
     "constituency_id": "70",
-    "candidate": "belum umum",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "SYED AHMAD SYED ABAS",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
   },
   {
-    "code": "N.70",
+    "dun": "N.70 KUKUSAN",
     "constituency_id": "70",
-    "candidate": "Mamun Sulaiman",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "NORAZIZAH",
+    "party": "PARTI RUMPUN SABAH (RUMPUN)",
+    "party_id": "23",
+    "logo_path": "PARTI_RUMPUN_SABAH_RUMPUN.png"
   },
   {
-    "code": "N.70",
+    "dun": "N.70 KUKUSAN",
     "constituency_id": "70",
-    "candidate": "Francis bin Lawrence @ Yusop",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "CHEE KHENG MOI",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
   },
   {
-    "code": "N.71",
+    "dun": "N.70 KUKUSAN",
+    "constituency_id": "70",
+    "number": "4",
+    "name": "ROSDIANSA BIN MOHD NOOR",
+    "party": "PARTI PERPADUAN RAKYAT SABAH (PPRS)",
+    "party_id": "33",
+    "logo_path": "PARTI_PERPADUAN_RAKYAT_SABAH_PPRS.png"
+  },
+  {
+    "dun": "N.70 KUKUSAN",
+    "constituency_id": "70",
+    "number": "5",
+    "name": "AHMAD BIN AWANG",
+    "party": "PARTI BUMI KENYALANG (PBK)",
+    "party_id": "7",
+    "logo_path": "PARTI_BUMI_KENYALANG_PBK.png"
+  },
+  {
+    "dun": "N.70 KUKUSAN",
+    "constituency_id": "70",
+    "number": "6",
+    "name": "AHMAD FRANK SALAZAR",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.70 KUKUSAN",
+    "constituency_id": "70",
+    "number": "7",
+    "name": "HARTONO BIN MUHAMAD JUNO",
+    "party": "BEBAS (KUNCI)",
+    "party_id": "9",
+    "logo_path": "BEBAS_KUNCI.png"
+  },
+  {
+    "dun": "N.70 KUKUSAN",
+    "constituency_id": "70",
+    "number": "8",
+    "name": "ERWAN BIN PALETTE",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
+  },
+  {
+    "dun": "N.70 KUKUSAN",
+    "constituency_id": "70",
+    "number": "9",
+    "name": "SHAFIE BIN HASSAN",
+    "party": "BEBAS (BUKU)",
+    "party_id": "16",
+    "logo_path": "BEBAS_BUKU.png"
+  },
+  {
+    "dun": "N.70 KUKUSAN",
+    "constituency_id": "70",
+    "number": "10",
+    "name": "DR MUNZIER MAHAMUD",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
+  },
+  {
+    "dun": "N.70 KUKUSAN",
+    "constituency_id": "70",
+    "number": "11",
+    "name": "DATU UGIS BIN DATU PULA",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.71 TANJUNG BATU",
     "constituency_id": "71",
-    "candidate": "Dr Andi Md Shamsureezal",
-    "party": "Gabungan Rakyat Sabah"
+    "number": "1",
+    "name": "SARMAN BIN AMAT SIMITO",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
   },
   {
-    "code": "N.71",
+    "dun": "N.71 TANJUNG BATU",
     "constituency_id": "71",
-    "candidate": "Ayuf Abdul Rahman",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "MARSIAH BINTI OMAT",
+    "party": "PARTI PERPADUAN RAKYAT SABAH (PPRS)",
+    "party_id": "33",
+    "logo_path": "PARTI_PERPADUAN_RAKYAT_SABAH_PPRS.png"
   },
   {
-    "code": "N.71",
+    "dun": "N.71 TANJUNG BATU",
     "constituency_id": "71",
-    "candidate": "Ahmad bin Dullah",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "HERMAN BIN AMDAS",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
   },
   {
-    "code": "N.72",
+    "dun": "N.71 TANJUNG BATU",
+    "constituency_id": "71",
+    "number": "4",
+    "name": "DATUK HAJI NIZAM DSP HAJI ABU BAKAR TITINGAN",
+    "party": "PARTI GABUNGAN RAKYAT SABAH (GRS)",
+    "party_id": "11",
+    "logo_path": "PARTI_GABUNGAN_RAKYAT_SABAH_GRS.png"
+  },
+  {
+    "dun": "N.71 TANJUNG BATU",
+    "constituency_id": "71",
+    "number": "5",
+    "name": "DR ELMIARIEZAN",
+    "party": "BARISAN NASIONAL OF MALAYSIA (BN)",
+    "party_id": "4",
+    "logo_path": "BARISAN_NASIONAL_OF_MALAYSIA_BN.png"
+  },
+  {
+    "dun": "N.71 TANJUNG BATU",
+    "constituency_id": "71",
+    "number": "6",
+    "name": "LIM TING KHAI",
+    "party": "PERIKATAN NASIONAL (PN)",
+    "party_id": "1",
+    "logo_path": "PERIKATAN_NASIONAL_PN.png"
+  },
+  {
+    "dun": "N.72 MEROTAI",
     "constituency_id": "72",
-    "candidate": "Ruji Bin Ubi",
-    "party": "Parti Keadilan Rakyat"
+    "number": "1",
+    "name": "WONG SU VUI",
+    "party": "BEBAS (GAJAH)",
+    "party_id": "17",
+    "logo_path": "BEBAS_GAJAH.png"
   },
   {
-    "code": "N.72",
+    "dun": "N.72 MEROTAI",
     "constituency_id": "72",
-    "candidate": "Sarifuddin Hata",
-    "party": "Parti Warisan"
+    "number": "2",
+    "name": "PHILIP YAP",
+    "party": "PAKATAN HARAPAN (PH)",
+    "party_id": "27",
+    "logo_path": "PAKATAN_HARAPAN_PH.png"
   },
   {
-    "code": "N.72",
+    "dun": "N.72 MEROTAI",
     "constituency_id": "72",
-    "candidate": "Hasan bin Haris",
-    "party": "Parti Perikatan Nasional"
+    "number": "3",
+    "name": "DATUK FUNG LEN FUI",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
   },
   {
-    "code": "N.73",
+    "dun": "N.72 MEROTAI",
+    "constituency_id": "72",
+    "number": "4",
+    "name": "JOSEPH MOSUSAH",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.72 MEROTAI",
+    "constituency_id": "72",
+    "number": "5",
+    "name": "RICKY HONG CHEE KIONG",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
+  },
+  {
+    "dun": "N.72 MEROTAI",
+    "constituency_id": "72",
+    "number": "6",
+    "name": "JUSTIN WONG YUNG BIN",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
+  },
+  {
+    "dun": "N.73 SEBATIK",
     "constituency_id": "73",
-    "candidate": "Manahing Tinggilani @ Tanggilani",
-    "party": "Parti Warisan"
+    "number": "1",
+    "name": "WONG SU VUI",
+    "party": "BEBAS (GAJAH)",
+    "party_id": "17",
+    "logo_path": "BEBAS_GAJAH.png"
   },
   {
-    "code": "N.73",
+    "dun": "N.73 SEBATIK",
     "constituency_id": "73",
-    "candidate": "Suhurani bin Haji Sammani",
-    "party": "Parti Perikatan Nasional"
+    "number": "2",
+    "name": "PHILIP YAP",
+    "party": "PAKATAN HARAPAN (PH)",
+    "party_id": "27",
+    "logo_path": "PAKATAN_HARAPAN_PH.png"
+  },
+  {
+    "dun": "N.73 SEBATIK",
+    "constituency_id": "73",
+    "number": "3",
+    "name": "DATUK FUNG LEN FUI",
+    "party": "PARTI SOLIDARITI TANAH AIRKU (STARSABAH)",
+    "party_id": "8",
+    "logo_path": "PARTI_SOLIDARITI_TANAH_AIRKU_STARSABAH.png"
+  },
+  {
+    "dun": "N.73 SEBATIK",
+    "constituency_id": "73",
+    "number": "4",
+    "name": "JOSEPH MOSUSAH",
+    "party": "PARTI IMPIAN SABAH (PIS)",
+    "party_id": "2",
+    "logo_path": "PARTI_IMPIAN_SABAH_PIS.png"
+  },
+  {
+    "dun": "N.73 SEBATIK",
+    "constituency_id": "73",
+    "number": "5",
+    "name": "RICKY HONG CHEE KIONG",
+    "party": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM)",
+    "party_id": "13",
+    "logo_path": "PARTI_KESEJAHTERAAN_DEMOKRATIK_MASYARAKAT_KDM.png"
+  },
+  {
+    "dun": "N.73 SEBATIK",
+    "constituency_id": "73",
+    "number": "6",
+    "name": "JUSTIN WONG YUNG BIN",
+    "party": "PARTI WARISAN SABAH (WARISAN)",
+    "party_id": "5",
+    "logo_path": "PARTI_WARISAN_SABAH_WARISAN.png"
   }
 ]
