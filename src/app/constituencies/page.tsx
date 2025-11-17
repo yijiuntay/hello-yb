@@ -1,7 +1,8 @@
 import Header from "../components/Header";
 import Footer from "../components/Footer";
-import sabahElectionData from "./data";
 import ConstituencyBrowser from "./components/ConstituencyBrowser";
+import { getConstituencies, getCandidates } from "@/lib/data";
+import { Constituency, Candidate } from "@/types";
 
 export const metadata = {
   title: "All Constituencies",
@@ -40,8 +41,29 @@ const GlobalStyles = () => (
   `}</style>
 );
 
-// Main Page Component
-export default function ConstituenciesPage() {
+// Extend Constituency to include candidates
+type ConstituencyWithCandidates = Constituency & {
+  candidates: Candidate[];
+};
+
+export default async function ConstituenciesPage() {
+  // Fetch constituencies and candidates concurrently
+  const [constituencies, candidates] = await Promise.all([
+    getConstituencies(),
+    getCandidates(),
+  ]);
+
+  // Map candidates to their constituency
+  const mappedConstituencies: ConstituencyWithCandidates[] = constituencies.map(
+    (c: Constituency) => ({
+      ...c,
+      candidates: candidates.filter(
+        (candidate: Candidate) =>
+          candidate.constituency_id.toString() === c.id.toString()
+      ),
+    })
+  );
+
   return (
     <>
       <GlobalStyles />
@@ -59,11 +81,11 @@ export default function ConstituenciesPage() {
               className="text-xl text-white mb-10"
               style={{ textShadow: "2px 2px 0px #172554" }}
             >
-              Sabah State Election 2020 Challengers
+              Sabah State Election 2025 (SE-17) Challengers
             </p>
           </div>
 
-          <ConstituencyBrowser sabahElectionData={sabahElectionData} />
+          <ConstituencyBrowser constituencies={mappedConstituencies} />
         </main>
         <Footer />
       </div>

@@ -1,100 +1,27 @@
 "use client";
 
-import React, { useState } from "react";
-import type { Candidate, Constituency } from "../data";
+import React, { useState, memo } from "react";
+import type { Constituency, Candidate } from "@/types";
+import ConstituencyCard from "./ConstituencyCard";
+
+// Extend Constituency to include candidates
+type ConstituencyWithCandidates = Constituency & {
+  candidates: Candidate[];
+};
 
 interface Props {
-  sabahElectionData: Constituency[];
+  constituencies: ConstituencyWithCandidates[];
 }
 
-// Party colors for badges
-const partyColors: { [key: string]: string } = {
-  WARISAN: "bg-orange-500",
-  BN: "bg-blue-900",
-  PN: "bg-sky-600",
-  PBS: "bg-indigo-600",
-  LDP: "bg-yellow-600 text-blue-950",
-  PCS: "bg-red-700",
-  BEBAS: "bg-gray-500",
-  DEFAULT: "bg-gray-700",
-};
-
-// PartyBadge Component
-const PartyBadge: React.FC<{ party: string }> = ({ party }) => {
-  const colorClass = partyColors[party] || partyColors.DEFAULT;
-  return (
-    <span
-      className={`inline-block px-2 py-1 text-xs text-white border-2 border-blue-950 ${colorClass}`}
-    >
-      {party}
-    </span>
-  );
-};
-
-// CandidatePortrait Component
-const CandidatePortrait: React.FC<{ candidate: Candidate }> = ({
-  candidate,
-}) => {
-  return (
-    <div className="group bg-blue-800 p-1 border-4 border-blue-900 transition-transform duration-150 hover:-translate-y-1 hover:border-yellow-300">
-      <div className="flex justify-center items-center h-20 bg-blue-900 border-2 border-blue-950 mb-2 p-1">
-        <img
-          src={candidate.imageUrl}
-          alt={`${candidate.party} Logo`}
-          className="w-full h-full object-contain pixelated-image"
-          onError={(e) => {
-            const target = e.target as HTMLImageElement;
-            target.onerror = null;
-            target.src = "https://placehold.co/100x100/333333/000000?text=ERR";
-          }}
-        />
-      </div>
-      <div className="text-center">
-        <p className="text-xs font-bold text-yellow-300 min-h-[2.5rem] flex items-center justify-center leading-tight">
-          {candidate.name}
-        </p>
-        <PartyBadge party={candidate.party} />
-      </div>
-    </div>
-  );
-};
-
-// ## UPDATED: ConstituencyCard with rotation animation removed ##
-const ConstituencyCard: React.FC<{
-  code: string;
-  name: string;
-  candidates: Candidate[];
-}> = ({ code, name, candidates }) => {
-  return (
-    <div className="bg-blue-900 text-white border-4 border-blue-950 shadow-[8px_8px_0px_#172554] transition-all duration-200 ease-in-out hover:-translate-y-2 hover:shadow-[8px_8px_0px_#facc15]">
-      <div className="bg-blue-950 p-3 border-b-4 border-yellow-400">
-        <h3 className="text-md font-bold text-center text-yellow-300 truncate">
-          {`${code} ${name}`}
-        </h3>
-      </div>
-
-      <div className="p-4">
-        <div className="grid grid-cols-2 gap-2">
-          {candidates.map((candidate) => (
-            <CandidatePortrait key={candidate.name} candidate={candidate} />
-          ))}
-        </div>
-      </div>
-    </div>
-  );
-};
-
-export default function ConstituencyBrowser({ sabahElectionData }: Props) {
+export default function ConstituencyBrowser({ constituencies }: Props) {
   const [searchTerm, setSearchTerm] = useState("");
 
-  const filteredData = sabahElectionData.filter((constituency) => {
-    const searchTermLower = searchTerm.toLowerCase();
+  const filteredData = constituencies.filter((c) => {
+    const term = searchTerm.toLowerCase();
     return (
-      constituency.name.toLowerCase().includes(searchTermLower) ||
-      constituency.code.toLowerCase().includes(searchTermLower) ||
-      constituency.candidates.some((c) =>
-        c.name.toLowerCase().includes(searchTermLower)
-      )
+      c.name.toLowerCase().includes(term) ||
+      c.code.toLowerCase().includes(term) ||
+      c.candidates.some((cand) => cand.name.toLowerCase().includes(term))
     );
   });
 
@@ -111,7 +38,7 @@ export default function ConstituencyBrowser({ sabahElectionData }: Props) {
       </div>
 
       {filteredData.length > 0 ? (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 md:gap-12">
+        <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 gap-8 md:gap-12">
           {filteredData.map((constituency) => (
             <ConstituencyCard
               key={constituency.code}

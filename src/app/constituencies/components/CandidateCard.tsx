@@ -1,64 +1,43 @@
+import Image from "next/image";
 import { Candidate } from "@/types";
+import { imageMap } from "@/lib/imageMap";
 
-export default function CandidateCard({
-  candidate,
-}: // isSelected,
-// onToggleSelect,
-{
-  candidate: Candidate;
-  // isSelected?: boolean;
-  // onToggleSelect?: (id: string) => void;
-}) {
+export default function CandidateCard({ candidate }: { candidate: Candidate }) {
   return (
-    <div
-      className={`bg-white text-black p-4 md:p-6 border-4 border-black shadow-[6px_6px_0px_rgba(0,0,0,0.8)] transition-all`}
-    >
-      {/* Party Logo */}
-      {/* <div className="text-4xl md:text-5xl text-center mb-3">
-        {candidate.partyLogo}
+    <div className="bg-white text-black border-4 border-black shadow-[6px_6px_0px_rgba(0,0,0,0.8)] p-4 md:p-6 flex flex-col items-center transition-all hover:scale-105 max-w-xs mx-auto">
+      {/* Ballot Number */}
+      <div className="w-12 h-12 flex items-center justify-center bg-yellow-300 text-black font-bold text-xl md:text-2xl rounded-full mb-4 shadow-[2px_2px_0px_#000]">
+        {candidate.number}
+      </div>
+
+      {/* Candidate Image Placeholder (hidden for now) */}
+      {/* <div className="w-24 h-24 md:w-32 md:h-32 bg-gray-200 mb-4 flex items-center justify-center border-2 border-black">
+        <span className="text-xs text-gray-500">Photo</span>
       </div> */}
 
       {/* Candidate Name */}
-      <h4 className="text-base md:text-lg font-bold text-center mb-2 break-words">
-        {candidate.candidate}
+      <h4 className="text-lg md:text-xl font-bold text-center mb-3 break-words">
+        {candidate.name}
       </h4>
 
-      {/* Party Name */}
-      <p className="text-xs md:text-sm text-center mb-4 text-gray-700 break-words">
-        {candidate.party}
-      </p>
-
-      {/* Hidden details section */}
-      {/*
-      <div className="space-y-2 mb-4 text-xs md:text-sm">
-        <div className="flex justify-between border-b border-gray-300 pb-1">
-          <span className="font-bold">Age:</span>
-          <span>{candidate.age}</span>
-        </div>
-        <div className="flex justify-between border-b border-gray-300 pb-1">
-          <span className="font-bold">Job:</span>
-          <span className="text-right truncate ml-2">{candidate.occupation}</span>
-        </div>
-        <div className="border-b border-gray-300 pb-1">
-          <span className="font-bold block mb-1">Education:</span>
-          <span className="text-xs break-words">{candidate.education}</span>
-        </div>
-      </div>
-      */}
-
-      {/* Hidden compare button */}
-      {/*
-      <button
-        onClick={() => onToggleSelect?.(candidate.id)}
-        className={`w-full py-2 px-3 border-4 border-black text-xs md:text-sm font-bold transition-colors shadow-[4px_4px_0px_#000] ${
-          isSelected
-            ? "bg-yellow-300 text-black hover:bg-yellow-400"
-            : "bg-blue-500 text-white hover:bg-blue-600"
-        }`}
-      >
-        {isSelected ? "✓ Selected" : "Select to Compare"}
-      </button>
-      */}
+      {/* Party Logo + Name */}
+      {candidate.logo_path &&
+        imageMap[candidate.logo_path as keyof typeof imageMap] && (
+          <div className="flex flex-col items-center">
+            <div className="mb-1">
+              <Image
+                src={imageMap[candidate.logo_path as keyof typeof imageMap]}
+                alt={candidate.party}
+                width={60}
+                height={60}
+                className="object-contain"
+              />
+            </div>
+            <p className="text-xs md:text-sm text-center text-gray-700 break-words">
+              {candidate.party}
+            </p>
+          </div>
+        )}
     </div>
   );
 }
