@@ -8,6 +8,7 @@ import BEBAS_CEREK_png from "@/images/BEBAS_CEREK.png";
 import BEBAS_CINCIN_png from "@/images/BEBAS_CINCIN.png";
 import BEBAS_GAJAH_png from "@/images/BEBAS_GAJAH.png";
 import BEBAS_JAM_png from "@/images/BEBAS_JAM.png";
+import BEBAS_KERUSI_png from "@/images/BEBAS_KERUSI.png";
 import BEBAS_KUDA_png from "@/images/BEBAS_KUDA.png";
 import BEBAS_KUNCI_png from "@/images/BEBAS_KUNCI.png";
 import BEBAS_MANGGIS_png from "@/images/BEBAS_MANGGIS.png";
@@ -15,6 +16,7 @@ import BEBAS_PEN_png from "@/images/BEBAS_PEN.png";
 import BEBAS_POKOK_png from "@/images/BEBAS_POKOK.png";
 import BEBAS_RUMAH_png from "@/images/BEBAS_RUMAH.png";
 import BEBAS_TRAKTOR_png from "@/images/BEBAS_TRAKTOR.png";
+import BEBAS_UDANG_png from "@/images/BEBAS_UDANG.png";
 import PAKATAN_HARAPAN_PH_png from "@/images/PAKATAN_HARAPAN_PH.png";
 import PARTI_ASPIRASI_RAKYAT_SARAWAK_ASPIRASI_png from "@/images/PARTI_ASPIRASI_RAKYAT_SARAWAK_ASPIRASI.png";
 import PARTI_BANGSA_MALAYSIA_PBM_png from "@/images/PARTI_BANGSA_MALAYSIA_PBM.png";
@@ -46,6 +48,7 @@ export const imageMap = {
   "BEBAS_CINCIN.png": BEBAS_CINCIN_png,
   "BEBAS_GAJAH.png": BEBAS_GAJAH_png,
   "BEBAS_JAM.png": BEBAS_JAM_png,
+  "BEBAS_KERUSI.png": BEBAS_KERUSI_png,
   "BEBAS_KUDA.png": BEBAS_KUDA_png,
   "BEBAS_KUNCI.png": BEBAS_KUNCI_png,
   "BEBAS_MANGGIS.png": BEBAS_MANGGIS_png,
@@ -53,6 +56,7 @@ export const imageMap = {
   "BEBAS_POKOK.png": BEBAS_POKOK_png,
   "BEBAS_RUMAH.png": BEBAS_RUMAH_png,
   "BEBAS_TRAKTOR.png": BEBAS_TRAKTOR_png,
+  "BEBAS_UDANG.png": BEBAS_UDANG_png,
   "PAKATAN_HARAPAN_PH.png": PAKATAN_HARAPAN_PH_png,
   "PARTI_ASPIRASI_RAKYAT_SARAWAK_ASPIRASI.png": PARTI_ASPIRASI_RAKYAT_SARAWAK_ASPIRASI_png,
   "PARTI_BANGSA_MALAYSIA_PBM.png": PARTI_BANGSA_MALAYSIA_PBM_png,
