@@ -25,6 +25,58 @@ export const metadata = {
       },
     ],
   },
+  description: {
+    en: "HelloYB.my is a fast, data-focused web application providing voters in Sabah with clear, structured election information for the 2025 state elections. Explore constituencies, candidates, past election results, and trends in one easy-to-use interface.",
+    bm: "HelloYB.my ialah aplikasi web pantas dan berfokus data yang menyediakan pengundi di Sabah dengan maklumat pilihan raya yang jelas dan tersusun untuk Pilihan Raya Negeri Sabah 2025. Terokai kawasan pilihan raya, calon, keputusan lalu, dan tren dalam satu antara muka yang mudah digunakan.",
+  },
+  keywords: [
+    // English
+    "Sabah elections",
+    "17th Sabah state election",
+    "PRN Sabah 2025",
+    "voter information",
+    "constituency results",
+    "candidate information",
+    "election transparency",
+    "election trends",
+    "election data",
+    "HelloYB.my",
+    // Bahasa Malaysia
+    "Pilihan Raya Umum Dewan Undangan Negeri Sabah ke-17",
+    "pilihan raya Sabah",
+    "calon pilihan raya",
+    "keputusan pilihan raya",
+    "maklumat pengundi",
+    "PRN Sabah",
+    "Pilihan Raya Negeri Sabah 2025",
+  ],
+  openGraph: {
+    title: "HelloYB.my – Sabah Election Information 2025",
+    description:
+      "Access clear, structured election information for the 2025 Sabah state elections. Explore constituencies, candidates, past results, and trends with HelloYB.my.",
+    url: "https://helloyb.my",
+    siteName: "HelloYB.my",
+    images: [
+      {
+        url: "https://github.com/user-attachments/assets/affc9a6a-f599-4688-abe9-1b04592a7daf",
+        width: 1920,
+        height: 726,
+        alt: "HelloYB.my banner",
+      },
+    ],
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "HelloYB.my – Sabah Election Information 2025",
+    description:
+      "Explore constituencies, candidates, and past election results for the 2025 Sabah state elections in one easy-to-use interface.",
+    images: [
+      "https://github.com/user-attachments/assets/affc9a6a-f599-4688-abe9-1b04592a7daf",
+    ],
+    site: "@TayYiJiun", // optional, your Twitter handle
+    creator: "@TayYiJiun", // optional, your Twitter handle
+  },
 };
 
 export default function RootLayout({
