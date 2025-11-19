@@ -21,9 +21,10 @@ const detectLang = (acceptLanguage: string | null) => {
 export async function generateMetadata({
   headers,
 }: {
-  headers: Headers;
+  headers?: Headers;
 }): Promise<Metadata> {
-  const lang = detectLang(headers.get("accept-language"));
+  const acceptLanguage = headers?.get("accept-language") ?? "en"; // fallback
+  const lang = detectLang(acceptLanguage);
 
   // Common keywords (both languages included)
   const keywords = [
