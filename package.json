@@ -17,6 +17,8 @@
     "colors:watch": "tsx scripts/generate-party-colors.ts --watch"
   },
   "dependencies": {
+    "@vercel/analytics": "^1.5.0",
+    "@vercel/speed-insights": "^1.2.0",
     "chokidar": "^4.0.3",
     "csv-parse": "^6.1.0",
     "fs-extra": "^11.3.2",
