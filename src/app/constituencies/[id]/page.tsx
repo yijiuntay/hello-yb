@@ -133,7 +133,7 @@ export default async function ConstituencyPage({
           </section>
 
           {/* Work In Progress Banner */}
-          <WorkInProgressBanner />
+          {/* <WorkInProgressBanner /> */}
 
           {/* Demographics Section */}
           <DemographicsSection censusDataRecord={censusDataRecord} />
