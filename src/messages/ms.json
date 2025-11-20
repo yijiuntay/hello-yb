@@ -1,0 +1,111 @@
+{
+  "Header": {
+    "title": "Hello YB"
+  },
+  "Footer": {
+    "copyright": "© 2025 Hello YB. Hak Cipta Terpelihara."
+  },
+  "BackToTopButton": {
+    "label": "Kembali ke atas"
+  },
+  "WorkInProgress": {
+    "banner": "DALAM PEMBINAAN • Data sedang disahkan dan dikemas kini"
+  },
+  "ConstituencySearch": {
+    "placeholder": "Cari kawasan pilihan raya anda...",
+    "noMatches": "Tiada padanan ditemui"
+  },
+  "Homepage": {
+    "metadata": {
+      "title": "Hello YB!"
+    },
+    "hero": {
+      "title": "Hello YB!",
+      "subtitle": "Kenali Wakil Rakyat Anda",
+      "description": "Laman ini membantu anda mengenali kawasan pilihan raya dan calon-calonnya. Maklumat tepat untuk pengundi bijak.",
+      "buttonCheckEligibility": "Semak Kelayakan Pengundi",
+      "buttonViewAll": "Lihat Semua Kawasan",
+      "helperText": "Tidak pasti di mana hendak bermula? Semak kelayakan mengundi anda atau terokai semua kawasan untuk mengetahui lebih lanjut tentang kawasan dan wakil-wakilnya."
+    },
+    "howItWorks": {
+      "title": "Misi Anda Untuk Mengundi",
+      "step1": {
+        "title": "Cari Medan Pertempuran Anda",
+        "description": "Tentukan kawasan pilihan raya anda. Ketahui di mana anda berada!"
+      },
+      "step2": {
+        "title": "Tinjau Para Pencabar",
+        "description": "Dapatkan senarai jelas semua calon. Lihat statistik dan platform mereka."
+      },
+      "step3": {
+        "title": "Lemparkan Undi Penentu Anda",
+        "description": "Berbekalkan pengetahuan, buat pilihan yang termaklum. Kejayaan!"
+      }
+    }
+  },
+  "ConstituenciesPage": {
+    "metadata": {
+      "title": "Semua Kawasan"
+    },
+    "title": "PILIH ARENA ANDA",
+    "subtitle": "Pencabar Pilihan Raya Negeri Sabah 2025 (SE-17)"
+  },
+  "ConstituencyBrowser": {
+    "placeholder": "CARI PENCABAR ATAU ARENA...",
+    "notFound": {
+      "title": "TIADA PENCABAR DITEMUI!",
+      "description": "Cuba nama atau kod arena yang lain."
+    }
+  },
+  "CandidatesSection": {
+    "title": "Calon-calon",
+    "emptyState": "Tiada calon ditemui untuk kawasan ini.",
+    "dataSource": "Sumber Data: Suruhanjaya Pilihan Raya Malaysia"
+  },
+  "CandidateComparison": {
+    "title": "Perbandingan Calon",
+    "closeLabel": "Tutup",
+    "closeButton": "Tutup Perbandingan",
+    "tableHeader": {
+      "attribute": "Atribut"
+    },
+    "tableRow": {
+      "party": "Parti",
+      "age": "Umur",
+      "occupation": "Pekerjaan",
+      "education": "Pendidikan"
+    }
+  },
+  "Demographics": {
+    "title": "Demografi",
+    "totalPopulation": "Jumlah Penduduk:",
+    "ageDistributionTitle": "Taburan Umur",
+    "ethnicCompositionTitle": "Komposisi Etnik",
+    "dataSourcePrefix": "Sumber Data:",
+    "dataSource": "Jabatan Perangkaan Malaysia — {year}",
+    "ageGroups": {
+      "under18": "Bawah 18 tahun",
+      "between18and64": "18–64 tahun",
+      "above65": "65 tahun dan ke atas"
+    },
+    "ethnicity": {
+      "bumiputera": "Bumiputera",
+      "chinese": "Cina",
+      "indian": "India",
+      "other": "Lain-lain"
+    }
+  },
+  "PastResults": {
+    "title": "Keputusan Pilihan Raya Lalu",
+    "electionYearTitle": "Pilihan Raya {year}",
+    "winnerLabel": "Pemenang:",
+    "partyLabel": "Parti:",
+    "majorityLabel": "Majoriti:",
+    "turnoutLabel": "PERATUS KELUAR MENGUNDI",
+    "voteDistributionTitle": "Taburan Undi:",
+    "wasIncumbent": "Adalah Penyandang",
+    "dataSource": "Keputusan Pilihan Raya Rasmi",
+    "dataSourcePrefix": "Sumber Data:",
+    "notAvailable": "T/A"
+  }
+}

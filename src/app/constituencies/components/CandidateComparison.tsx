@@ -1,3 +1,7 @@
+"use client";
+
+import { useLanguage } from "@/app/context/LanguageContext";
+
 interface Candidate {
   id: string;
   name: string;
@@ -15,18 +19,20 @@ export default function CandidateComparison({
   candidates: Candidate[];
   onClose: () => void;
 }) {
+  const { t } = useLanguage();
+
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/80">
       <div className="bg-blue-500 border-4 border-black shadow-[12px_12px_0px_rgba(0,0,0,0.8)] max-w-6xl w-full max-h-[90vh] overflow-y-auto">
         {/* Header */}
         <div className="sticky top-0 bg-yellow-300 border-b-4 border-black p-4 flex justify-between items-center z-10">
           <h3 className="text-lg md:text-2xl text-black font-bold">
-            Candidate Comparison
+            {t("CandidateComparison.title")}
           </h3>
           <button
             onClick={onClose}
             className="px-4 py-2 bg-black text-yellow-300 border-4 border-black text-xl font-bold hover:bg-gray-800 transition-colors"
-            aria-label="Close"
+            aria-label={t("CandidateComparison.closeLabel")}
           >
             ✕
           </button>
@@ -38,7 +44,7 @@ export default function CandidateComparison({
             <thead>
               <tr className="bg-yellow-300 border-b-4 border-black">
                 <th className="p-2 md:p-3 text-left border-r-4 border-black font-bold">
-                  Attribute
+                  {t("CandidateComparison.tableHeader.attribute")}
                 </th>
                 {candidates.map((candidate) => (
                   <th
@@ -56,7 +62,7 @@ export default function CandidateComparison({
             <tbody className="text-black">
               <tr className="border-b-2 border-black">
                 <td className="p-2 md:p-3 font-bold border-r-4 border-black bg-gray-100">
-                  Party
+                  {t("CandidateComparison.tableRow.party")}
                 </td>
                 {candidates.map((candidate) => (
                   <td
@@ -69,7 +75,7 @@ export default function CandidateComparison({
               </tr>
               <tr className="border-b-2 border-black">
                 <td className="p-2 md:p-3 font-bold border-r-4 border-black bg-gray-100">
-                  Age
+                  {t("CandidateComparison.tableRow.age")}
                 </td>
                 {candidates.map((candidate) => (
                   <td
@@ -82,7 +88,7 @@ export default function CandidateComparison({
               </tr>
               <tr className="border-b-2 border-black">
                 <td className="p-2 md:p-3 font-bold border-r-4 border-black bg-gray-100">
-                  Occupation
+                  {t("CandidateComparison.tableRow.occupation")}
                 </td>
                 {candidates.map((candidate) => (
                   <td
@@ -95,7 +101,7 @@ export default function CandidateComparison({
               </tr>
               <tr>
                 <td className="p-2 md:p-3 font-bold border-r-4 border-black bg-gray-100">
-                  Education
+                  {t("CandidateComparison.tableRow.education")}
                 </td>
                 {candidates.map((candidate) => (
                   <td
@@ -116,7 +122,7 @@ export default function CandidateComparison({
             onClick={onClose}
             className="w-full md:w-auto px-6 py-3 bg-yellow-300 text-black border-4 border-black text-sm md:text-base font-bold hover:bg-yellow-400 transition-colors shadow-[4px_4px_0px_#000]"
           >
-            Close Comparison
+            {t("CandidateComparison.closeButton")}
           </button>
         </div>
       </div>

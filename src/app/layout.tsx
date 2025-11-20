@@ -1,6 +1,7 @@
 // src/app/layout.tsx
 import { Press_Start_2P } from "next/font/google";
 import "./globals.css";
+import { LanguageProvider } from "./context/LanguageContext";
 
 const pressStart2P = Press_Start_2P({
   weight: "400",
@@ -11,7 +12,7 @@ const pressStart2P = Press_Start_2P({
 export const metadata = {
   // ... other metadata
   icons: {
-    icon: "/favicon.png", // Reference the file in the public directory
+    icon: "/favicon.png",
     shortcut: "/favicon.png",
     apple: "/favicon.png",
     other: [
@@ -36,7 +37,9 @@ export default function RootLayout({
         className={`${pressStart2P.variable} antialiased`}
         suppressHydrationWarning
       >
-        {children}
+        <LanguageProvider>
+          {children}
+        </LanguageProvider>
       </body>
     </html>
   );

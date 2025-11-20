@@ -1,4 +1,10 @@
+"use client";
+
+import { useLanguage } from "@/app/context/LanguageContext";
+
 export default function WorkInProgressBanner() {
+  const { t } = useLanguage();
+
   return (
     <div className="bg-yellow-300 border-y-4 border-black py-4">
       <div className="container mx-auto px-4">
@@ -7,7 +13,7 @@ export default function WorkInProgressBanner() {
             ⚠
           </div>
           <p className="text-black text-xs md:text-sm font-bold text-center">
-            🚧 UNDER CONSTRUCTION • Data being verified and updated 🚧
+            🚧 {t("WorkInProgress.banner")} 🚧
           </p>
         </div>
       </div>
