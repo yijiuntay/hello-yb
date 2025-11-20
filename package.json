@@ -17,7 +17,8 @@
     "colors:watch": "tsx scripts/generate-party-colors.ts --watch"
   },
   "dependencies": {
-    "@prisma/client": "^6.17.0",
+    "@vercel/analytics": "^1.5.0",
+    "@vercel/speed-insights": "^1.2.0",
     "chokidar": "^4.0.3",
     "csv-parse": "^6.1.0",
     "fs-extra": "^11.3.2",
@@ -38,7 +39,6 @@
     "eslint": "^9",
     "eslint-config-next": "15.5.4",
     "npm-run-all": "^4.1.5",
-    "prisma": "^6.17.0",
     "tailwindcss": "^4",
     "ts-node": "^10.9.2",
     "tsx": "^4.20.6",
