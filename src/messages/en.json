@@ -1,0 +1,111 @@
+{
+  "Header": {
+    "title": "Hello YB"
+  },
+  "Footer": {
+    "copyright": "© 2025 Hello YB. All Rights Reserved."
+  },
+  "BackToTopButton": {
+    "label": "Back to top"
+  },
+  "WorkInProgress": {
+    "banner": "UNDER CONSTRUCTION • Data being verified and updated"
+  },
+  "ConstituencySearch": {
+    "placeholder": "Search your constituency...",
+    "noMatches": "No matches found"
+  },
+  "Homepage": {
+    "metadata": {
+      "title": "Hello YB!"
+    },
+    "hero": {
+      "title": "Hello YB!",
+      "subtitle": "Get to Know Your Representative",
+      "description": "This site helps you get to know your electoral constituency and its candidates. Accurate information for smart voters.",
+      "buttonCheckEligibility": "Check Voter Eligibility",
+      "buttonViewAll": "View All Constituencies",
+      "helperText": "Not sure where to start? Check your voting eligibility or browse all constituencies to learn more about the areas and their representatives."
+    },
+    "howItWorks": {
+      "title": "Your Quest To Vote",
+      "step1": {
+        "title": "Find Your Battlefield",
+        "description": "Pinpoint your electoral constituency. Know where you stand!"
+      },
+      "step2": {
+        "title": "Scout The Challengers",
+        "description": "Get a clear list of all candidates. See their stats and platforms."
+      },
+      "step3": {
+        "title": "Cast Your Decisive Vote",
+        "description": "Armed with knowledge, make an informed choice. Victory!"
+      }
+    }
+  },
+  "ConstituenciesPage": {
+    "metadata": {
+      "title": "All Constituencies"
+    },
+    "title": "CHOOSE YOUR ARENA",
+    "subtitle": "Sabah State Election 2025 (SE-17) Challengers"
+  },
+  "ConstituencyBrowser": {
+    "placeholder": "SEARCH CHALLENGER OR ARENA...",
+    "notFound": {
+      "title": "NO CHALLENGERS FOUND!",
+      "description": "Try a different name or arena code."
+    }
+  },
+  "CandidatesSection": {
+    "title": "Candidates",
+    "emptyState": "No candidates found for this constituency.",
+    "dataSource": "Data Source: Electoral Commission of Malaysia"
+  },
+  "CandidateComparison": {
+    "title": "Candidate Comparison",
+    "closeLabel": "Close",
+    "closeButton": "Close Comparison",
+    "tableHeader": {
+      "attribute": "Attribute"
+    },
+    "tableRow": {
+      "party": "Party",
+      "age": "Age",
+      "occupation": "Occupation",
+      "education": "Education"
+    }
+  },
+  "Demographics": {
+    "title": "Demographics",
+    "totalPopulation": "Total Population:",
+    "ageDistributionTitle": "Age Distribution",
+    "ethnicCompositionTitle": "Ethnic Composition",
+    "dataSourcePrefix": "Data Source:",
+    "dataSource": "Department of Statistics Malaysia — {year}",
+    "ageGroups": {
+      "under18": "Under 18 years",
+      "between18and64": "18–64 years",
+      "above65": "65 years and above"
+    },
+    "ethnicity": {
+      "bumiputera": "Bumiputera",
+      "chinese": "Chinese",
+      "indian": "Indian",
+      "other": "Other"
+    }
+  },
+  "PastResults": {
+    "title": "Past Election Results",
+    "electionYearTitle": "{year} Election",
+    "winnerLabel": "Winner:",
+    "partyLabel": "Party:",
+    "majorityLabel": "Majority:",
+    "turnoutLabel": "VOTER TURNOUT",
+    "voteDistributionTitle": "Vote Distribution:",
+    "wasIncumbent": "Was Incumbent",
+    "dataSource": "Official Election Results",
+    "dataSourcePrefix": "Data Source:",
+    "notAvailable": "N/A"
+  }
+}

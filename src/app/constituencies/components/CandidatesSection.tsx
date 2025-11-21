@@ -2,12 +2,14 @@
 
 import CandidateCard from "./CandidateCard";
 import { Candidate } from "@/types";
+import { useLanguage } from "@/app/context/LanguageContext";
 
 export default function CandidatesSection({
   candidates,
 }: {
   candidates: Candidate[];
 }) {
+  const { t } = useLanguage();
   const noCandidates = !candidates || candidates.length === 0;
 
   return (
@@ -17,14 +19,14 @@ export default function CandidatesSection({
           className="text-2xl md:text-4xl text-center text-yellow-300 mb-8"
           style={{ textShadow: "3px 3px 0px #000" }}
         >
-          Candidates
+          {t("CandidatesSection.title")}
         </h3>
 
         {/* Empty state */}
         {noCandidates && (
           <div className="max-w-3xl mx-auto bg-yellow-300 text-black border-4 border-black p-6 rounded shadow-[6px_6px_0px_rgba(0,0,0,0.8)] text-center">
             <p className="font-bold text-sm md:text-base">
-              No candidates found for this constituency.
+              {t("CandidatesSection.emptyState")}
             </p>
           </div>
         )}
@@ -48,7 +50,7 @@ export default function CandidatesSection({
         {/* Data Source */}
         <div className="max-w-5xl mx-auto mt-8">
           <p className="text-xs md:text-sm text-center opacity-75">
-            📊 Data Source: Electoral Commission of Malaysia
+            📊 {t("CandidatesSection.dataSource")}
           </p>
         </div>
       </div>

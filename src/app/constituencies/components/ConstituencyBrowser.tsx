@@ -1,8 +1,9 @@
 "use client";
 
-import React, { useState, memo } from "react";
+import React, { useState } from "react";
 import type { Constituency, Candidate } from "@/types";
 import ConstituencyCard from "./ConstituencyCard";
+import { useLanguage } from "@/app/context/LanguageContext";
 
 // Extend Constituency to include candidates
 type ConstituencyWithCandidates = Constituency & {
@@ -14,6 +15,7 @@ interface Props {
 }
 
 export default function ConstituencyBrowser({ constituencies }: Props) {
+  const { t } = useLanguage();
   const [searchTerm, setSearchTerm] = useState("");
 
   const filteredData = constituencies.filter((c) => {
@@ -30,7 +32,7 @@ export default function ConstituencyBrowser({ constituencies }: Props) {
       <div className="mb-12 text-center">
         <input
           type="text"
-          placeholder="SEARCH CHALLENGER OR ARENA..."
+          placeholder={t("ConstituencyBrowser.placeholder")}
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
           className="w-full max-w-lg p-4 bg-blue-900 border-4 border-blue-950 text-yellow-300 placeholder-gray-400 text-center text-lg input-focus-pixel transition-shadow"
@@ -54,10 +56,10 @@ export default function ConstituencyBrowser({ constituencies }: Props) {
             className="text-2xl text-red-500"
             style={{ textShadow: "2px 2px 0px #172554" }}
           >
-            NO CHALLENGERS FOUND!
+            {t("ConstituencyBrowser.notFound.title")}
           </p>
           <p className="mt-4 text-lg text-gray-300">
-            Try a different name or arena code.
+            {t("ConstituencyBrowser.notFound.description")}
           </p>
         </div>
       )}

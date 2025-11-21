@@ -4,6 +4,7 @@ import "./globals.css";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import { Analytics } from "@vercel/analytics/next";
 import type { Metadata } from "next";
+import { LanguageProvider } from "./context/LanguageContext";
 
 const pressStart2P = Press_Start_2P({
   weight: "400",
@@ -115,9 +116,11 @@ export default function RootLayout({
         className={`${pressStart2P.variable} antialiased`}
         suppressHydrationWarning
       >
-        {children}
-        <Analytics />
-        <SpeedInsights />
+        <LanguageProvider>
+          {children}
+          <Analytics />
+          <SpeedInsights />
+        </LanguageProvider>
       </body>
     </html>
   );
