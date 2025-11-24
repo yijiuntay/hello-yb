@@ -22,7 +22,7 @@ export default function CandidateCard({ candidate }: { candidate: Candidate }) {
         <div className="flex items-center gap-1.5 bg-blue-50 text-blue-600 px-3 py-1 border-2 border-blue-600 shadow-[2px_2px_0px_#2563eb] mb-4 -rotate-2 transform transition-transform hover:rotate-0">
           <BadgeCheck size={16} strokeWidth={2.5} />
           <span className="text-xs font-extrabold uppercase tracking-widest">
-            Incumbent
+            {t("CandidateCard.incumbent")}
           </span>
         </div>
       )}

@@ -151,7 +151,7 @@ export default function PastResultsSection({
         </div>
 
         {/* Data Source */}
-        <div className="max-w-5xl mx-auto mt-6">
+        <div className="max-w-5xl mx-auto mt-6 text-center space-y-4">
           <p className="text-xs md:text-sm text-center opacity-75">
             📊 {t("PastResults.dataSourcePrefix")} {t("PastResults.dataSource")}
           </p>
@@ -162,7 +162,7 @@ export default function PastResultsSection({
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-yellow-300 text-black font-black uppercase tracking-wider py-3 px-6 border-4 border-black shadow-[6px_6px_0px_#000] hover:translate-x-[2px] hover:translate-y-[2px] hover:shadow-[2px_2px_0px_#000] hover:bg-yellow-400 transition-all text-sm md:text-base"
           >
-            <span>View More Past Election Results</span>
+            <span>{t("PastResults.viewMorePastResults")}</span>
             <span className="text-xl leading-none">↗</span>
           </a>
         </div>
