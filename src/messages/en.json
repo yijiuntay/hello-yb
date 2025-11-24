@@ -76,6 +76,9 @@
       "education": "Education"
     }
   },
+  "CandidateCard": {
+    "incumbent": "Incumbent"
+  },
   "Demographics": {
     "title": "Demographics",
     "totalPopulation": "Total Population:",
@@ -106,6 +109,7 @@
     "wasIncumbent": "Was Incumbent",
     "dataSource": "Official Election Results",
     "dataSourcePrefix": "Data Source:",
-    "notAvailable": "N/A"
+    "notAvailable": "N/A",
+    "viewMorePastResults":"View More Past Election Results"
   }
 }

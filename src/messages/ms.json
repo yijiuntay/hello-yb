@@ -76,6 +76,9 @@
       "education": "Pendidikan"
     }
   },
+  "CandidateCard": {
+    "incumbent": "Penyandang"
+  },
   "Demographics": {
     "title": "Demografi",
     "totalPopulation": "Jumlah Penduduk:",
@@ -106,6 +109,7 @@
     "wasIncumbent": "Adalah Penyandang",
     "dataSource": "Keputusan Pilihan Raya Rasmi",
     "dataSourcePrefix": "Sumber Data:",
-    "notAvailable": "T/A"
+    "notAvailable": "T/A",
+    "viewMorePastResults":"Lihat Lagi Keputusan Pilihan Raya Lalu"
   }
 }
