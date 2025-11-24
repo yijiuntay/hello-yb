@@ -1,10 +1,23 @@
 import { getConstituencies, getCandidates } from "@/lib/data";
 import { Constituency, Candidate } from "@/types";
 import ConstituenciesView from "../components/ConstituenciesView";
+import { Metadata } from "next";
+import { headers } from "next/headers";
 
-export const metadata = {
-  title: "All Constituencies",
+const detectLang = (acceptLanguage: string | null) => {
+  if (!acceptLanguage) return "en";
+  return acceptLanguage.toLowerCase().startsWith("ms") ? "ms" : "en";
 };
+
+export async function generateMetadata(): Promise<Metadata> {
+  const headersList = await headers();
+  const acceptLanguage = headersList.get("accept-language");
+  const lang = detectLang(acceptLanguage);
+
+  return {
+    title: lang === "ms" ? "Semua Kawasan Pilihan Raya" : "All Constituencies",
+  };
+}
 
 const GlobalStyles = () => (
   <style>{`

@@ -62,6 +62,7 @@ export async function generateMetadata({
   };
 
   return {
+    title: titles[lang],
     description: descriptions[lang],
     keywords,
     openGraph: {
