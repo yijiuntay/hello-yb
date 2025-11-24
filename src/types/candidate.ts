@@ -6,4 +6,5 @@ export interface Candidate {
   party: string;
   party_id: string;
   logo_path: string;
+  wasIncumbent: boolean;
 }
