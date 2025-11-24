@@ -1,9 +1,11 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { ArrowUp } from "lucide-react"; // or replace with your pixel-art icon
+import { ArrowUp } from "lucide-react";
+import { useLanguage } from "@/app/context/LanguageContext";
 
 export default function BackToTopButton() {
+  const { t } = useLanguage();
   const [visible, setVisible] = useState(false);
 
   useEffect(() => {
@@ -22,7 +24,7 @@ export default function BackToTopButton() {
   return (
     <button
       onClick={scrollToTop}
-      aria-label="Back to top"
+      aria-label={t("BackToTopButton.label")}
       className={`fixed bottom-6 right-6 bg-yellow-300 border-4 border-black text-black p-3 md:p-4 shadow-[4px_4px_0px_#000] hover:bg-yellow-400 active:translate-y-0.5 transition-all duration-200 ease-out
         ${
           visible

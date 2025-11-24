@@ -1,9 +1,13 @@
+"use client";
+
 import Image from "next/image";
 import { Candidate } from "@/types";
 import { imageMap } from "@/lib/imageMap";
 import { BadgeCheck } from "lucide-react";
+import { useLanguage } from "@/app/context/LanguageContext";
 
 export default function CandidateCard({ candidate }: { candidate: Candidate }) {
+  const { t } = useLanguage();
   const isIncumbent = String(candidate.wasIncumbent).toUpperCase() === "TRUE";
 
   return (
@@ -40,7 +44,7 @@ export default function CandidateCard({ candidate }: { candidate: Candidate }) {
             <div className="mb-1">
               <Image
                 src={imageMap[candidate.logo_path as keyof typeof imageMap]}
-                alt={candidate.party}
+                alt={t("CandidateCard.partyLogoAlt", { party: candidate.party })}
                 width={60}
                 height={60}
                 className="object-contain"

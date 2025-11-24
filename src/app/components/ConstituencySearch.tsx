@@ -3,6 +3,7 @@
 import { useState, useEffect, useRef } from "react";
 import { useRouter } from "next/navigation";
 import Magnifier from "@/app/components/icons/Magnifier";
+import { useLanguage } from "../context/LanguageContext";
 
 interface Constituency {
   id: string;
@@ -15,13 +16,13 @@ export default function ConstituencySearch({
 }: {
   constituencies: Constituency[];
 }) {
+  const { t } = useLanguage(); // Hook
   const [query, setQuery] = useState("");
   const [isFocused, setIsFocused] = useState(false);
   const [highlightedIndex, setHighlightedIndex] = useState<number | null>(null);
   const router = useRouter();
   const listRef = useRef<HTMLUListElement>(null);
 
-  // Filtered list (if query empty + focused => show all)
   const filtered = constituencies.filter((c) => {
     const q = query.toLowerCase();
     if (!q) return true;
@@ -32,7 +33,6 @@ export default function ConstituencySearch({
     );
   });
 
-  // Highlight matching text
   const highlightMatch = (text: string) => {
     if (!query) return text;
     const regex = new RegExp(`(${query})`, "gi");
@@ -47,10 +47,8 @@ export default function ConstituencySearch({
     );
   };
 
-  // Handle keyboard navigation
   const handleKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
     if (!isFocused || filtered.length === 0) return;
-
     switch (e.key) {
       case "ArrowDown":
         e.preventDefault();
@@ -58,14 +56,12 @@ export default function ConstituencySearch({
           prev === null || prev === filtered.length - 1 ? 0 : prev + 1
         );
         break;
-
       case "ArrowUp":
         e.preventDefault();
         setHighlightedIndex((prev) =>
           prev === null || prev === 0 ? filtered.length - 1 : prev - 1
         );
         break;
-
       case "Enter":
         e.preventDefault();
         if (highlightedIndex !== null && filtered[highlightedIndex]) {
@@ -73,13 +69,9 @@ export default function ConstituencySearch({
           setIsFocused(false);
         }
         break;
-
-      default:
-        break;
     }
   };
 
-  // Ensure highlighted item stays visible
   useEffect(() => {
     if (highlightedIndex !== null && listRef.current) {
       const list = listRef.current.children[highlightedIndex] as HTMLElement;
@@ -89,7 +81,6 @@ export default function ConstituencySearch({
 
   return (
     <div className="relative w-full max-w-lg mx-auto px-2 sm:px-0">
-      {/* Search Bar */}
       <div className="flex items-center border-4 border-black bg-yellow-200 text-black px-3 py-2 sm:px-4 sm:py-3 shadow-[4px_4px_0px_#000000] focus-within:bg-yellow-300 transition-all duration-150">
         <Magnifier className="mr-2 sm:mr-3 flex-shrink-0" />
         <input
@@ -100,18 +91,14 @@ export default function ConstituencySearch({
             setHighlightedIndex(null);
           }}
           onFocus={() => setIsFocused(true)}
-          onBlur={() => {
-            // Delay blur so clicks still register
-            setTimeout(() => setIsFocused(false), 150);
-          }}
+          onBlur={() => setTimeout(() => setIsFocused(false), 150)}
           onKeyDown={handleKeyDown}
-          placeholder="Search your constituency..."
+          placeholder={t("ConstituencySearch.placeholder")}
           className="w-full text-sm sm:text-base font-bold placeholder-black/50 focus:outline-none truncate"
           style={{ fontFamily: "'Press Start 2P', cursive" }}
         />
       </div>
 
-      {/* Dropdown */}
       {isFocused && (
         <ul
           ref={listRef}
@@ -140,26 +127,11 @@ export default function ConstituencySearch({
             ))
           ) : (
             <li className="px-3 sm:px-4 py-2 text-xs sm:text-sm text-black/60">
-              No matches found
+              {t("ConstituencySearch.noMatches")}
             </li>
           )}
         </ul>
       )}
-
-      {/* Custom Scrollbar */}
-      <style jsx>{`
-        ul::-webkit-scrollbar {
-          width: 8px;
-        }
-        ul::-webkit-scrollbar-track {
-          background: #fef08a;
-        }
-        ul::-webkit-scrollbar-thumb {
-          background-color: #000;
-          border-radius: 0;
-          border: 2px solid #fef08a;
-        }
-      `}</style>
     </div>
   );
 }
