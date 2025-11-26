@@ -23,7 +23,11 @@ export default function ConstituencyBrowser({ constituencies }: Props) {
     return (
       c.name.toLowerCase().includes(term) ||
       c.code.toLowerCase().includes(term) ||
-      c.candidates.some((cand) => cand.name.toLowerCase().includes(term))
+      c.candidates.some(
+        (cand) =>
+          cand.name.toLowerCase().includes(term) ||
+          cand.party.toLowerCase().includes(term)
+      )
     );
   });
 
